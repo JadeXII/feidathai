@@ -1,0 +1,63 @@
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp;</span></span></p>
+
+<h1 style=\"margin-left:0px; margin-right:0px; text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">คุณคิดว่า เสื้อชั้นในสตรีสามารถตรวจจับมะเร็งเต้านมได้หรือไม่</span></span></h1>
+
+<div class=\"story-body__inner\" property=\"articleBody\" style=\"border:0px; font-stretch:inherit; font-variant-numeric:inherit; line-height:inherit; margin-bottom:0px; margin-left:53.7656px; margin-right:53.7656px; margin-top:0px; padding:0px; vertical-align:baseline\">
+<p style=\"margin-left:0px; margin-right:0px\">&nbsp;</p>
+
+<p style=\"margin-left:0px; margin-right:0px\">&nbsp;</p>
+
+<p style=\"margin-left:0px; margin-right:0px\">&nbsp;</p>
+
+<p alt=\"เสื้อชั้นในสตรีสามารถตรวจจับมะเร็งเต้านมได้\" class=\"js-image-replace\" data-highest-encountered-width=\"660\" src=\"https://ichef.bbci.co.uk/news/660/cpsprodpb/96FB/production/_95915683_425d3258-75db-470d-aabb-73d7329f0d10.jpg\" style=\"border:0px; color:inherit; display:block; font-family:inherit; font-stretch:inherit; font-style:inherit; font-variant:inherit; font-weight:inherit; height:auto; letter-spacing:inherit; line-height:inherit; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; max-width:100%; padding:0px; user-select:none; vertical-align:baseline; width:645.781px\">&nbsp;</p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">วัยรุ่นชาวเม็กซิโก ประดิษฐ์เสื้อชั้นในสตรีที่สามารถตรวจจับมะเร็งเต้านมได้ แต่ก็ทำให้เกิดคำถามตามมาว่า นวัตกรรมนี้จะใช้ได้จริงหรือไม่ และควรใช้อย่างไร</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">จูเลียน ริโอส คันทู อายุ 18 ปี ได้ประดิษฐ์เสื้อชั้นในสตรี ที่เขาอ้างว่าจะทำหน้าที่เป็นระบบแจ้งเตือนอาการของโรคมะเร็งเต้านมได้</span></p>
+
+<ul class=\"story-body__unordered-list\" style=\"border:0px; color:inherit; font-family:inherit; font-size:14px; font-stretch:inherit; font-style:inherit; font-variant:inherit; font-weight:inherit; letter-spacing:inherit; line-height:inherit; list-style:none; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:18px; padding:0px; vertical-align:baseline\">
+	<li class=\"story-body__list-item\" style=\"border: 0px; color: inherit; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: inherit; letter-spacing: inherit; line-height: 1.55556; margin: 18px 0px 0px 20px; padding: 0px 0px 0px 4px; vertical-align: baseline; list-style: square outside;\">
+	<p><span style=\"font-size:16px\"><a class=\"story-body__link\" href=\"http://www.bbc.com/thai/international-39804561\" style=\"border-width: 0px 0px 1px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: rgb(220, 220, 220); border-left-color: initial; border-image: initial; color: rgb(34, 34, 34); font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: bold; letter-spacing: inherit; line-height: 1.55556; margin: 0px; padding: 0px; vertical-align: baseline; text-decoration-line: none; -webkit-tap-highlight-color: rgba(17, 103, 168, 0.3);\">ขาเทียมกีฬาของอานู</a></span></p>
+	</li>
+	<li class=\"story-body__list-item\" style=\"border: 0px; color: inherit; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: inherit; letter-spacing: inherit; line-height: 1.55556; margin: 18px 0px 0px 20px; padding: 0px 0px 0px 4px; vertical-align: baseline; list-style: square outside;\">
+	<p><span style=\"font-size:16px\"><a class=\"story-body__link\" href=\"http://www.bbc.com/thai/features-39721184\" style=\"border-width: 0px 0px 1px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: rgb(220, 220, 220); border-left-color: initial; border-image: initial; color: rgb(34, 34, 34); font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: bold; letter-spacing: inherit; line-height: 1.55556; margin: 0px; padding: 0px; vertical-align: baseline; text-decoration-line: none; -webkit-tap-highlight-color: rgba(17, 103, 168, 0.3);\">แอปฯ ช่วยผู้ปกครองตรวจจับภาพอนาจารบนมือถือเด็ก</a></span></p>
+	</li>
+	<li class=\"story-body__list-item\" style=\"border: 0px; color: inherit; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: inherit; letter-spacing: inherit; line-height: 1.55556; margin: 18px 0px 0px 20px; padding: 0px 0px 0px 4px; vertical-align: baseline; list-style: square outside;\">
+	<p><span style=\"font-size:16px\"><a class=\"story-body__link\" href=\"http://www.bbc.com/thai/features-39709111\" style=\"border-width: 0px 0px 1px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: rgb(220, 220, 220); border-left-color: initial; border-image: initial; color: rgb(34, 34, 34); font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; font-size: 1.125rem; font-weight: bold; letter-spacing: inherit; line-height: 1.55556; margin: 0px; padding: 0px; vertical-align: baseline; text-decoration-line: none; -webkit-tap-highlight-color: rgba(17, 103, 168, 0.3);\">ถนนจากขยะพลาสติก</a></span></p>
+	</li>
+</ul>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">อีวาบรา เป็นผลงานของคันทู กับเพื่อนอีก 3 คน ที่ร่วมกันก่อตั้งบริษัทไฮเกีย เทคโนโลยี ขึ้น ซึ่งแม้จะยังอยู่ในขั้นพัฒนาต้นแบบ แต่ก็สามารถระดมทุนได้มากพอเพื่อเริ่มทดลองแล้ว โดยในสัปดาห์นี้ พวกเขาได้รับรางวัลชนะเลิศ จากงานส่งเสริมผู้ประกอบการระดับนักศึกษานานาชาติ หรือ Global Student Entrepreneur Awards เป็นเงิน 20,000 ดอลลาร์สหรัฐ (692,000 บาท)</span></p>
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:inherit\"><img alt=\"ประธานาธิบดีแห่งเม็กซิโกทวีตข้อความ แสดงความยินดีกับจูเลียน หลังเขาได้รับรางวัล พร้อมกับโพสต์ภาพนักประดิษฐ์รุ่นเยาว์ กำลังถือไบโอเซนเซอร์ ของอีวาบรา\" class=\"js-image-replace responsive-image__img\" data-highest-encountered-width=\"624\" datasrc=\"https://ichef.bbci.co.uk/news/320/cpsprodpb/BE0B/production/_95915684_99932052-815a-4faf-8418-32046a0489a2.jpg\" src=\"https://ichef.bbci.co.uk/news/624/cpsprodpb/BE0B/production/_95915684_99932052-815a-4faf-8418-32046a0489a2.jpg\" style=\"border:0px; color:#bdbdbd; display:block; font-family:inherit; font-stretch:inherit; font-style:inherit; font-variant:inherit; font-weight:inherit; height:auto; letter-spacing:inherit; line-height:inherit; margin:0px; max-width:100%; padding:0px; transition:opacity 0.2s ease-in; user-select:none; vertical-align:baseline; width:616.203px\" /></span></span></span>
+
+<p><span style=\"font-size:16px\"><span style=\"color:inherit\"><span style=\"color:inherit\">Image copyright</span><span style=\"background-color:rgba(0, 0, 0, 0.6)\">@EPN</span></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"color:inherit\">คำบรรยายภาพ</span><span style=\"color:#ececec\">ประธานาธิบดีแห่งเม็กซิโกทวีตข้อความ แสดงความยินดีกับจูเลียน หลังเขาได้รับรางวัล พร้อมกับโพสต์ภาพนักประดิษฐ์รุ่นเยาว์ กำลังถือไบโอเซนเซอร์ ของอีวาบรา</span></span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\"><strong>วิธีการตรวจจับมะเร็งของเสื้อชั้นในสตรี</strong></span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">เนื้องอกที่เกิดจากมะเร็ง อาจทำให้ผิวหนังมีอุณหภูมิที่แตกต่างออกไป เนื่องจากมีเลือดไหลเวียนมากขึ้น แนวคิดของอีวาบรา ก็คือการใช้ไบโอเซนเซอร์ตรวจวัดอุณหภูมิ เพื่อบันทึกลงแอปพลิเคชัน และแจ้งเตือนผู้ใช้ในกรณีที่มีการเปลี่ยนแปลงที่น่าเป็นห่วง โดยผู้ใช้จะต้องสวมเสื้อชั้นในนี้ประมาณ 60-90 นาทีต่อสัปดาห์ เพื่อให้ได้ค่าวัดที่แม่นยำ</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">เมื่อปีที่แล้ว จูเลียนให้สัมภาษณ์ว่า การนำเซนเซอร์ไปใส่ไว้ในเสื้อชั้นในสตรี หมายถึงการที่เต้านม ต้องอยู่ในที่เดิมทุกครั้งที่วัดอุณหภูมิด้วย</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\"><strong>เสื้อชั้นในสตรี จะสามารถตรวจจับมะเร็งได้จริงหรือไม่</strong></span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">ในขั้นเริ่มต้นการพัฒนานี้ เสื้อชั้นในสตรีที่จูเลียนประดิษฐ์ ยังไม่ได้ผ่านการทดสอบเต็มรูปแบบ และก่อนที่ผู้เชี่ยวชาญด้านมะเร็งจะสามารถนำไปแนะนำให้ใช้ตรวจจับมะเร็งได้ ก็ยังต้องผ่านทดลองทางการแพทย์อีกด้วย</span></p>
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:inherit\"><img alt=\"ผลเลม่อนแทนมะเร็งแต่ละรูปแบบ\" class=\"js-image-replace responsive-image__img\" data-highest-encountered-width=\"624\" datasrc=\"https://ichef-1.bbci.co.uk/news/320/cpsprodpb/1333B/production/_95915687_079c3e95-751f-4870-a639-064c977524f8.jpg\" src=\"https://ichef-1.bbci.co.uk/news/624/cpsprodpb/1333B/production/_95915687_079c3e95-751f-4870-a639-064c977524f8.jpg\" style=\"border:0px; color:#bdbdbd; display:block; font-family:inherit; font-stretch:inherit; font-style:inherit; font-variant:inherit; font-weight:inherit; height:auto; letter-spacing:inherit; line-height:inherit; margin:0px; max-width:100%; padding:0px; transition:opacity 0.2s ease-in; user-select:none; vertical-align:baseline; width:616.203px\" /></span></span></span>
+
+<p><span style=\"font-size:16px\"><span style=\"color:inherit\"><span style=\"color:inherit\">Image copyright</span><span style=\"background-color:rgba(0, 0, 0, 0.6)\">WORLDWIDE BREAST CANCER</span></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"color:inherit\">คำบรรยายภาพ</span><span style=\"color:#ececec\">เพื่อเป็นการสร้างการรับรู้เกี่ยวกับภัยจากมะเร็งเต้านม องค์กรด้านมะเร็งเต้านมใช้ผลเลม่อนรูปร่างต่างกัน แทนมะเร็งลักษณะต่างๆ</span></span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">นางอันนา เปอร์แมน จากศูนย์วิจัยมะเร็งสหราชอาณาจักร กล่าวกับบีบีซีว่า &#39;เรารู้ว่าเนื้องอก มักจะมีระบบเส้นเลือดที่ผิดปกติ แต่เราก็รู้ด้วยว่า การไหวเวียนของโลหิตที่อาจเพิ่มขึ้น ไม่ใช่เครื่องบ่งชี้มะเร็งที่เชื่อถือได้เสมอไป&#39;</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&#39;ในขณะนี้ ยังไม่มีหลักฐานว่า เสื้อชั้นในสตรีดังกล่าว เป็นวิธีตรวจจับเนื้องอกที่เชื่อถือได้ และแน่นอนว่าไม่ใช่ความคิดที่ดี ที่ผู้หญิงจะใช้เทคโนโลยีซึ่งยังไม่ผ่านการทดสอบทางวิทยาศาสตร์ที่มีคุณภาพ นับเป็นเรื่องดีที่คนรุ่นใหม่อย่างจูเลียน หันมาใส่ใจงานด้านวิทยาศาสตร์ และมีแนวคิดที่อาจช่วยตรวจวินิจฉัยมะเร็งได้ แต่ส่วนสำคัญของงานด้านวิทยาศาสตร์คือการทดลองอย่างจริงจัง เพื่อให้นวัตกรรมเช่นนี้ เป็นประโยชน์ต่อผู้ป่วยจริง&#39;</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\"><strong>แรงบันดาลใจของจูเลียนในการประดิษฐ์นวัตกรรมเสื้อชั้นในสตรี</strong></span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">จูเลียน มีแรงจูงใจส่วนตัวที่ทำให้เกิดโครงการนี้ขึ้น เนื่องจากตอนอายุ 13 เขาเกือบต้องสูญเสียแม่ไปด้วยโรคมะเร็ง โดยแพทย์วินิจฉัยผิดว่าก้อนเนื้อที่พบไม่เป็นอันตราย แต่หลังจากนั้น 6 เดือน การตรวจแมมโมแกรมชี้ว่าเป็นมะเร็ง ทำให้ต้องผ่าตัดเต้านมทั้ง 2 ข้าง</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\"><span style=\"color:#404040\">หลังจากค้นคว้าข้อมูลเกี่ยวกับมะเร็งเต้านมและวิธีการวินิจฉัยโรค จูเลียน ก็พัฒนาแนวคิดนี้ขึ้น และได้นำไปจดสิทธิบัตร จากนั้นก็ชวนเพื่อนมาร่วมเปิดธุรกิจ เพื่อผลิตสินค้าที่เขาหวังว่าจะเริ่มวางขายได้ภายในสิ้นปีหน้านี้</span><br />
+<br />
+<span style=\"color:#404040\">ที่มา: http://www.bbc.com/thai</span></span></p>
+</div>

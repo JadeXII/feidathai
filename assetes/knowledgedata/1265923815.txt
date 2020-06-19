@@ -1,0 +1,35 @@
+<table style=\"WIDTH: 900px; BORDER-COLLAPSE: collapse\" bordercolor=\"#b8b8b8\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td>
+            <div align=\"left\">
+            <table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+                <tbody>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m004.jpg\"><img class="img-responsive" title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m04.jpg\" /></a></div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\"><strong></strong>&nbsp;</div>
+                        <div align=\"left\"><strong><font color=\"#0000cc\" size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; วลี&nbsp; เลิศวิเศษกุล</font></strong><strong></strong></div>
+                        </td>
+                    </tr>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div><strong></strong>&nbsp;</div>
+                        <div><strong><font color=\"#0000cc\" size=\"3\">ต้องมีชีวิตอยู่เพื่อคนที่รักเรา</font></strong></div>
+                        <div align=\"justify\"><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></div>
+                        <div align=\"justify\"><font size=\"2\">เมื่อทราบว่าเป็นมะเร็ง ฉันเอาแต่ร้องไห้ตลอด 7 วัน แต่เพื่อสามีและลูกๆ ทั้ง 4 คน ซึ่งรักและเป็นห่วงฉันมาก ฉันก็ตั้งสติได้ และได้ปฏิบัติตามคุณหมอแนะนำ</font></div>
+                        <div align=\"justify\"><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></div>
+                        <div align=\"justify\"><font size=\"2\">ทุกอย่างอยู่ที่ตัวเราเองทั้งสิ้น หากจะป้องกันไม่ให้เกิดโรค ก็ต้องดูแลใส่ใจตัวเองเลือกรับประทานอาหารที่เป็นประโยชน์ หากป่วยเป็นโรค ก็อยู่ที่ตัวเองอีกเช่นกัน ที่จะต้องดูแลตัวเองให้หายจากโรค </font></div>
+                        <div align=\"justify\"><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+                        <div align=\"justify\"><font size=\"2\">ทุกคนที่เผชิญกับโรคมะเร็ง จะต้องสร้างกำลังใจให้ตัวเองมากๆ มองสิ่งรอบข้างในทางที่ดี การคิดแง่บวกจะทำให้จิตใจดี&nbsp;&nbsp; โรคมะเร็งไม่ใช่โรคที่เป็นแล้วต้องตายทุกคน ทุกอย่างอยู่ที่ตัวเรา ถ้าเราลุกขึ้นสู้ก็สามารถรอดได้</font></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

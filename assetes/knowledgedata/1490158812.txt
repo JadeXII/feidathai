@@ -1,0 +1,70 @@
+<div style=\"text-align:center\">
+<div style=\"text-align:left\">&nbsp;</div>
+
+<div style=\"text-align:center\"><strong><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">การตรวจ MRI</span></span></strong><br />
+&nbsp;
+<p><strong><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><img alt=\"\" class=\"img-responsive\" src=\"/UserFiles/Image/MRi.jpg\" style=\"height:292px; width:560px\" /></span></span></strong></p>
+</div>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;เครื่องสร้างภาพด้วยสนามแม่เหล็กไฟฟ้า (Magnetic Resonance Imaging : MRI) เป็นเทคโนโลยีทางการแพทย์ที่คิดค้นขึ้นเพื่อนำมาใช้วินิจฉัยและติดตามผลการรักษาได้ชัดเจนดียิ่งขึ้น โดยอาศัยหลักการของคลื่นแม่เหล็กไฟฟ้าและคลื่นวิทยุ ด้วยการส่งคลื่นวิทยุเข้าสู่อวัยวะเป้าหมาย และรับคลื่นสะท้อนกลับแล้วนาสัญญาณที่ได้มาประมวลผลและสร้างภาพด้วยคอมพิวเตอร์ โดยภาพที่ได้จะเป็นภาพเสมือนจริงในหลายๆ ระนาบ จึงทาให้แพทย์สามารถมองหาสิ่งผิดปกติที่เกิดขึ้นในร่างกายได้อย่างละเอียด ดังนั้นการตรวจด้วยเครื่อง MRI จึงมีความปลอดภัยค่อนข้างสูงสาหรับผู้ป่วย เนื่องจากไม่มีผลข้างเคียงทางด้านรังสี</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;เวลาในการตรวจโดยทั่วไปประมาณครึ่งชั่วโมง &ndash; 2 ชั่วโมง ขึ้นอยู่กับอวัยวะที่จะตรวจและโรคที่สงสัยและในระหว่างการตรวจจะมีเสียงดังเป็นระยะๆ จากการทางานของเครื่อง</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\"><strong>การตรวจ MRI สามารถใช้ตรวจได้ในเกือบทุกอวัยวะ</strong> ได้แก่</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- อวัยวะภายในกะโหลกศีรษะ เช่น สมอง ต่อมใต้สมอง ตา หูชั้นใน</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- หลอดเลือดโลหิตในสมอง และหลอดโลหิตภายในลาตัว</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ระบบกระดูกสันหลังและไขสันหลัง</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- บริเวณทรวงอก ช่องท้อง เต้านมสตรี</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- เนื้อเยื่อกล้ามเนื้อ กระดูกส่วนต่างๆ รวมทั้งการฉีกขาดของเส้นเอ็นบริเวณข้อต่างๆ</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- อวัยวะในอุ้งเชิงกราน เช่น มดลูก ต่อมลูกหมาก และกระเพาะปัสสาวะ</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">ข้อห้ามในการตรวจด้วยเครื่อง MRI</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">เนื่องจาก MRI เป็นเครื่องที่ใช้พลังงานแม่เหล็กไฟฟ้า ดังนั้น</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- อุปกรณ์ทุกชนิดที่มีโลหะนาแม่เหล็กไฟฟ้า ห้ามนาเข้าห้องตรวจ MRI</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามผู้ที่ผ่าตัดใส่เครื่องกระตุ้นการทางานของหัวใจให้เป็นจังหวะ</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามผู้ที่ผ่าตัดติดคลิปอุดหลอดเลือดในโรคเส้นเลือดโป่งพอง</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามผู้ที่ผ่าตัดใส่อวัยวะเทียมภายในหู</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามผู้มีโลหะต่างๆ ภายในร่างกาย เช่น ข้อเทียมต่างๆ โลหะดามกระดูก</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามสตรีมีครรภ์ โดยเฉพาะอย่างยิ่งในระยะ 3 เดือนแรกของการตั้งครรภ์ ถึงแม้ว่ายังไม่มีการยืนยันว่าการตรวจนี้จะทาอันตรายต่อเด็กหรือไม่</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ห้ามผู้ที่คิดว่ามีสิ่งแปลกปลอมที่เป็นโลหะติดอยู่ที่ตา</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">การเตรียมตัวก่อนตรวจ MRI</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- โดยทั่วไปไม่จำเป็นต้องมีการเตรียมตัวอะไรเป็นพิเศษ ยกเว้น การตรวจช่องท้องควรงดน้าและอาหารก่อนการตรวจ 4- 6 ชั่วโมง</span></p>
+
+<p style=\"text-align:left\">&nbsp;</p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ในวันตรวจไม่ควรแต่งหน้า โดยเฉพาะไม่ควรใช้อายชาโดว์และมาสคาร่า เพราะอาจมีส่วนผสมของโลหะ ทาให้เกิดเป็นสิ่งแปลกปลอมในภาพได้</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ในกรณีที่ต้องฉีดสารเพิ่มความชัดภาพ ควรงดน้ำและอาหารก่อนการตรวจ 4- 6 ชั่วโมง</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">คาแนะนาการปฏิบัติตัวก่อนเข้าห้องตรวจ</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ถอดสิ่งของที่เป็นโลหะ เช่น กิ๊บติดผม ฟันปลอม ต่างหู เครื่องประดับ และสวมชุดพร้อมเปลี่ยนรองเท้าที่ทางโรงพยาบาลเตรียมไว้ให้</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ถ้าผู้ป่วยเคยผ่าตัดใส่โลหะในร่างกายหรือวัตถุอื่นๆ ต้องบอกเจ้าหน้าที่ก่อนเข้าห้องตรวจเพราะอาจเป็นอันตรายได้</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ผู้ป่วยควรปัสสาวะก่อนเข้าห้องตรวจ เนื่องจากการตรวจอาจจะใช้เวลานาน</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">- ระหว่างทาการตรวจ ผู้ป่วยต้องไม่ขยับหรือเคลื่อนไหวส่วนที่ทาการตรวจเด็ดขาด เพื่อจะได้ภาพที่ชัดเจน</span><br />
+<br />
+&nbsp;</p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">บทความโดย พญ.วิลาวัลย์ ปัญญาประเสริฐิ</span></p>
+
+<p style=\"text-align:left\"><span style=\"font-size:16px\">ที่มา วารสารโรงพยาบาลกรุงเทพคริสเตียน</span></p>
+</div>

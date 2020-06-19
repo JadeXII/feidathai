@@ -1,0 +1,12 @@
+<div style=\"TEXT-ALIGN: left; PADDING-BOTTOM: 15px; WIDOWS: 2; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; LETTER-SPACING: normal; DISPLAY: block; FONT: 15px/19px Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; WHITE-SPACE: normal; ORPHANS: 2; COLOR: rgb(58,58,58); WORD-SPACING: 0px; PADDING-TOP: 15px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px\" class=\"content-detail-text\" align=\"right\"><font size=\"4\"><strong>รายละเอียดการติดต่อ<br />
+<br />
+</strong></font>
+<p style=\"TEXT-ALIGN: left; MARGIN: 0px; FONT-FAMILY: Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; COLOR: rgb(36,146,143); FONT-SIZE: 25px\" id=\"h_title\" align=\"left\"><font color=\"#000000\" size=\"4\"></font></p>
+<img width=\"300\" height=\"410\" alt=\"\" src=\"/UserFiles/Image/srisiam.jpg\" /><br />
+<br />
+<font color=\"#0099cc\" size=\"4\" face=\"Arial\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">โรงพยาบาลศรีสยาม</font></font></font><br />
+</font><br />
+</font></strong></font><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">44/505 ม.10 แขวงคลองกุ่ม, ถนนนวมินทร์ เขตบึงกุ่ม กรุงเทพมหานคร 10230<br />
+</font></font></font></font></font></font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">66 (0) 2944 7111<br />
+</font></font></font></font></font></font></font><strong>โทรสาร:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">66 (0) 2944 8064</font><br />
+</font></font></font></font><strong>เว็บไซต์ : <a href=\"http://www.srisiamhospital.com/\">http://www.srisiamhospital.com/</a></strong></div>

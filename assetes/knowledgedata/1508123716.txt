@@ -1,0 +1,29 @@
+<div>&nbsp;</div>
+
+<div style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>เปิดตัวแอพพลิเคชั่นใหม่ช่วยวินิจฉัย &#39;ดีซ่าน&#39; และ &#39;มะเร็งตับอ่อน<br />
+<br />
+<img alt=\"\" src=\"/UserFiles/Image/BiliScreen_03.jpg\" style=\"height:333px; width:500px\" /></strong></span></span><br />
+&nbsp;</div>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size:medium\">&nbsp;<span style=\"font-size:16px\">ปัจจุบันวงการแพทย์กำลังหาวิธีพัฒนาแอพฯ สำหรับโทรศัพท์สมาร์ทโฟน ที่สามารถนำไปใช้เพื่อวินิจฉัยโรคต่างๆ ได้ง่ายขึ้น ตั้งแต่โรคเบาหวานไปจนถึงโรคมะเร็ง</span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;</span></span></span><span style=\"font-size:16px\">&ldquo;Biliscreen&rdquo; คือชื่อของแอพฯ ใหม่ที่ถูกนำมาใช้ประโยชน์ในทางการแพทย์ ด้วยการถ่ายรูปแบบเซลฟี่เฉพาะในส่วนที่เป็นดวงตา แล้วให้แอพฯ นี้ช่วยตรวจวัดระดับสารบิลิรูบินในดวงตานั้น ซึ่งอาจช่วยระบุถึงอาการของโรคดีซ่านหรือถุงน้ำดีอุดตัน ตลอดจนอาการป่วยที่อาจร้ายแรงกว่านั้นได้</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;คุณ Alex Mariakakis นักวิจัยจาก University of Washington กล่าวว่า สิ่งที่นักวิจัยให้ความสนใจ คือการพัฒนาแอพฯ นี้เพื่อการวินิจฉัยมะเร็งตับอ่อนตั้งแต่ระยะเริ่มตัน เนื่องจากปัจจุบันมะเร็งชนิดนี้มักจะตรวจพบเมื่อสายเกินไป ทำให้มีอัตราการเสียชีวิตอยู่ในระดับสูง</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ดร. Jim Taylor แห่ง University of Washington หนึ่งในคณะนักวิจัยชุดนี้ กล่าวว่า ผู้ป่วยโรคมะเร็งตับอ่อนมีโอกาสรอดชีวิตสูงหากสามารถตรวจพบโรคนี้ได้ตั้งแต่เนิ่นๆ นั่นคือสาเหตุที่แอพฯ Biliscreen จะสามารถช่วยชีวิตผู้ป่วยได้อีกมากในอนาคต</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;อย่างไรก็ตาม เวลานี้แอพฯ Biliscreen ยังคงอยู่ในช่วงเริ่มต้นเท่านั้น</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;คุณ Alex Mariakakis กล่าวว่า นักวิจัยกำลังพยายามเขียนโปรแกรมคำสั่งให้แอพฯ นี้ทำงานได้ตามลำดับขั้นตอนที่กำหนด เพื่อที่จะสามารถแยกแยะระดับสารบิลิรูบินว่ามีความเสี่ยงต่อโรคดีซ่านหรือโรคที่เกี่ยวกับตับอ่อนหรือไม่ อย่างไร</span></p>
+
+<p><span style=\"font-size:16px\">เท่าที่ผ่านมา แอพฯ Biliscreen สามารถระบุระดับสารบิลลิรูบินของกลุ่มตัวอย่างได้อย่างแม่นยำราว 90%</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;โดยในขั้นต่อไป นักวิจัยจะทดสอบกับกลุ่มตัวอย่างจำนวนมากขึ้นที่มีระดับสารบิลิรูบินต่างๆ กัน และยิ่งได้ถ่ายรูปเซลฟี่ดวงตาของกลุ่มตัวอย่างมากเท่าไร ก็จะยิ่งสามารถพัฒนาแอพฯ นี้ให้มีประสิทธิภาพได้มากยิ่งขึ้นเท่านั้น</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\">ที่มา : <strong><a href=\"https://www.voathai.com/a/cancer-screening-app/4058371.html\">VOA Thai</a><br />
+ภาพ :&nbsp;www.favforward.com</strong></span></p>

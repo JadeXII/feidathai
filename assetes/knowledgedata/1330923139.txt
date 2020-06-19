@@ -1,0 +1,15 @@
+<font face=\"Arial\">
+<p align=\"left\"><font face=\"Arial\" size=\"4\"><strong>รายละเอียดการติดต่อ</strong></font></p>
+<p align=\"left\"><strong><font size=\"4\"></font></strong></p>
+<p align=\"left\"><font face=\"Arial\" size=\"4\"><strong></strong><font face=\"Arial\"></font></font>
+<p>&nbsp;</p>
+</p>
+<p align=\"left\"><font size=\"4\"><img height=\"93\" alt=\"\" width=\"130\" src=\"http://www.feidathai.com/UserFiles/Image/img_hospital_tn(1).jpg\" /></font></p>
+<p align=\"left\">&nbsp;</p>
+<p align=\"left\">&nbsp;</p>
+<p align=\"left\"><font size=\"4\"></font></p>
+<p align=\"left\"><font face=\"Arial\" color=\"#0099cc\" size=\"4\"><font face=\"Arial\"><font face=\"Arial\"><strong>โรงพยาบาลสวรรค์ประชารักษ์</strong></font></font></font></p>
+<p align=\"left\"><font face=\"Arial\" size=\"4\"><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\">โรงพยาบาลสวรรค์ประชารักษ์&nbsp; 43&nbsp; ถ.อรรถกวี&nbsp; อ.เมือง&nbsp; จ.นครสวรรค์&nbsp; 60000</font></font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\">056-219888<br />
+</font></font>โทรสาร: <font face=\"Arial\">056-219899<br />
+</font><strong>เว็บไซต์ :</strong> <a href=\"http://www.spr.go.th/home/\">http://www.spr.go.th/home/</a></font></p>
+</font>

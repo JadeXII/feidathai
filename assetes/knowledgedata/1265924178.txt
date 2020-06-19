@@ -1,0 +1,19 @@
+<table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td colspan=\"2\">
+            <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m009.jpg\"><img title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m09.jpg\" /></a>&nbsp;</div>
+            <div align=\"left\">&nbsp;</div>
+            <div align=\"left\"><strong></strong>&nbsp;</div>
+            <div align=\"left\"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=\"#0000cc\">ประทุม&nbsp; วงษ์วันทนีย์</font></strong><strong></strong></div>
+            </td>
+        </tr>
+        <tr valign=\"top\">
+            <td colspan=\"2\">
+            <div><strong><font color=\"#0000cc\" size=\"3\"></font></strong>&nbsp;</div>
+            <div><strong><font color=\"#0000cc\" size=\"3\">ต้องรักษากายและใจไปพร้อมๆ กัน</font></strong></div>
+            <p align=\"justify\"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size=\"2\">&ldquo;ตั้งสติ&rdquo;</font></strong><font size=\"2\"> นี่เป็นคำที่ทุกคนที่เป็นโรคมะเร็งควรจะนึกถึง การร้องไห้ตีโพยตีพายและความกลัวตาย จะยิ่งทำให้ได้ตายสมใจเร็วขึ้น ฉันยอมรับผลกรรม รู้ดีว่าเมื่อเกิดแล้วก็ต้องตาย ไม่มีใครอยู่ค้ำฟ้า จะตายตอนไหนเมื่อไหร่ไม่มีใครรู้ได้ แต่เวลาที่เหลือน้อยนิดนี้ ควรสร้างความดี ทำจิตใจให้สงบ และหาวิธีทำดีที่สุดเพื่อรักษาตนเอง นั่นคือต้องรักษาทั้งกายและใจไปพร้อมๆ กัน ต่อให้มีหมอเก่งและยาดีสักแค่ไหนรักษากาย แต่จิตใจเศร้าสลด หดหู่ คิดมาก ก็อย่าหวังว่าผลการรักษาจะออกมาดี ถ้าทำสมาธิจิตนิ่งได้ ไม่ฟุ้งซ่าน ให้ป่วยแต่กาย แต่จิตไม่ป่วยตามไปด้วย นั่นช่วยได้ไปแล้วครึ่งหนึ่ง อีกครึ่งหนึ่งจึงจะเป็นหน้าที่ของหมอ ยาและอาหาร</font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img class="img-responsive" border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/m07.png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <font color=\"#000000\"><strong><font face=\"Arial\">&nbsp;อารียาพร&nbsp;&nbsp; เขียวพันธ์<br />
+            </font></strong></font></font><span><strong><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">&nbsp;<font color=\"#0099cc\">ผู้ป่วยมะเร็งเต้านม</font></font></font></font></strong></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\" size=\"2\"><font color=\"#0099cc\" size=\"2\"><strong><font face=\"Arial\">ถ้าฉันกลัวมะเร็ง คงไม่มีชีวิตมาจนทุกวันนี้</font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=\"Arial\">&nbsp;<font color=\"#000000\" size=\"2\">ขึ้นชื่อว่ามะเร็งแล้วทุกคนจะกลัว ฉันได้เจอมากับตัวเองถึง 2 ครั้ง ถ้าตอนนั้นฉันหมดความหวัง ฉันคงไม่อยู่รอดมาจนทุกวันนี้ ฉันฮึดสู้กับมะเร็ง อันดับแรก คือ ทำจิตใจให้เข้มแข็ง มีสติ ไม่กลัว ไม่คิดว่าตัวเองเป็นโรคร้าย คิดเสมอว่าเราเป็นคนปกติ เพียงแต่เราต้องดูแลและระมัดระวังเรื่องสุขภาพ ฉันเป็นคนอารมณ์ดี มองโลกในแง่ดี อยู่ที่ไหนก็มีแต่เสียงหัวเราะ ทุกคนที่พบเจอฉัน จะดูไม่ออกเลยว่าฉันเป็นโรคมะเร็งมาก่อน ปัจจุบันฉันมีสุขภาพแข็งแรงและต่อสู้ กับโรคร้ายได้อย่างสบายใจ และขอเป็นกำลังใจทุกคนที่ต้องต่อสู้กับโรคร้ายนี้</font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

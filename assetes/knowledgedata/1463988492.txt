@@ -1,0 +1,87 @@
+<div style=\"text-align:center\">&nbsp;</div>
+
+<div style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:#0066ff\">&nbsp;<strong>อาหารของผู้มีปัญหา เม็ดเลือดแดงต่ำ</strong></span><br />
+<br />
+<strong><img alt=\"\" src=\"/UserFiles/Image/01(7).jpg\" style=\"height:292px; width:560px\" /></strong></span></span><br />
+&nbsp;</div>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:#0066ff\"><strong>เม็ดเลือดแดงต่ำในผู้ป่วยมะเร็ง</strong></span></span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp; &nbsp; &nbsp;ภาวะเม็ดเลือดแดงต่ำหรือภาวะซีด เป็นภาวะที่ระดับฮีโมโกลบินต่ำ ซึ่งเม็ดเลือดแดงประกอบไปด้วยโปรตีนฮีโมโกลบิน (Hemoglobin) ทำหน้าที่ในการนำออกซิเจนไปเลี้ยงส่วนต่างๆของร่างกาย หากร่างกายของเรามีภาวะเม็ดเลือดแดงต่ำ ร่างกายก็จะรีบออกซิเจนไม่เพียงพอ ทำให้เกิดอาการ เหนื่อยง่าย อ่อนแรง เมื่อยล้า เป็นต้น ภาวะเม็ดเลือดแดงต่ำในผู้ป่วยมะเร็งมีหลายสาเหตุ อาทิ ยาเคมีบำบัดทำงานกดการทำงานของไขกระดูกทำให้ร่างกายไม่สามารถสร้างเม็ดเลือดแดงได้เพียงพอ เป็นต้น เรามาดูกันว่าผู้ที่มีภาวะเม็ดเลือดต่ำควรและไม่ควรทานอาหารอะไร</span></span></p>
+
+<p><br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:#0066ff\"><strong>อาหารสำหรับผู้มีปัญหาเม็ดเลือดแดงต่ำ</strong></span></span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>&nbsp; &nbsp; <span style=\"color:#ff6600\">ธาตุเหล็ก</span> </strong></span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>&nbsp; &nbsp; &nbsp; &nbsp;</strong>ธาตุเหล็ก โดยธาตุเหล็ก พบมากในเนื้อสัตว์และผักใบเขียว และธาตุเหล็กจากเนื้อสัตว์จะสามารถดูดซึมเข้าสู่ร่างกายได้ดีกว่าธาตุเหล็กที่มาจากผักและผลไม้ โดยธาตุเหล็กที่ได้จากอาหารมี 2 รูปแบบ คือเหล็กที่มีฮีม (heme protein) พบมากในเนื้อสัตว์ และโปรตีนที่ไม่มีฮีม (Non heme protein)พบมากในผักใบเขียว แต่ธาตุเหล็กที่มาจากเนื้อสัตว์จะถูกดูดซึมเข้าสู่ร่างกายได้ดีที่สุด</span></span><br />
+&nbsp;</p>
+
+<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:#ff6600\"><strong>ร้อยละประมาณธาตุเหล็กในเนื้อสัตว์</strong></span></span></span></p>
+
+<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"border-collapse:collapse; border:none; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-yfti-tbllook:1184\">
+	<tbody>
+		<tr>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>ชนิด</strong></span></span></p>
+			</td>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>%ธาตุเหล็ก</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">สันในวัวสุก</span></span></p>
+			</td>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">61.17</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">สันในหมูสุก</span></span></p>
+			</td>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">40.95</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">อกไก่สุก</span></span></p>
+			</td>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">38</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">ตับหมูสุก</span></span></p>
+			</td>
+			<td style=\"vertical-align:top; width:239.4pt\">
+			<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">43.7</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp;</span></span></p>
+
+<p style=\"text-align:center\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><a href=\"http://www.feidathai.com/?name=4reason\"><img alt=\"\" src=\"/UserFiles/Image/มะเร็งยังมีทางออก-Ad.gif\" style=\"height:148px; width:600px\" /></a></span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>&nbsp; &nbsp;<span style=\"color:#ff6600\">เส้นใยอาหาร</span></strong></span></span><br />
+<br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp; &nbsp; &nbsp;ใยอาหารมีประโยชน์ต่อร่างกายช่วยในเรื่องการขับถ่ายและขจัดสารก่อมะเร็งออกจากร่างกาย แต่ในกรณีที่ร่างกายอยู่ในภาวะเม็ดเลือดแดงต่ำ ในอาหารที่สูงเกินไป อาจส่งผลเสียกับร่างกาย โดยธาตุเหล็กจะเข้าไปจับตัวกับใยอาหารประเภทละลายน้ำได้และถูกขับออกมา ในรูปแบบของอุจจาระ การรับประทานใยอาหารให้ปลอดภัยสำหรับผู้มีภาวะเม็ดเลือดแดงต่ำ คือ ควรรับประทานใยอาหารในปริมาณ 25-30 กรัม การรับประทานใยอาหารตามปริมาณที่กล่าวไปข้างต้น จะไม่ทำให้ธาตุเหล็กถูกขับออกมาจนมากเกินไป</span></span><br />
+<br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>&nbsp; &nbsp;</strong><span style=\"color:#ff6600\"><strong>แทนนิน </strong><strong>(Tannins)</strong></span></span></span><br />
+<br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp; &nbsp; &nbsp;แทนนิน พบได้เฉพาะในพืช เป็นสารที่มีรสฝาด โดยเฉพาะในน้ำชา ผักกระเฉด ผักกระถิน &nbsp;สารแทนนินจะทำหน้าที่จับกับธาตุเหล็กในสภาวะลำไส้เป็นด่างอ่อนๆ และทำให้ร่างกายไม่สามารถดูดซึมธาตุเหล็กได้ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+<br />
+<strong>&nbsp; &nbsp;</strong><span style=\"color:#ff6600\"><strong>วิตามินซี </strong><strong>(vitamin c)</strong></span><br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp;การรับประทานผักและผลไม้ที่มีวิตามินซีสูง หรืออาหารที่มีรสเปรี้ยวจากกรดอินทรีย์ธรรมชาติ ได้แก่ กรดแลกติก ซิตริก สามารถเข้าแย่งจับระหว่างเส้นใยอาหารกับธาตุเหล็ก และไฟเตทได้ ทำให้ร่างกายของเราสามารถดูดซึมธาตุเหล็กได้มากขึ้น</span></span><br />
+<br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp; &nbsp; &nbsp;ผู้ป่วยที่มีภาวะเม็ดเลือดแดงต่ำ ควรงดการรับประทานธัญพืช ถั่วเมล็ดแห้งชั่วคราว กลุ่มข้าวหรือแป้งที่ไม่ขัดสี ควรงดหรือลดปริมาณลง เพราะกลุ่มธัญพืชหรือข้าวเหล่านี้มีสารขัดขวางการดูดซึมธาตุเหล็ก ทำให้ร่างกายดูดซึมธาตุเหล็กได้ไม่เต็มที่นั่นเอง</span></span><br />
+<br />
+<span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp; &nbsp; &nbsp; &nbsp;การรับประทานอาหารของผู้ป่วยที่มีภาวะเม็ดเลือดแดงต่ำควรได้รับคำแนะนำจากผู้เชี่ยวชาญ หรือได้รับคำปรึกษา เพราะแต่ละบุคคลมีการใช้ชีวิต การกินที่ไม่เหมือนกัน จึงควรปรึกษาแพทย์เพื่อความปลอดภัยต่อสุขภาพ</span></span></p>
+
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\">&nbsp;</span></span></p>

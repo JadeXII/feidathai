@@ -1,0 +1,35 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=\"style2\"><font face=\"MS Sans Serif\">สิ่งที่ต้องเตรียมในการสร้าง OEM โล้โก้ <br />
+<br />
+1. รูปภาพที่เราชอบ 1 รูป <br />
+2. โปรแกรมเปิดภาพ เช่น ACDsee, XnView ฯลฯ (ในที่นี้ใช้ XnView) <br />
+3. โปรแกรม Notepad (มีให้ในเครื่องอยู่แล้ว)&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" height=\"465\" width=\"400\" align=\"textTop\" alt=\"\" src=\"/UserFiles/Image/com001.jpg\" /><br />
+<br />
+มาลงมือกันเลย <br />
+<br />
+1. เปิดภาพ (ที่เราเตรียมไว้) ด้วยโปรแกรม XnView, ACDsee ฯลฯ <br />
+2. ไปที่ Image &gt;&gt; Resize ปรับขนาดรูปภาพให้ได้ 180 x 115 pixels&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" height=\"453\" width=\"400\" alt=\"\" src=\"/UserFiles/Image/com002.jpg\" /><br />
+<br />
+3. Save รูปภาพ ให้เป็นชื่อ oemlogo ส่วนนามสกุล ให้เป็น BMP (<strong>oemlogo.bmp</strong>)<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" height=\"356\" width=\"380\" alt=\"\" src=\"/UserFiles/Image/com003.jpg\" /><br />
+<br />
+4. เปิดโปรแกรม Notepad ขี้นมา พิมพ์ข้อความตามรูป (ข้อความภาษาไทยให้ดัดแปลงตามใจชอบ)<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" height=\"400\" width=\"380\" alt=\"\" src=\"/UserFiles/Image/com004.jpg\" /><br />
+<br />
+5. Save ไฟล์ โดยเลือกเป็น Save As และตรงช่อง File name ให้ใส่ชื่อเป็น <strong>oeminfo.ini</strong> ส่วน Save as type ให้เลือกเป็น All File&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" style=\"WIDTH: 503px; HEIGHT: 403px\" height=\"403\" width=\"500\" alt=\"\" src=\"/UserFiles/Image/com005.jpg\" /><br />
+<br />
+6. นำไฟล์ทั้งสองที่ได้ (oemlogo.bmp และ oeminfo.ini) ไปใส่ไว้ที่ <strong>C:WINDOWS\\system32</strong>&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-responsive" height=\"453\" width=\"480\" alt=\"\" src=\"/UserFiles/Image/com006.jpg\" /><br />
+<br />
+7. คลิ๊กขวาที่ My Computer เลือก Properties เพื่อดูผลงานของเรา <br />
+<br />
+<br />
+</font></span>

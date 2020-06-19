@@ -1,0 +1,100 @@
+<p><span style=\"color:#000000\"><span style=\"color:#666666; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:11px\"><strong><span style=\"color:#0099cc; font-size:large\">เคมีบำบัด<br />
+Chemotherapy</span></strong></span></span></p>
+
+<p><span style=\"color:#000000\"><span style=\"color:#666666; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:11px\">&nbsp;</span></span></p>
+
+<p><span style=\"color:#000000\"><span style=\"color:#666666; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:11px\"><span style=\"font-size:small\"><strong><img alt=\"เคมีบำบัด Chemotherapy\" class=\"img-responsive\" src=\"/UserFiles/Image/20100926133414659.jpg\" style=\"height:201px; width:300px\" /></strong></span></span></span></p>
+
+<p><br />
+<span style=\"color:#000000\"><span style=\"color:#666666; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:11px\"><span style=\"font-size:small\"><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></span><span style=\"font-size:16px\"><span style=\"color:#666666\"><strong> ร่างกายคนเราประกอบไปด้วยเซลล์ต่างๆ</strong>&nbsp;ที่มีการแบ่งตัวเพื่อเพิ่มจำนวนเซลล์ไปทำงานแต่ละหน้าที่ และอวัยวะต่างๆ วงจรชีวิตของเซลล์จะเรียกว่า วัฏจักรเซลล์ (cell cycle) ซึ่งจะมีกลไกต่างๆ ควบคุมวัฏจักรเซลล์หลายขั้นตอนเพื่อควบคุมปริมาณของเซลล์ให้มีจำนวนตามปกติ ในกรณีของเซลล์มะเร็ง คือ จะมีความเสียหายของระบบควบคุมวัฏจักรเซลล์ทำให้เซลล์มีการแบ่งตัวอยู่ตลอดเวลา โดยทั่วไปแล้ววัฏจักรของเซลล์จะประกอบไปด้วย 5 ระยะ ดังต่อไปนี้<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>-&nbsp; <span style=\"color:#ff6600\">G0 phase</span></strong> เป็นระยะที่เซลล์อยู่เฉยๆ ไม่เข้าสู่วัฏจักรเซลล์ ซึ่งเมื่อมีปัจจัยที่เหมาะสมมากระตุ้น จะทำให้เซลล์เข้าสู่ cell cycle ได้ต่อไป&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>-&nbsp; <span style=\"color:#ff6600\">G1 phase</span></strong> เป็นระยะแรกของเซลล์จะเข้าสู่ cell cycle ก่อนที่เซลล์จะเริ่มสร้าง DNA&nbsp;<br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; <span style=\"color:#ff6600\">S phase</span></strong> เป็นระยะที่เซลล์ทำการสร้างและสังเคราะห์ DNA&nbsp;<br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; <span style=\"color:#ff6600\">G2 phase</span></strong> เป็นระยะที่ต่อเนื่องจาก S phase เพื่อเตรียมความพร้อมก่อนเข้าสู่ช่วง M phase&nbsp;<br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; <span style=\"color:#ff6600\">M phase</span></strong> เป็นช่วงที่โครโมโซมหนาตัวขึ้น มีการแบ่งโครโมโซมออกเป็น 2 ชุด เพื่อแยกกันให้เป็น 2 เซลล์ในที่สุด<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color:#ff6600\"> </span><strong><span style=\"color:#ff6600\">เคมีบำบัด</span></strong>&nbsp;เป็นภาษาทางการที่ใช้ในวงการแพทย์ ส่วนคีโมเทอราปี (Chemotherapy) รากศัพท์มาจากภาษาละตินและกรีก&nbsp;<br />
+คีโม คือ สารเคมี เทอราปี คือ การรักษา<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color:#ff6600\"> </span><strong><span style=\"color:#ff6600\">คีโมเทอราปี</span></strong>&nbsp;คือ การรักษาด้วยยาหรือสารเคมีที่มีฤทธิ์ในการฆ่าเซลล์มะเร็ง โดยในรูปแบบการบริหารยาทางช่องทางใดก็ตาม ผลของยาเคมีบำบัดต่อ cell cycle ของเซลล์นี้จะแบ่งเป็น 2 ชนิด คือ ยาที่ออกฤทธิ์เฉพาะกับเซลล์ที่อยู่ใน cell cycle และชนิดที่ออกฤทธิ์ไม่เฉพาะกับ cell cycle ในกลุ่มที่ออกฤทธิ์เฉพาะกับ cell cycle ยังแบ่งเป็นการออกฤทธิ์ต่อระยะใดระยะหนึ่ง (phase specific) ของ cell cycle ดังนั้น จะเห็นได้ว่ายาเคมีบำบัดส่วนใหญ่จะมีผลต่อเซลล์ที่แบ่งตัวเร็วมากกว่าเซลล์ที่แบ่งตัวช้า จึงมีผลต่อทั้งเซลล์มะเร็งและเซลล์ปกติของร่างกาย<br />
+<br />
+<span style=\"color:#000000\"><span style=\"color:#666666\"><strong><span style=\"color:#0099cc\">ชนิดของยาเคมีบำบัด</span></strong><br />
+<br />
+<strong><span style=\"color:#ff6600\">ยาเคมีบำบัดอาจแบ่งตามคุณสมบัติทางเคมี</span></strong>&nbsp;หรือกลไกการออกฤทธิ์เป็น 5 ประเภท ดังนี้&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. &nbsp;<strong><span style=\"color:#3366ff\">Alkylating Agents</span></strong> ยาเคมีบำบัดกลุ่มนี้มีกลไกการออกฤทธิ์โดยเข้าไปจับกับ DNA ของเซลล์ ส่งผลให้สายดีเอ็นเอแยกจากกันไม่ได้ ทำให้เซลล์แบ่งตัวไม่ได้และตายไปในที่สุด จัดเป็นกลุ่มที่เฉพาะกับ cell cycle (cell cycle phase-specific chemotherapy)&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; <strong><span style=\"color:#3366ff\">Antimetabolites</span></strong> ยาในกลุ่มนี้มีสูตรโครงสร้างทางเคมีคล้ายกับสารที่ใช้ในการแบ่งเซลล์ ทำให้อาจถูกนำไปใช้ในการสร้างดีเอ็นเอ หรืออาร์เอ็นเอ หรืออาจยับยั้งเอนไชม์ที่ใช้การสร้างดีเอ็นเอระหว่างขบวนการแบ่งเซลล์ จัดเป็นกลุ่มที่เฉพาะต่อ cell cycle (cell cycle phase-specific chemotherapy)&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; <strong><span style=\"color:#3366ff\">Vinca Alkaloids</span></strong> ยากลุ่มนี้ออกฤทธิ์จับกับ tubulin ยับยั้งการสร้าง microtubule และ spindle fibres ของเซลล์ที่จำเป็นต่อการแบ่งแยกสายโครโมโซมในระยะการแบ่งโครโมโซม (metaphase) ในวัฏจักรของเซลล์ จัดเป็น cell cycle phase-specific chemotherapy&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; <strong><span style=\"color:#3366ff\">Antibiotics</span></strong> ยากลุ่มนี้ได้มาจากเชื้อรามีฤทธิ์ทำลายเซลล์มะเร็งได้ อาจแบ่งเป็น 2 ชนิดใหญ่ๆ คือ anthracyclines และ non-anthracyclines จัดเป็น cell cycle phase-nonspecific chemotherapy มีกลไกการออกฤทธิ์หลายวิธีดังนี้<br />
+&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.1&nbsp; Interchelation จับกับดีเอ็นเอ หรืออาร์เอ็นเอและยับยั้งการสร้าง&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.2&nbsp; Membrane binding เพิ่มการซึมซาบ (Pemeability) ของผนังเซลล์ต่ออนูมูลต่างๆ&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.3&nbsp; Free radical formation สร้างอนูมูลอิสระจับทำลายดีเอ็นเอ และยับยั้งการแบ่งเซลล์&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.4&nbsp; Metal ion chelation จับกับอณูโลหะเกิดเป็นสารทำลายเซลล์มะเร็ง&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.5&nbsp; Alkylation จับและยับยั้งการเพิ่มจำนวนดีเอ็นเอ&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp;<span style=\"color:#3366ff\"> <strong>Miscellaneous</strong></span> มียาเคมีบำบัดหลายชนิดที่ไม่ได้จัดอยู่ในกลุ่มดังกล่าวข้างต้น ได้แก่&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.1&nbsp; Taxanes ออกฤทธิ์ยับยั้งการสร้าง spindle fibers ที่ใช้ในการแยกสาย DNA ได้แก่ pclitaxel และ docetaxel จัดเป็น cell cycle phase-specific chemotherapy&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.2&nbsp; NON-classical alkylating agents ยากลุ่มนี้ออกฤทธิ์คล้าย Alkylation agent จับและยับยั้งการสร้างดีเอ็นเอทั้งในสายเดียวกัน (intrastrand cross-link) และคนละสายของดีเอ็นเอ (interstrand cross-link) ได้แก่ ยา cisplatin ยา carboplatin และยา eloxatin จัดเป็น cell cycle phase nonspecific chemotherapy&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.3&nbsp; Anthracenediones มีสูตรโครงสร้างคล้ายยาในกลุ่ม anthracycline ออกฤทธิ์จับกับดีเอ็นเอ (DNA intercalation) แต่เกิดอนุมูลน้อยกว่าทำให้มีพิษต่อหัวใจน้อยกว่ายาในกลุ่ม anthracyclines ได้แก่ยา mitozantrone จับเป็น cell cycle phase-nonspecific chemotherapy&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.4&nbsp; Epipodophyllotoxins ยาในกลุ่มนี้ได้แก่ ยา Etoposide สังเคราะห์จากสารต้นแบบ คือ podophyllotoxin ออกฤทธิ์ยับยั้งเอนไซม์ topoisomerase II ที่ทำหน้าที่ในการตัดแยกดีเอ็นเอสายคู่ในระหว่างการแบ่งเซลล์จัดเป็น cell cycle phase-specific chemotherapy&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.5&nbsp; Topoisomease I Inhibitor กลุ่มนี้ออกฤทธิ์ยับยั้งเอนไซม์ topoisomerse I ซึ่งทำหน้าที่ตัดและแยกดีเอ็นเอสายเดี่ยวในระหว่างการแบ่งเซลล์ ได้แก่ ยา irinotecan และยา topotecan จัดเป็น cell cycle phase-specific chemotherapy&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.6&nbsp; Hydroxyurea เป็นยาเคมีบำบัดที่มีสูตรโครงสร้างคล้ายกับ urea ออฤทธิ์ยับยั้งเอ็นไซม์ nucleotide reductase และยับยั้งการสร้างดีเอ็นเอ จัดเป็น cell cycle phase-specific chemotherapy<br />
+<br />
+<span style=\"color:#0099cc\"><strong>การให้ยาเคมีบำบัด (Adiministration of Chemotherapy)</strong></span><br />
+<br />
+<span style=\"color:#000000\"><span style=\"color:#666666\"><strong><span style=\"color:#000000\">เคมีบำบัดมีวิธีการให้ได้หลายวิธีดังต่อไปนี้<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </span></strong></span></span><strong>1. <span style=\"color:#3366ff\">Neoadjuvant Chemotherapy</span></strong> เป็นการให้เคมีบำบัดเป็นอันดับแรกในการรักษาโรคมะเร็งก่อนการรักษาด้วยวิธีอื่นๆ ในผู้ป่วยมะเร็งที่เป็นเฉพาะที่&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>2. <span style=\"color:#3366ff\">Induction Chemotherapy</span></strong> เป็นการให้เคมีบำบัดเป็นอันดับแรกก่อนการรักษาด้วยวิธีอื่น ในผู้ป่วยมะเร็งในระยะที่เป็นมาก (advanced disease) มักใช้ในการรักษามะเร็งของเม็ดเลือดขาว&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>3.<span style=\"color:#3366ff\"> Adjuvant chemotherapy</span></strong> เป็นการให้เคมีบำบัดภายหลังการรักษาด้วยวิธีการรักษาเฉพาะที่แล้ว เช่น การผ่าตัด หรือรังสีรักษา&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>4. <span style=\"color:#3366ff\">Palliative Chemotherapy</span></strong> เป็นการให้เคมีบำบัดเพื่อทุเลาอาการในผู้ป่วยมะเร็งที่เป็นมากและรักษาไม่ขาดหาย&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>5. <span style=\"color:#3366ff\">Concomittent Chemoradiation</span></strong> เป็นการให้เคมีบำบัดร่วมกับรังสีรักษา&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>6. <span style=\"color:#3366ff\">Locoregional Chemotherapy</span></strong> เป็นการให้เคมีบำบัดเฉพาะที่ไปยังส่วนใดส่วนหนึ่งของร่างกายที่เป็นมะเร็ง&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>7. <span style=\"color:#3366ff\">Salvage Chemotherapy</span></strong> เป็นการให้เคมีบำบัดสำหรับผู้ป่วยที่เป็นโรคกลับเป็นซ้ำ หรือรักษาไม่ได้ผลด้วยยาชนิดอื่น โดยให้ยาในขนาดที่มากพอและมีจุดประสงค์ที่จะให้ผู้ป่วยหายจากโรคนั้นๆ<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <strong><span style=\"color:#ff6600\">Immunotheapy</span></strong>&nbsp;การรักษามะเร็งด้วยยาเคมีบำบัดยังมีข้อจำกัดหลายประการ มะเร็งบางชนิด เช่น มะเร็งของผิวหนังชนิด malignant melanoma มะเร็งของไต หรือมะเร็งของตับ ตอบสนองต่อการรักษาด้วยเคมีบำบัดน้อยมาก จึงได้มีความพยายามที่จะใช้วิธีการรักษาวิธีอื่นนอกเหนือจากการใช้เคมีบำบัด วิธีหนึ่งที่ได้มีการนำมาใช้รักษา คือ immunotherapy หรืออีกชื่อหนึ่งที่มีการพูดถึงเสมอ คือ biologic therapy หมายถึง การรักษามะเร็งโดยทำให้เกิดการทำลายเซลล์มะเร็ง ด้วยการกระตุ้นให้เกิดกลไกทางอิมมูนของร่างกาย เพื่อต่อต้านโรคมะเร็ง หรือใช้สารธรรมชาติที่ผลิตจากเซลล์ที่มีฤทธิ์ดังกล่าว (biological response modifies) จะเห็นได้ว่าการรักษาด้วยวิธีนี้ แตกต่างจากการรักษาด้วยการผ่าตัด รังสีรักษา หรือเคมีบำบัด เพราะจะไม่ออกฤทธิ์ทำลายเนื้องอกโดยตรง แต่จะกระตุ้นระบบอิมมูนตามธรรมชาติของผู้ป่วยเพื่อต่อต้านโรคที่เป็น&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; ความเข้าใจถึงระบบอินมูนต่อโรคมะเร็ง และความก้าวหน้าทางพันธุวิศวกรรมศาสตร์ (genetic engineering) ทำให้สามารถคิดค้นวิธีการรักษาที่มีผลผ่านระบบอิมมูนของร่างกายเพื่อทำลายเซลล์มะเร็ง และสามารถผลิตโมเลกุลต่างๆ ที่ทำหน้าที่ดังกล่าวได้ที่เรียกว่า cytokines ซึ่งก็คือฮอร์โมนที่ผลิตจากเซลล์ของระบบอิมมูน และทำหน้าที่ควบคุมการทำงานของระบบอิมมูนของร่างกาย จะเห็นได้ว่า <strong><span style=\"color:#ff6600\">ความสัมพันธ์ระหว่างอิมมูนกับโรคมะเร็งประกอบด้วย 2 ส่วน คือ ส่วนของเซลล์อิมมูน (cellar immunologic elements) และสารที่หลั่งมาจากอิมมูนเซลล์ (cytokines)</span><span style=\"color:#ff6600\">&nbsp;</span><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </strong>มีการสังเคราะห์ cytokines โดยอาศัยเทคโนโลยีทางพันธุวิศวกรรมศาสตร์ นำยีนของ cytokines ชนิดต่างๆ มาสอดใส่เข้าไปใน plasmid ของ E Coli DNA ของ yeasts หรือ mammalian cells เพื่อสร้างโปรตีนของ cytokines เหล่านี้ แล้วแยกให้บริสุทธิ์เพื่อนำมาใช้ในการรักษาโรคมะเร็ง cytokines ที่มีการนำมาใช้ทางคลินิกเพื่อรักษาโรคมะเร็ง ได้แก่&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Interferon Alpha สร้างจาก leucocytes Beta สร้างจาก fibroblasts Gamma สร้างจาก lymphocytes&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. Tumor necrosis factors&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. Inteleukins โดยเฉพาะ interleukin 2&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; นอกจากนี้ยังมียาใหม่ในกลุ่มยาชีวบำบัดออกฤทธิ์ตามเป้าหมายของการเกิดโรคมะเร็ง (targeted therapy) หลายชนิด ได้แก่ ยา trastuzumab (Herceptin) ซึ่งเป็น recombinant chimeric monoclonal antibody ต่อยีนมะเร็ง Her-2 ใช้รักษาโรคมะเร็งเต้านมระยะแพร่กระจายที่ตรวจพบยีนมะเร็ง Her-2 เพิ่มจำนวนมากกว่าปกติ, ยา Rituximab (Mabtera) เป็น monoclonal antibody ใช้รักษาโรคมะเร็งต่อมน้ำเหลือง (Non-Hodgkin&rsquo;s lymphoma), ยา Sunitinib(Suten) รักษาโรคมะเร็งไต, ยา Erlotinib (Tarceva) รักษาโรคมะเร็งปอด และยา Sorafenib (Nexavar) ใช้รักษาโรคมะเร็งตับและมะเร็งไต เป็นต้น<br />
+<br />
+<strong><span style=\"color:#0099cc\">การวัดผลตอบสนองต่อการรักษา<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </span></strong>ในการรักษาโรคมะเร็งด้วยวิธีต่างๆ ควรมีการวัดการตอบสนองของการรักษาเป็นระยะๆ เพื่อที่ว่า หากการรักษาไม่ได้ผล ก็สามารถเปลี่ยนเป็นวิธีอื่นที่ได้ผลตั้งแต่เนิ่นๆ เพื่อป้องกันไม่ให้โรคกำเริบหรือเป็นมากขึ้น หรือแพร่กระจายออกไป ในกรณีที่โรคเดิมยังเป็นเฉพาะที่อยู่&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; การวัดผลตอบสนองต่อการรักษา สามารถทำได้ทั้งการซักประวัติ ซักถามอาการต่างๆ ของผู้ป่วย ที่เรียกว่า subjective response หรือแพทย์เป็นผู้ตรวจอาการแสดงต่างๆ การตรวจร่างกายวัดขนาดของรอยโรคที่เป็นการตรวจด้วยวิธีการทางรังสีวิทยา (X-Ray, ultrasonography, computerized tomography, magnetic resonance imaging, radionuclide imaging) การตรวจทางห้องปฏิบัติการ เช่น การตรวจหาระดับของ Tumor markers เป็นต้น เรียกว่า objective response การตรวจวัดคุณภาพชีวิตของผู้ป่วย (quality of life) การตรวจระยะเวลาที่โรคกลับเป็นซ้ำหลังการรักษาครั้งแรก (disease free survival) และการตรวจติดตามถึงอัตราและระยะเวลารอดชีวิตของผู้ป่วย (survival rate and time) สำหรับคำนิยามที่ใช้ทาง oncology ที่เป็นมาตรฐานสากลโดยองค์การอนามัยโลก<strong>ในการวัดการตอบสนองของผู้ป่วยมะเร็ง</strong>ต่อการรักษามีดังต่อไปนี้&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; &nbsp;Cure หมายถึงผู้ป่วยหายจากโรคมะเร็ง และมีชีวิตอยู่ได้เท่ากับคนปกติ โดยโรคมะเร็งไม่เป็นซ้ำ&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; &nbsp;Actuarial Survival เปรียบเทียบการที่ผู้ป่วยเสียชีวิตจากโรคมะเร็ง&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Observed Survival Rate ร้อยละของผู้ป่วยที่มีชีวิตอยู่ในระยะเวลาที่บ่งชี้หลังจากการวินิจฉัย&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; &nbsp;Relative Survival Rate แก้ไข survival rate โดยเปรียบเทียบกับ normal mortality expectation ในกลุ่มควบคุม&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Adjusted Survival Rate แก้ไขอัตราการรอดชีวิตของผู้ป่วยโรคมะเร็ง survival rate สำหรับการตายจากสาเหตุอื่นๆ ผู้ป่วยบางรายไม่พบว่ามีมะเร็งแล้วในขณะที่ถึงแก่กรรม&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Median Survival ระยะเวลาที่มีชีวิตของผู้ป่วยมะเร็งลำดับตรงกลางของกลุ่มที่ศึกษา ส่วนค่า mean survival rates ไม่มีความหมายชัดเจน เนื่องจากการรอดชีวิตของผู้ป่วยมะเร็งมีความแปรผันแตกต่างกันมาก ตั้งแต่ไม่กี่สัปดาห์ถึงหลายปี&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Complete response (CR) การหายไปของเนื้องอกอยากสิ้นเชิง เป็นเวลาอย่างน้อย 1 เดือน&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; &nbsp;Partial Remission (PR) ขนาดเนื้องอก (วัดจากเส้นผ่านศูนย์กลาง 2 ด้าน ตั้งฉากกัน) ลดลง 50% หลังจากรักษา และคงอยู่ขนาดนั้นเป็นเวลาอย่างน้อย 1 เดือน ไม่พบเนื้องอกใหม่เกิดขึ้น และไม่มีส่วนเนื้องอกที่โตขึ้น&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Minimal Remission (MR) เหมือน partial response แต่ขนาดลดลงไม่ถึง 50%&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; &nbsp;Progressive Disease (PD) ขนาดของเนื้องอกเพิ่มขึ้นมากกว่า 25% หรือมีรอยโรคใหม่เกิดขึ้น&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Stable Disease ขนาดก้อนเนื้องอกไม่เข้ากับเกณฑ์สำหรับ CR, PR, MR, หรือ progressive disease</span></span></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><strong>* ขอข้อมูลการรักษาและการดูแลผู้ป่วยมะเร็งโดยละเอียด</strong> <span style=\"color:#ff9900\"><strong>ฟรี!</strong>&nbsp;</span><br />
+&nbsp;&nbsp; <strong><a href=\"?name=contact\"><span style=\"color:#0099cc\">คลิกที่นี่</span></a></strong> หรือ <span style=\"color:#0099cc\"><strong>โทร.02-264-2217-9</strong></span></span></p>

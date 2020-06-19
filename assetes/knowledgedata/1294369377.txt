@@ -1,0 +1,19 @@
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><font size=\"2\" face=\"Arial\"><img alt=\"\" width=\"120\" height=\"142\" src=\"/UserFiles/Image/9.jpg\" /></font></p>
+            <p align=\"center\"><font size=\"2\" face=\"Arial\"><font color=\"#000000\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">Kake Kawa</font></font><br />
+            </font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ผู้ป่วยมะเร็งไทรอยด์</font></font><br />
+            <font color=\"#000000\" face=\"Arial\"><em><font face=\"Arial\">ประเทศญี่ปุ่น</font></em></font></font></font></font></font></font></font></strong></font></font></p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\" size=\"2\"><font color=\"#0099cc\" size=\"2\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">อยู่ต่อไปเพื่อดูรอยยิ้มคนครอบครัว</font><br />
+            <br />
+            </font></font></font></font></strong></font></font></font></font></font></font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ดิฉันได้กำลังใจในการต่อสู้โรคร้ายนี้จากบุคคลในครอบครัว&nbsp; ความเอาใจใส่จากพวกเขา คงไม่สามารถหาสิ่งใดมาทดแทนได้&nbsp; ดิฉันจึงอยากจะมีชีวิตอยู่ต่อไป เพื่อที่จะดูรอยยิ้มของทุกคนในครอบครัว และของดิฉันเอง<br />
+            </font></font></font></font></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>

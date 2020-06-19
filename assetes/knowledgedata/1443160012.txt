@@ -1,0 +1,58 @@
+<p><strong><span style=\"color:#0066ff; font-size:large\">อนุมูลอิสระเกิดขึ้นได้อย่างไร</span></strong></p>
+
+<p><img alt=\"\" src=\"/UserFiles/Image/antioxidant.jpg\" style=\"height:239px; width:292px\" /></p>
+
+<p><br />
+<span style=\"font-size:small\"><span style=\"font-family:Arial\">&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"font-family:Arial\"><strong><span style=\"color:#0066ff\">อนุมูลอิสระ หรือ free radical</span></strong> คือ อะตอมหรือโมเลกุลที่ไม่เสถียร เนื่องจากโครงสร้างของมันมีอิเล็กตรอนคู่โดดเดี่ยว จึงทำให้มันสามารถไปทำปฏิกิริยา (ปฏิกิริยาออกซิเดชั่น) กับโมเลกุลอื่นๆ เพื่อให้ตัวมันเสถียรขึ้น ซึ่งปฏิกิริยาออกซิเดชันนี้ มีผลทำให้เซลล์ภายในร่างกายถูกทำลายหรือได้รับบาดเจ็บ แล้วทำให้เกิดการเปลี่ยนแปลงภายในโครงสร้างหรือหน้าที่ของเซลล์เหล่านั้น จนกลายเป็นสาเหตุของการเกิดโรคขึ้น<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </span></span>ในภาวะปกติทั่วไปในร่างกายเรานั้นเกิดอนุมูลอิสระขึ้นตลอดเวลา แต่ว่าในร่างกายมีระบบการจัดการกับอนุมูลอิสระอยู่แล้วในระดับหนึ่ง ยกเว้น กรณีที่มีสิ่งรบกวนจากปัจจัยอื่น ทำให้เกิดอนุมูลอิสระมากขึ้นกว่าปกติ จนระบบต้านอนุมูลอิสระของร่างกายไม่สามารถควบคุมได้<br />
+<br />
+<strong><span style=\"color:#ff6600\"><span style=\"color:#0066ff\">แหล่งที่มาของอนุมูลอิสระ</span></span><br />
+<br />
+<span style=\"color:#ff6600\">1.&nbsp;อนุมูลอิสระเกิดจากภายในร่างกายเอง</span></strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; ขบวนการ metabolism ของร่างกาย โดยเฉพาะกระบวนการหายใจระดับเซลล์ ซึ่งมีการขนส่งอิเล็กตรอนในช่วงของ electron transport chain ซึ่งจะมีการส่งอิเล็กตรอนผ่านตัวรับหลายตัวตามความเข้มข้นของพลังงานจนถึงตัวรับตัวสุดท้ายคือ น้ำ ซึ่งในช่วงการขนส่งอิเล็กตรอนเหล่านี้ทำให้มีโอกาสที่จะมีอิเล็กตรอนหลุดออกจากการขนส่ง คือมีการปล่อยอิเล็กตรอนที่ไม่เสถียรออกมาในช่วงดังกล่าวนั่นเอง<br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; ขบวนการที่เกิดจากระบบภูมิคุ้มกันร่างกาย โดยเซลล์พวก phagocytic cells จะปล่อยสารอนุมูลอิสระเพื่อไปทำลายเซลล์ที่ติดเชื้อไวรัสหรือแบคทีเรีย ซึ่งกระบวนการดังกล่าวย่อมส่งผลกระทบต่อเซลล์ปกติข้างเคียงทำให้เกิดอนุมูลอิสระขึ้นมาได้มากขึ้น<br />
+<br />
+<strong><span style=\"color:#ff6600\">2.&nbsp;อนุมูลอิสระที่มาจากภายนอกร่างกาย<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </span></strong>-&nbsp; การสูบบุหรี่รวมถึงการสูดดมควันต่างๆ และยาสูบ<br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; มลพิษในอากาศหรือสารเคมี<br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; รังสีต่างๆ<br />
+&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;ยาบางชนิด<br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; สารเคมี<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ฯลฯ<br />
+<br />
+<span style=\"font-size:small\">&nbsp;&nbsp;&nbsp; โดยภาพรวมแล้วเมื่อเกิดภาวะความไม่สมดุลของอนุมูลอิสระ (Oxidative stress) อาจมีส่วนเกี่ยวข้องกับพยาธิสภาพของโรคต่าง ๆ ดังต่อไปนี้</span><br />
+<br />
+<span style=\"font-size:small\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. โรคทางระบบหัวใจและหลอดเลือด (Cardiovascular diseases)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. โรคมะเร็ง (Cancer)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. โรคเบาหวาน (Diabetes)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. โรคทางระบบประสาท (Neurological diseases)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. โรคทางระบบภูมิคุ้มกัน (Immune diseases)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. โรคตา (Eye diseases)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ภาวะชราภาพ (Aging)</span></span><br />
+&nbsp;</p>
+
+<p>&nbsp;<span style=\"font-size:small\"><img alt=\"\" src=\"/UserFiles/Image/antioxidant-2.jpg\" style=\"height:313px; width:350px\" /></span></p>
+
+<p><span style=\"font-size:small\"><strong><span style=\"color:#0066ff\">สารต้านอนุมูลอิสระ (Antioxidant)</span><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; </strong>เป็นสารที่สามารถไป neutralize อนุมูลอิสระโดยที่สารต้านอนุมูลอิสระนี้จะทำหน้าที่ให้หรือรับอิเล็กตรอน เพื่อกำจัดอิเล็กตรอนอิสระให้หมดไปโดยสารต้านอนุมูลอิสระนี้มีอยู่หลายประเภทแบ่งได้ตามประเภทใหญ่ได้ดังนี้<br />
+<br />
+<strong><span style=\"color:#ff6600\">1. สาร antioxidant ที่พบในร่างกาย</span></strong> <strong>สามารถแบ่งได้เป็น 2 ชนิด คือ</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; สารต้านอนุมูลอิสระพบในร่างกายและจัดเป็นเอนไซม์ ได้แก่ Superoxide dismutase (SOD), Catalase (CAT), Glutathione peroxide (GPX), Glutathione reductase (GR) และ Glutathione S-transferase (GST)<br />
+&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; สารต้านอนุมูลอิสระที่พบในร่างกายแต่ไม่จัดเป็นเอนไซม์ ได้แก่ Glutathione, Lipoic acid, Ceruloplasmin, Albumin, Transferrin, Haptoglobin, Hemopexin, Uric acid, Bilirubin และ Cysteine เป็นต้น<br />
+<br />
+<strong><span style=\"color:#ff6600\">2. สาร antioxidant ที่ได้จากภายนอก </span></strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp; โดยทั่วไปสารดังกล่าวเหล่านี้พบได้มากในอาหาร พวกกลุ่มผัก ผลไม้ ต่าง ๆ ซึ่งถือว่าเมื่อเข้ามาในร่างกายจะช่วยเสริมประสิทธิภาพการทำงานของสารต้านอนุมูลอิสระในร่างกายให้ดีขึ้นหรือทำให้กลไกการกำจัดอนุมูลอิสระเกิดได้เร็วยิ่งขึ้น&nbsp; สารต้านอนุมูลอิสระที่พบได้แก่ Tocopherol, &beta;-carotene, Ascorbic acid, Thiol, Taurine, Pyruvate, Flavonoid, BHT และ BHA เป็นต้น</span><br />
+<br />
+<br />
+<span style=\"font-size:small\"><strong>ขอบคุณข้อมูลจาก ดร.กมล&nbsp; ไชยสิทธิ์</strong></span><br />
+<br />
+<span style=\"font-size:small\">เอกสารอ้างอิง<br />
+1.&nbsp;Marcus SC, Mark DE, Miral D, Joseph L. Oxidative DNA damage: mechanism, mutation and disease. The FASEB Journal. 2003; 17: 1195-1210.<br />
+2.&nbsp;Moran B, David E, Alexander L. ROS, stress-activated kinases and stress signaling in cancer. EMBO reports. 2002; 3(5): 420-25.<br />
+3.&nbsp;ภาวะ oxidative stress กับการเกิดโรค. http://www.gpo.or.th/rdi/html/oxidative_stress.html [Available on 28 Jan 2008]</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>

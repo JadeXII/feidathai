@@ -1,0 +1,15 @@
+<div class=\"content-title-left\" style=\"DISPLAY: block; FLOAT: left; WIDTH: 370px\">
+<p id=\"h_title\" style=\"FONT-SIZE: 25px; MARGIN: 0px; COLOR: rgb(36,146,143); FONT-FAMILY: Arial, Tahoma, \'\'\'\'\'\'\'\'microsoft sans serif\'\'\'\'\'\'\'\'; TEXT-ALIGN: left\" align=\"left\"><font color=\"#000000\" size=\"4\"><strong>รายละเอียดการติดต่อ</strong></font></p>
+</div>
+<div class=\"content-title\" style=\"WORD-SPACING: 0px; FONT: 13px Arial, Tahoma, \'\'\'\'\'\'\'\'microsoft sans serif\'\'\'\'\'\'\'\'; TEXT-TRANSFORM: none; COLOR: rgb(58,58,58); TEXT-INDENT: 0px; WHITE-SPACE: normal; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left; WIDOWS: 2; ORPHANS: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" align=\"center\">
+<div class=\"clear-block\" style=\"CLEAR: both; DISPLAY: block; FONT-SIZE: 0px; HEIGHT: 0px\"></div>
+</div>
+<div class=\"content-detail-text\" style=\"DISPLAY: block; PADDING-BOTTOM: 15px; WORD-SPACING: 0px; FONT: 15px/19px Arial, Tahoma, \'\'\'\'\'\'\'\'microsoft sans serif\'\'\'\'\'\'\'\'; TEXT-TRANSFORM: none; COLOR: rgb(58,58,58); TEXT-INDENT: 0px; PADDING-TOP: 15px; WHITE-SPACE: normal; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left; WIDOWS: 2; ORPHANS: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" align=\"right\"><img title=\"BUMRUNGRAD INTERNATIONAL\" style=\"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; border-image: initial\" height=\"225\" alt=\"Bumrungrad Area Map\" width=\"300\" src=\"/UserFiles/Image/pranangklao.jpg\" /><br />
+<br />
+<font face=\"Arial\" color=\"#0099cc\" size=\"4\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">โรงพยาบาลพระนั่งเกล้า&nbsp; (นนทบุรี)</font><br />
+</font><br />
+</font></strong></font><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">206&nbsp; หมู่ที่6&nbsp; ต.บางกระสอ&nbsp; อ.เมือง&nbsp; จ.นนทบุรี&nbsp; 11000<br />
+</font></font></font></font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">02-5284567</font></font><br />
+</font></font></font><strong>โทรสาร:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">-<br />
+</font></font></font><strong>เว็บไซต์ : -</strong><br />
+</div>

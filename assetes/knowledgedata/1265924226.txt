@@ -1,0 +1,38 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img class="img-responsive" border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/m10.png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <font color=\"#000000\"><strong><font face=\"Arial\">เครือวัลย์&nbsp; ตุ้ยแม้น<br />
+            <font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">ญาติผู้ป่วย<br />
+            มะเร็งกระเพาะอาหาร</font></font></font></font></strong></font></font><span><strong><font color=\"#000000\"><br />
+            </font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">&nbsp;</font></font></font></strong></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\"><font color=\"#0099cc\"><strong><font size=\"3\" face=\"Arial\">ญาติผู้ป่วยคือกำลังสำคัญ</font></strong></font></font></font></font></font></font></font> </p>
+            <p align=\"left\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\">แม้ดิฉันจะเป็นพยาบาล แต่พอทราบว่าคนใกล้ชิดของตนเองเป็นโรคร้ายก็ยากจะทำใจได้ แต่ครอบครัวก็ยังคงไม่สิ้นหวัง การอยู่ในฐานะญาติผู้ป่วยมะเร็ง สิ่งสำคัญที่สุดในการดูแลรักษา คือ ตัวเราจะต้อง &ldquo;ไม่ท้อ&rdquo;&nbsp; เพราะถ้าเราท้อ ผู้ป่วยก็จะรู้สึกแย่ตามไปด้วย&nbsp; พยายามพูดให้กำลังใจอย่างสม่ำเสมอ ที่สำคัญ &ldquo;อย่าร้องไห้&rdquo; ให้ผู้ป่วยเห็น<br />
+            </font></font></font><font face=\"Arial\"><font color=\"#000000\" size=\"2\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color=\"#000000\" size=\"2\">ญาติเป็นกำลังใจหลักในการช่วยฟื้นฟูผู้ป่วยโรคมะเร็ง ด้วยการให้กำลังใจว่า &ldquo;ทุกวันชีวิตจะต้องดีขึ้น&rdquo; และวันหนึ่งที่ผู้ป่วยอาการดีขึ้น ญาติๆ จะรู้ว่าสิ่งที่ได้ทำมานั้น &ldquo;มีค่า&rdquo; มากแค่ไหน<br />
+            <br />
+            <font color=\"#ff00ff\"><strong><u><em>วีดีโอสัมภาษณ์</em></u></strong></font></font></font></p>
+            <embed height=\"185\" type=\"application/x-shockwave-flash\" width=\"280\" src=\"http://www.youtube.com/v/toQWKw2RcYg?hl=en&amp;fs=1\" allowfullscreen=\"true\" allowscriptaccess=\"always\"></embed>
+            <p align=\"left\">&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

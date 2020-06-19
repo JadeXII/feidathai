@@ -1,0 +1,351 @@
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>TH</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:ApplyBreakingRules />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+<w:UseFELayout />
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val=\"Cambria Math\" />
+<m:brkBin m:val=\"before\" />
+<m:brkBinSub m:val=\"--\" />
+<m:smallFrac m:val=\"off\" />
+<m:dispDef />
+<m:lMargin m:val=\"0\" />
+<m:rMargin m:val=\"0\" />
+<m:defJc m:val=\"centerGroup\" />
+<m:wrapIndent m:val=\"1440\" />
+<m:intLim m:val=\"subSup\" />
+<m:naryLim m:val=\"undOvr\" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]-->
+<p dir=\"LTR\" style=\"text-align:center\"><strong><span style=\"font-size:20.0pt\">ความสัมพันธ์ของภูมิคุ้มกันกับมะเร็ง</span></strong></p>
+
+<div style=\"text-align:center\">&nbsp;</div>
+
+<p dir=\"LTR\"><span style=\"font-size:medium\">&nbsp;</span></p>
+
+<div style=\"text-align:center\">
+<p><img alt=\"\" class=\"img-responsive\" src=\"/UserFiles/Image/o-IMMUNE-SYSTEM-facebook.jpg\" style=\"height:200px; width:400px\" /></p>
+
+<p>&nbsp;</p>
+</div>
+
+<p dir=\"LTR\" style=\"text-align:justify\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ระบบภูมิคุ้มกันประกอบด้วยเซลล์อิสระชนิดต่าง ๆ มากมาย ที่ทำหน้าที่ป้องกันร่างกายจากการรุกรานของแบคทีเรีย พาราสิต เชื้อรา และการเติบโตของเซลล์มะเร็ง เมื่อมีภาวะภูมิคุ้มกันโรคต่ำ อาจหมายถึงกำลังมีโรคต่าง ๆ เกิดขึ้น การเกิดการเติบโตและการกระจายตัวของเซลล์มะเร็งมีความสัมพันธ์กับภาวะของภูมิคุ้มกัน ร่างกายเช่นกัน ขณะเดียวกันการผ่าตัดและเคมีบำบัดในผู้ป่วยมะเร็ง อาจมีผลทำลายระบบภูมิคุ้มกันของผู้ป่วยได้ปัญหาที่ทำให้ภูมิคุ้มกันลดลงหรือบกพร่องลง เป็นปัญหาหนึ่งที่ทำให้การรักษาผู้ป่วยมะเร็งไม่ประสบผลสำเร็จ ซึ่งจะเห็นได้จากการกลับเป็นมะเร็ง หรือการลุกลามไปจุดอื่น วิธีการหนึ่งที่จะทำให้การรักษาผู้ป่วยมะเร็งได้ผลดีขึ้นคือการเพิ่มภูมิคุ้มกันของร่างกายต่อเซลล์มะเร็ง เซลล์เม็ดเลือดขาวชนิดที (T-lymphocyte) มีความสามารถในการแบ่งแยกเซลล์มะเร็ง และสามารถทำลายเซลล์มะเร็งได้ระดับหนึ่งดังนั้นการติดตามการทำงานของเซลล์เม็ดเลือดขาวชนิดที (T-lymphocyte) จึงมีความสำคัญมากและบ่งบอกถึงภาวะของภูมิคุ้มกันโรคของผู้ป่วยมะเร็ง</span></p>
+
+<p dir=\"LTR\" style=\"text-align:justify\"><span style=\"font-size:16px\">สำหรับเทียนเซียนซึ่งเป็นตำรับสมุนไพรจีนที่อยู่ในท้องตลาดมากว่า 25 ปี ได้ผ่านการศึกษาผลของเทียนเซียน ต่อระบบภูมิคุ้มกันในผู้ป่วยโรคมะเร็งที่ได้รับการฉายรังสี โดยการศึกษาดังกล่าวทำขึ้นที่ &nbsp;&nbsp;<strong>Cancer Treatment Center, Tungs&rsquo; Taichung Metro</strong><strong>H</strong><strong>arbor Hospital, Taiwan.</strong> นำทีมโดย นพ.เย่ ชื่อ หยวน<strong> </strong></span></p>
+
+<p dir=\"LTR\" style=\"text-align:justify\"><span style=\"font-size:16px\">การศึกษานี้ได้เก็บข้อมูลในผู้ป่วยโรคมะเร็งจำนวน 75 คน แบ่งเป็นกลุ่มทดสอบ 35 คน ที่ได้รับการฉายรังสี ควบคู่ไปกับรับประทานเทียนเซียนวันละ 2 ครั้ง นานติดต่อกัน 60 วัน และกลุ่มควบคุมจำนวน 40 คน ซึ่งได้รับการฉายรังสีอย่างเดียว เมื่อศึกษาดูการเปลี่ยนแปลงของระบบภูมิคุ้มกันของผู้ป่วยโดยการวิเคราะห์หาปริมาณของเซลล์เม็ดเลือดขาวชนิดที (T-lymphocyte) ณ ช่วงเวลาก่อนและหลังการรับการรักษาด้วยการฉายรังสี และช่วงเวลาที่ได้รับการฉายรังสี ผลพบว่า การทำงานของเซลล์เม็ดเลือดขาวชนิดที (T-lymphocyte) ในผู้ป่วยที่ได้รับเทียนเซียน มีประสิทธิภาพเพิ่มสูงขึ้น 45.7% มากที่สุดในผู้ป่วยที่เป็นมะเร็งเต้านม ซึ่งเพิ่มสูงถึง 83.3%</span></p>
+
+<p dir=\"LTR\" style=\"text-align:center\"><span style=\"font-size:16px\"><strong>ปรึกษาเพิ่มเติม โทร. 02-264-2217-9</strong></span></p>
+
+<p dir=\"LTR\" style=\"text-align:center\"><span style=\"font-size:16px\"><strong>เวลาทำการ 8.30-17.00น.</strong></span></p>
+
+<p dir=\"LTR\"><span style=\"font-size:16px\"><strong>&nbsp;</strong></span></p>
+<!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"
+DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"
+LatentStyleCount=\"267\">
+<w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\" />
+<w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\" />
+<w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\" />
+<w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\" />
+<w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\" />
+<w:LsdException Locked=\"false\" Priority=\"0\" Name=\"Body Text Indent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\" />
+<w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Table Grid\" />
+<w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\" />
+<w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\" />
+<w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\" />
+<w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\" />
+<w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\" />
+<w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\" />
+<w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\" />
+<w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\" />
+<w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:ตารางปกติ;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:\"\";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+mso-bidi-font-size:14.0pt;
+font-family:\"Calibri\",\"sans-serif\";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]-->

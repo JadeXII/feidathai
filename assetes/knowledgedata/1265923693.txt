@@ -1,0 +1,31 @@
+<table style=\"WIDTH: 900px; BORDER-COLLAPSE: collapse\" bordercolor=\"#b8b8b8\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td>
+            <div align=\"left\">
+            <table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+                <tbody>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m003.jpg\"><img class="img-responsive" title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m03.jpg\" /></a></div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\"><strong></strong>&nbsp;</div>
+                        <div align=\"left\"><strong><font color=\"#0000cc\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; เสาวลักษณ์&nbsp; วอทอง</font></strong></div>
+                        </td>
+                    </tr>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div><strong></strong>&nbsp;</div>
+                        <div><strong><font color=\"#0000cc\" size=\"3\">ชีวิตนี้ยังมีหวัง</font></strong><strong></strong></div>
+                        <p align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size=\"2\">ประมาณ 3 เดือนแรก ที่รักษามะเร็งพบว่าร่างกายฉันไม่ตอบสนองต่อยาเลย อีกทั้งมะเร็งที่ปอดยังกระจายเพิ่มขึ้นถึง 2-3 จุด และได้กระจายไปตับด้วย แต่ฉันยังมีความสบายใจอยู่ว่าตนเองมีการรักษาที่ดี และเชื่อมั่นว่าจะต้องเอาชนะมะเร็งได้เพียงแต่ต้องอาศัยเวลา ผลข้างเคียงมากมายแค่ไหนฉันยังสู้ต่อไป จนในที่สุดฉันก็ดีใจและโล่งใจเพราะมะเร็งได้หายไปหมดแล้ว </font></p>
+                        <p align=\"justify\"><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ฉันขอขอบคุณทุกคนในครอบครัวและเพื่อนร่วมงาน ที่ให้กำลังใจ และเป็นส่วนหนึ่งที่ทำให้ฉันมีวันนี้ ฉันขอเป็นกำลังใจให้ผู้ป่วยมะเร็งทุกคน</font></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

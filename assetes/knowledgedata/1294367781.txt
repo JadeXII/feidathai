@@ -1,0 +1,27 @@
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img border=\"0\" alt=\"\" align=\"left\" width=\"120\" height=\"142\" src=\"/UserFiles/Image/1(2).jpg\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            </font></p>
+            <p align=\"center\"><font size=\"2\" face=\"Arial\"><font color=\"#000000\"><strong><font face=\"Arial\"><font face=\"Arial\"><br />
+            <font face=\"Arial\"><br />
+            Edith&nbsp; Shih<br />
+            </font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\"><font face=\"Arial\">ผู้ป่วยมะเร็งเต้านม และมะเร็งปากมดลูก<br />
+            <font color=\"#000000\" face=\"Arial\"><em>ประเทศไต้หวัน</em></font></font></font></font></font></font></font></strong></font></font></p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\" size=\"2\"><font color=\"#0099cc\" size=\"2\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ขอบคุณสวรรค์ที่ให้ฉันเป็นมะเร็ง</font></font></font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ดิฉันขอบคุณเบื้องบนที่ได้ประทานโรคนี้มาให้&nbsp; เพื่อให้ดิฉันได้รู้ซึ้งถึงจิตใจ&nbsp; และความลำบากของเพื่อนที่อยู่ในสภาพเดียวกัน&nbsp; มีประสบการณ์เดียวกัน&nbsp; ซึ่งเราควรต้องมาแลกเปลี่ยนประสบการณ์ซึ่งกันและกัน&nbsp; เพื่อต่อสู้หาหนทางที่จะเอาชนะกับโรคร้ายนี้ได้</font></font></font></font></font>&nbsp; <a target=\"_blank\" href=\"http://www.siamca.com/clip-id47.html\"><font color=\"#0099cc\">อ่านฉบับเต็ม.</font>..</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>

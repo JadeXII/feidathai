@@ -1,0 +1,81 @@
+<span style=\"WIDOWS: 2; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(241,248,252); TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: 11px Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: normal; ORPHANS: 2; COLOR: rgb(102,102,102); WORD-SPACING: 0px; webkit-text-decorations-in-effect: none; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" class=\"Apple-style-span\">
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" size=\"4\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" color=\"#0066cc\"><strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" face=\"Arial\">การดูแลแก้ไขปัญหาในช่องปากของผู้ป่วยมะเร็ง&nbsp; ตอนที่ 2</font></strong></font></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\">&nbsp;</p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"center\"><strong><font color=\"#0066cc\" size=\"4\" face=\"Arial\"></font></strong></p>
+</span>
+<p align=\"center\"><img alt=\"ช่องปากของผู้ป่วยมะเร็ง\" width=\"250\" height=\"167\" src=\"/UserFiles/Image/mouth300(2).jpg\" /></p>
+<p align=\"center\">&nbsp;<br class=\"Apple-interchange-newline\" />
+</p>
+<span style=\"WIDOWS: 2; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(241,248,252); TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: small Arial; WHITE-SPACE: normal; ORPHANS: 2; COLOR: rgb(102,102,102); WORD-SPACING: 0px; webkit-text-decorations-in-effect: none; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" class=\"Apple-style-span\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" face=\"Arial\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" face=\"Arial\">
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\">&nbsp;&nbsp;&nbsp; <font size=\"2\">ผู้ป่วย<strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\">มะเร็ง</strong>ที่ใช้<strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\">เคมีบำบัด</strong>และ<strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\">ฉายรังสี</strong>บริเวณช่องปากมักมีปัญหาในช่องปากหลายอย่าง&nbsp; อาทิ&nbsp; อาการเยื่อบุในช่องปากอักเสบ&nbsp; มีอาการบวมแดง&nbsp; มีแผลในช่องปาก&nbsp; ทำให้มีความเจ็บปวด&nbsp; มีโอกาสติดเชื้อในช่องปากและระบบร่างกาย&nbsp; เป็นอุปสรรคต่อการรักษา ขอแนะนำวิธีการแก้ไข&nbsp; ดังนี้</font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font size=\"2\"></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font size=\"2\"></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font size=\"2\"></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font size=\"2\"><br style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" />
+</font></p>
+</font></font>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" face=\"Arial\"><strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\"></strong></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><font style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" color=\"#0066cc\" size=\"3\" face=\"Arial\"><strong style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\">กรณีที่ช่องปากมีแผล</strong></font></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p style=\"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px\" align=\"left\"><strong><font color=\"#0066cc\"></font></strong></p>
+<p><font size=\"2\" face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;หากมีปัญหาช่องปากแล้วการดูแลแก้ไขก็อาจแตกต่างกันตามระดับความรุนแรง โดยแบ่งได้เป็นหลายระดับ ดังนี้<br />
+1.&nbsp;เยื่อบุช่องปากเริ่มมีสีแดงบวม เป็นแผล เริ่มมีอาการเจ็บในช่องปากเล็กน้อย<br />
+2.&nbsp;เยื่อบุช่องปากมีสีแดง มีแผลและปวด แต่สามารถรับประทานอาหารธรรมดาหรืออาหารอ่อนได้ <br />
+3.&nbsp;เยื่อบุช่องปากมีสีแดงบวมมีแผล และปวดมีแผล รับประทานอาหารเหลวได้<br />
+4.&nbsp;เยื่อบุช่องปากอักเสบรุนแรง ไม่สามารถรับประทานอาหารได้ ต้องให้อาหารทางสายยางหรือทางหลอดเลือดดำแทน</font></p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"></font></p>
+<p>&nbsp;</p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\" face=\"Arial\"><font color=\"#0066cc\">&bull;&nbsp;การดูแลกรณีที่ช่องปากอักเสบระดับ 1-2</font> ผู้ป่วยมีอาการปวดบรรเทาลงแล้ว สามารถรับประทานอาหารได้<br />
+1.&nbsp;ยังใช้การดูแลเหมือนการดูแลช่องปากปกติตามข้างต้น แต่เพิ่มการบ้วนปากด้วยน้ำเกลือทุก 2 ชั่วโมง และ รับประทานอาหารอ่อนหรืออาหารเหลว<br />
+2.&nbsp;อมน้ำแข็ง เพื่อบรรเทาอาการปวดในช่องปากทุก 2 ชั่วโมง นานครั้งละ 5 นาที</font></p>
+<p>&nbsp;</p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\" face=\"Arial\"><font color=\"#0066cc\">&bull;&nbsp;การดูแลกรณีที่ช่องปากอักเสบระดับ 3-4</font> ผู้ป่วยบรรเทาอาการปวด สามารถรับประทานอาหารได้<br />
+1.&nbsp;ใช้ผ้าสะอาดนุ่มชุบน้ำเกลือพันนิ้วมือเช็ดปากแทนการแปรงฟัน ห้ามใช้ไหมขัดฟัน บ้วนปากด้วยน้ำเกลือทุก 1-2 ชั่วโมง และทาริมฝีปากด้วยวาสลีน<br />
+2.&nbsp;อมน้ำแข็ง เพื่อบรรเทาอาการปวดในช่องปากทุก 2 ชั่วโมง<br />
+3.&nbsp;ใช้ 2% Xylocaine viscious อมกลั้วปากและคอก่อนรับประทานอาหารเพื่อลดความปวด และให้ยาต้านเชื้อราและต้านจุลินทรีย์ ตามคำแนะนำของแพทย์</font></p>
+<p><font size=\"2\"></font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"></font></p>
+<p><font size=\"2\"><strong>ต้องการข้อมูลเพิ่มเติม</strong><a href=\"http://www.feidathai.com/?name=contact\"><font color=\"#0099cc\" size=\"2\"><strong>คลิกที่นี่</strong></font></a><font size=\"2\"><strong> หรือโทร <font color=\"#0099cc\">โทร.02-264-2217-9</font></strong></font></font> </p>
+<p><font face=\"Arial\"></font>&nbsp;</p>
+<p>&nbsp;</p>
+</span>

@@ -1,0 +1,23 @@
+<p style=\"text-align:center\"><span style=\"color:#0099cc; font-family:Arial; font-size:small\"><strong><span style=\"color:#3366ff; font-size:large\">รู้จัก T-cell</span> </strong></span></p>
+
+<p><br />
+&nbsp;</p>
+
+<p style=\"text-align:center\"><img alt=\"T-cell\" src=\"/UserFiles/Image/cyt-tcell-9.jpg\" style=\"height:356px; width:432px\" /></p>
+
+<p><br />
+&nbsp;</p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;T-cell (ทีเซลล์) เป็นเซลล์ในระบบภูมิคุ้มกันชนิด lymphocyte ที่ทำหน้าที่แข็งขันที่สุด โดย T lymphocyte เริ่มงานเมื่อได้รับสัญญาณจาก APC มีหน้าที่สร้างภูมิคุ้มกันด้านเซลล์ เรียกว่า cell-mediated immunity (CMI)&nbsp;&nbsp;ซึ่งที่สำคัญมี 3 ชนิด คือ</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;T helper หรือ CD4 มีหน้าที่ส่งเสริมภูมิคุ้มกัน เมื่อได้รับสัญญาณจาก APC มันจะกลายเป็น sensitized T cell ที่มีอานุภาพสูง หลั่งสารมากมายหลายชนิดออกมาจากเซลล์เรียกว่า cytokines เพื่อกระตุ้นเซลล์ชนิดต่างๆ ในระบบภูมิคุ้มกันให้เพิ่มจำนวนมากขึ้นอย่างรวดเร็วเหมือนระดมพล และเพิ่มประสิทธิภาพในการทำลายเชื้อโรคเหมือนทหารที่ฮึกเหิมพร้อมออกศึก</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;T suppressor หรือ CD8 มีหน้าที่ทำลายเชื้อโรคและสิ่งแปลกปลอม อีกทั้งยับยั้งการทำงานของเซลล์ภูมิคุ้มกันเมื่อหมดความจำเป็นแล้ว ไม่เช่นนั้นจะเกิดความเสียหายต่อร่างกายจากการทำงานที่เกินเลยของระบบภูมิคุ้มกัน</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)&nbsp;natural killer cell เป็นเซลล์เม็ดเลือดขาวที่มีหน้าที่ทำลายเซลล์มะเร็ง และเซลล์ที่ติดเชื้อไวรัสเป็นหลัก</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จะเห็นว่าเซลล์เหล่านี้ทำงานประสานกันอย่างดีเยี่ยม เพื่อรักษาสมดุลของระบบภูมิคุ้มกันไม่มากไปหรือน้อยไปจนเกิดความเสียหายตามมา</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ในยาสมุนไพรจีนบางชนิดมีฤทธิ์ในการกระตุ้นการทำงานของ T lymphocyte ซึ่งเป็นผลดีต่อผู้ป่วยโรคมะเร็ง เพราะเมื่อระบบภูมิคุ้มกันมีประสิทธิภาพ ย่อมส่งเสริมให้ผู้ป่วยรักษามะเร็งอย่างได้ผล ครบตามแผนที่วางไว้ โดยมีคุณภาพชีวิตที่ดี</span></p>
+
+<p><span style=\"font-size:16px\">รับข้อมูลยาจีนเพื่อการรักษามะเร็งให้ได้ผลดีและเร็วยิ่งขึ้น โทร.02-264-2217-9</span></p>

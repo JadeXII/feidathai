@@ -1,0 +1,31 @@
+<table style=\"WIDTH: 900px; BORDER-COLLAPSE: collapse\" bordercolor=\"#b8b8b8\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td>
+            <div align=\"left\">
+            <table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+                <tbody>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m006.jpg\"><img class="img-responsive" title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m06.jpg\" /></a></div>
+                        <div align=\"left\"><strong></strong>&nbsp;</div>
+                        <div align=\"left\"><strong></strong>&nbsp;</div>
+                        <div align=\"left\"><strong></strong>&nbsp;</div>
+                        <div align=\"left\"><strong><font color=\"#0000cc\" size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ภรณีรัตน์&nbsp;&nbsp; ผดุงวรศาสตร์</font></strong></div>
+                        </td>
+                    </tr>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div><strong></strong>&nbsp;</div>
+                        <div><font size=\"3\"><font color=\"#0000cc\"><strong>สิ่งสำคัญที่สุดอยู่ที่ใจ</strong><strong></strong></font></font></div>
+                        <div>&nbsp;</div>
+                        <div align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size=\"2\">นับตั้งแต่เป็นมะเร็ง ชีวิตของฉันก็เปลี่ยนไป ต้องดูแลตัวเองมากขึ้น เมื่อก่อนเป็นคนจริงจังมาก อยากทำอะไรก็ต้องทำให้ได้และต้องดีที่สุด ทำให้เครียดมาก ตอนนี้ปล่อยวางลง อารมณ์ดีขึ้น ดูแลตัวเองเรื่องอาหาร การออกกำลังกาย สิ่งแวดล้อมที่ดี เราก็มีสุขภาพดีได้ ใจเราสำคัญที่สุด เพราะเมื่อเรามีกำลังใจที่ดี เราก็พร้อมที่จะต่อสู้กับอาการเจ็บป่วยทุกอย่างได้</font></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

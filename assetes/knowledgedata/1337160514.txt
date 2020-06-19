@@ -1,0 +1,33 @@
+<p style=\"text-align:center\"><span style=\"color:#339966; font-family:Arial; font-size:large\"><strong>การฝังแร่รักษามะเร็ง</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p style=\"text-align:center\"><img alt=\"\" src=\"/ckfinder/userfiles/images/18_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87-01.jpg\" style=\"height:292px; width:560px\" /></p>
+
+<p><span style=\"font-family:Arial; font-size:medium\">&nbsp;<span style=\"font-size:small\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size:16px\">&nbsp;</span></span></span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;การฝังแร่เพื่อรักษามะเร็ง (Brachytherapy) สามารถรักษามะเร็งได้หลายชนิด อาทิ มะเร็งปากมดลูก รังไข่ เยื่อบุมดลูก หลอดอาหาร ลำไส้ใหญ่ ปอด ฯลฯ</span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"color:#339966\"><strong>หลักการทั่วไปของการฝังแร่</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; สำหรับวิธีการสอดใส่แร่ ในอดีตแร่จะถูกใส่ไปพร้อมเครื่องมือ (applicator) เรียกวิธีการนี้ว่า preloading ซึ่งแพทย์และบุคลากร ที่เกี่ยวข้องได้รับอันตรายจากรังสีโดยตรง จึงไม่นิยมใช้ วิธีนี้ ในปี พ.ศ.2493 มีการพัฒนาโดยใส่เครื่องมือที่มีรูกลวงในตำแหน่ง ที่เหมาะสมก่อนที่จะใส่แร่ตามหลังเรียกวิธีนี้ว่า after-loading ซึ่งในระยะแรกยังใส่แร่ด้วยมือ เรียก manual afterloading ดังนั้นเพื่อหลีกเลี่ยงการได้รับอันตรายจากรังสี ในปัจจุบันจึงมีการพัฒนาใช้เครื่องมืออิเลคทรอนิคที่อยู่ภายนอกห้องรักษาผู้ป่วย ควบคุมการใส่แร่แทนการใส่แร่ด้วยมือเรียกวิธีนี้ว่า remote afterloading6</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;<span style=\"color:#339966\"><strong>ปัจจุบันวิธีการรักษาด้วยการฝังแร่ มีดังนี้</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"color:#339966\">1. Molds (surface application)</span> แร่จะถูกวางแนบชิดไปตามผิวของ<strong><a href=\"http://www.feidathai.com/?name=knowledge&amp;file=readknowledge&amp;id=26\" title=\"ก้อนมะเร็ง\">ก้อนมะเร็ง</a></strong> ได้แก่ มะเร็งบริเวณใบหูชั้นนอก <strong><a href=\"http://www.feidathai.com/\" title=\"มะเร็ง\">มะเร็ง</a></strong> ผิวหนัง<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"color:#339966\">2. Intracavitary brachytherapy</span> เป็นการสอดใส่แร่เข้า ไปในโพรงของอวัยวะที่เป็นโรค โดยวางแร่ใกล้กับ<strong>ก้อนมะเร็ง</strong> ได้แก่ <strong><a href=\"http://www.feidathai.com/?name=knowledge&amp;file=readknowledge&amp;id=44\" title=\"มะเร็งปากมดลูก\">มะเร็งปากมดลูก</a></strong> <strong>มะเร็งเยื่อบุโพรงมดลูก</strong> <strong>มะเร็งช่องคลอด</strong> <strong><a href=\"http://www.feidathai.com/?name=knowledge&amp;file=readknowledge&amp;id=45\" title=\"มะเร็งหลังโพรงจมูก\">มะเร็งหลังโพรงจมูก</a></strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"color:#339966\">3. Intraluminal brachytherapy</span> เป็นการ สอดใส่แร่ในหลอดหรือท่อของอวัยวะที่เป็นโรค ได้แก่ <strong>มะเร็งหลอดอาหาร มะเร็งหลอดลม มะเร็งท่อน้ำดี</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"color:#339966\">4. Interstitial brachytherapy</span> เป็นการเสียบใส่แร่เข้าไปใน<strong>ก้อนมะเร็ง</strong>โดยตรง ได้แก่ มะเร็งของช่องปาก เช่น (ลิ้น ริมฝีปาก) <strong><a href=\"http://www.feidathai.com/?name=knowledge&amp;file=readknowledge&amp;id=42\" title=\"มะเร็งเต้านม\">มะเร็งเต้านม</a></strong> มะเร็งต่อมลูกหมาก มะเร็งปากช่องคลอด มะเร็งทวารหนัก การเสียบใส่แร่มี 2 แบบ คือ แบบชั่วคราว (Temporary) โดยให้แร่อยู่ใน<strong>ก้อนมะเร็ง</strong>จนได้ปริมาณรังสีที่ต้องการ แล้วจึงนำแร่ออกจาก<strong>ก้อนมะเร็ง</strong> และ แบบถาวร (Permanent) จะฝังแร่ไว้ใน<strong>ก้อนมะเร็ง</strong>จนแร่สลายตัวหมด แร่ที่ใช้ในการฝังแบบถาวร ได้แก่ ไอโอดีน (I-125) ทอง (Au-198)</span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial\"><span style=\"color:#339966\"><strong>ประโยชน์ของการฝังแร่</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; การฝังแร่เป็นการรักษาที่ใช้รังสีเข้าไปใกล้ตำแหน่งที่ต้องการรักษาโดยตรง ทำให้ได้รับรังสีปริมาณมาก และอวัยวะใกล้เคียงอื่นที่ไม่ต้องการที่ไม่เกี่ยวข้องจะได้รับรังสีน้อยลง<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; ใช้เป็นการรักษาร่วมกับการฉายรังสีจากภายนอก</span></span></p>
+
+<p><span style=\"font-size:16px\">&nbsp;<span style=\"color:#339966\"><strong>ความเสี่ยงและผลข้างเคียงของการรักษา</strong> </span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; ผลจากรังสี เนื่องจากแร่มีพลังงานสูง ดังนั้นห้องฝังแร่ต้องเป็นห้องปิดและมีเครื่องกั้นรังสี<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; อาจมีอาการไข้ต่ำๆ หลังการใส่แร่<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; อาการปวดท้องบริเวณที่ใส่แร่<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; มีอาการคลื่นไส้ อาเจียน<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &bull; อาจมีอาการเลือดออกหลังการใส่แร่&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<p><span style=\"font-size:16px\">&nbsp; </span></p>
+
+<p><span style=\"font-size:16px\">รับข้อมูลยาจีนเพื่อการรักษามะเร็งให้ได้ผลดีและเร็วยิ่งขึ้น&nbsp;<a href=\"http://www.feidathai.com/?name=contact\"><span style=\"color:#0099cc\">คลิกที่นี่</span></a> หรือโทร <span style=\"color:#0099cc\">โทร.02-264-2217-9</span>&nbsp;</span></p>

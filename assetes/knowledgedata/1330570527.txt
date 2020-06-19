@@ -1,0 +1,13 @@
+<div class=\"content-title-left\" style=\"DISPLAY: block; FLOAT: left; WIDTH: 370px\">
+<p id=\"h_title\" style=\"FONT-SIZE: 25px; MARGIN: 0px; COLOR: rgb(36,146,143); FONT-FAMILY: Arial, Tahoma, \'\'microsoft sans serif\'\'; TEXT-ALIGN: left\" align=\"left\"><font color=\"#000000\" size=\"4\"><strong>รายละเอียดการติดต่อ</strong></font></p>
+</div>
+<div class=\"content-title\" style=\"WORD-SPACING: 0px; FONT: 13px Arial, Tahoma, \'\'microsoft sans serif\'\'; TEXT-TRANSFORM: none; COLOR: rgb(58,58,58); TEXT-INDENT: 0px; WHITE-SPACE: normal; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left; WIDOWS: 2; ORPHANS: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" align=\"center\">
+<div class=\"clear-block\" style=\"CLEAR: both; DISPLAY: block; FONT-SIZE: 0px; HEIGHT: 0px\"></div>
+</div>
+<div class=\"content-detail-text\" style=\"DISPLAY: block; PADDING-BOTTOM: 15px; WORD-SPACING: 0px; FONT: 15px/19px Arial, Tahoma, \'\'microsoft sans serif\'\'; TEXT-TRANSFORM: none; COLOR: rgb(58,58,58); TEXT-INDENT: 0px; PADDING-TOP: 15px; WHITE-SPACE: normal; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left; WIDOWS: 2; ORPHANS: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" align=\"right\"><img title=\"BUMRUNGRAD INTERNATIONAL\" style=\"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; border-image: initial\" height=\"162\" alt=\"Bumrungrad Area Map\" width=\"312\" src=\"/UserFiles/Image/ramatibdee.jpg\" /><br />
+<br />
+<font face=\"Arial\" color=\"#0099cc\" size=\"4\"><strong><font face=\"Arial\">โรงพยาบาลรามาธิบดี <br />
+</font></strong></font><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\">เลขที่ 270 ถ.พระรามหก แขวงพญาไท เขตราชเทวี กรุงเทพฯ 10400</font><br />
+</font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\">02-354730, 02-2012652-3, 02-2012731</font><br />
+</font><strong>โทรสาร:</strong> <font face=\"Arial\">-<br />
+</font><strong>เว็บไซต์ : <font face=\"Arial\"><a target=\"_blank\" href=\"http://ramacme.ra.mahidol.ac.th/\">http://ftrama.ramacme.org</a></font></strong></div>

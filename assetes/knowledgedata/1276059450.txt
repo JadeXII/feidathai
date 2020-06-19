@@ -1,0 +1,25 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img alt=\"\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/chusri2.png\" /><br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <font color=\"#000000\"><strong><font face=\"Arial\"><font face=\"Arial\">ชูศรี&nbsp; กุลวัฒโฑ<br />
+            <font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">ผู้ป่วยมะเร็งโพรงมดลูก</font></font></font>&nbsp;</font></font></strong></font></font><span><strong><font color=\"#000000\"><br />
+            </font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">&nbsp;</font></font></font></strong></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\"><font color=\"#0099cc\"><strong><font face=\"Arial\"><font size=\"3\" face=\"Arial\">ขอเพียงมีความสุขกับปัจจุบัน</font></font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\"><font face=\"Arial\">ผู้คนส่วนมากยังมีความเชื่อว่าโรคมะเร็งเป็นโรคที่ไม่สามารถรักษาให้หายขาดได้&nbsp; ผู้ป่วยเป็นมะเร็งแล้วจะต้องนอนรอวันตายอย่างเดียว&nbsp; ขณะเดียวกันปรากฏว่ายังมีผู้ป่วยมะเร็งจำนวนไม่น้อยที่ไม่ยอมพ่ายแพ้&nbsp; ไม่ท้อแท้สิ้นหวัง&nbsp; ตั้งสติกำลังยืนหยัดกัดฟันสู้กับโรคร้ายทุกวิถีทางอย่างกล้าหาญอดทน<br />
+            &nbsp;<br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ดิฉันเป็นมะเร็งโพรงมดลูก ระยะ 3 ในวัยเกือบ 80 ปี ปัจจุบันนี้ดิฉันยังคงดูแลสุขภาพอย่างต่อเนื่องมาตลอด เสริมสร้างพลังกายและพลังใจที่จะยืนหยัดต่อสู้กับเพชฌฆาตเงียบ คือ มะเร็งร้ายต่อไปอย่างไม่ย่อท้อ&nbsp; ไม่สิ้นหวัง&nbsp; ทั้งนี้ โรคมะเร็งร้ายจะหายหรือไม่หาย..ไม่สำคัญ ขอเพียงให้ปัจจุบันมีความสุขมีคุณภาพชีวิตที่ดี&nbsp; มีกำลังใจดีอยู่อย่างมีสติก็พอใจที่สุดแล้ว&nbsp;&nbsp; <a target=\"_blank\" href=\"http://www.siamca.com/clip-id40.html\"><font color=\"#0099cc\">อ่านฉบับเต็ม.</font>..</a></font></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>

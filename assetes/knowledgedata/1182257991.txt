@@ -1,0 +1,13 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><font face=\"MS Sans Serif\">โดยปกติแล้ว window จะ บล็อกความเร็วเน็ต ไว้ <font color=\"#ff0000\">20</font> เปอร์เซ็นต์ เรามีวิธีปลดบล๊อกได้ด้งนี้ </font></p>
+<p><font face=\"MS Sans Serif\">1. คลิกที่ปุ่ม Start <br />
+2. เลือกที่แถบรายการ Run <br />
+3. ที่ช่อง Open พิมพ์คำว่า gpedit.msc แล้วคลิก OK <br />
+4. จะแสดงหน้าต่างของการปรับแต่ง Group Policy <br />
+5. ที่ Computer Configaration เลือกแถบ Administrative Templates <br />
+6. หัวข้อ Network เลือกที่ QoS Packet Scheduler <br />
+7. มองหน้าต่างด้านขวามือ ให้ดับเบิ้ลคลิกที่ Limit reservable bandwidth <br />
+8. จะปรากฎกรอบหน้าต่างใหม่ Limit reservable bandwidth Properties <br />
+9. เลือกแถบ Setting คลิกที่ช่อง Enable <br />
+10. ในช่อง bandwidth limit (%) : ปรับค่าเป็น 0 <br />
+11. คลิก OK เพื่อยืนยันการใช้งาน แค่นี้เองลองนำไช้ดูครับ</font></p>

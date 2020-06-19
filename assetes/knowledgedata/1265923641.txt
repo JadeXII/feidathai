@@ -1,0 +1,38 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img class="img-responsive" border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/m02.png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <font color=\"#000000\"><strong><font face=\"Arial\">นัฎฐพล&nbsp; มงคลนิมิตร<br />
+            <font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">ญาติผู้ป่วย<br />
+            มะเร็งต่อมน้ำเหลือง</font></font></font></font></strong></font></font><span><strong><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">&nbsp;</font></font></font></strong></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\"><font color=\"#0099cc\"><strong><font size=\"3\" face=\"Arial\">อดทนและเสียสละทำให้ดีที่สุด</font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=\"#000000\"><font size=\"2\"><font face=\"Arial\">หลังจากที่รู้ว่าแม่เป็นมะเร็ง และหมอบอกว่าผู้ป่วยจะมีอายุได้ไม่เกิน 6 เดือน วันนั้นผมจัดประชุมสมาชิกภายในบ้านทั้งหมดทันที เราตกลงกันว่าจะไม่บอกคุณแม่ว่าเป็นโรคร้าย เพราะเราเชื่อว่าจิตใจเป็นส่วนสำคัญที่จะกำหนดภาวะของโรคได้<br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></font><font face=\"Arial\"><font color=\"#000000\" size=\"2\">สิ่งสำคัญอีกอย่างในการเอาชนะมะเร็ง ที่ขาดไม่ได้เลยก็คือ ความอดทนและเสียสละของเราเอง ที่เราต้องทำให้ท่านเพื่อเป็นการทดแทนบุญคุณของท่าน เพื่อให้ท่านมีความสุขมากที่สุดในช่วงเวลาที่เหลืออยู่ ในอนาคตถ้ามีอะไรเกิดขึ้นผมจะไม่เสียใจเลย เพราะผมถือว่าได้ทำดีที่สุดแล้ว <a target=\"_blank\" href=\"http://www.siamca.com/clip-id23.html\"><font color=\"#0099cc\">อ่านฉบับเต็ม.</font>..</a><br />
+            </font></font></p>
+            <p align=\"left\"><br />
+            &nbsp;<font color=\"#ff00ff\" size=\"2\"><em><strong>วีดีโอสัมภาษณ์<br />
+            <br />
+            <embed height=\"185\" type=\"application/x-shockwave-flash\" width=\"280\" src=\"http://www.youtube.com/v/9sT0NORaGPU?hl=en&amp;fs=1\" allowfullscreen=\"true\" allowscriptaccess=\"always\"></embed></strong></em></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

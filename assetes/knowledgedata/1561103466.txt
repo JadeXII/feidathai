@@ -1,0 +1,68 @@
+<p style=\"text-align:center\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><img alt=\"\" src=\"/ckfinder/userfiles/images/560%20x%20292-01(42).jpg\" style=\"height:292px; width:560px\" /></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; ปัจจุบันมีเทคโนโลยีมากมายที่คอยช่วยอำนวยความสะดวกแก่มนุษย์จนทำให้เกิดการปลูกฝังพฤติกรรมรักความสะดวกสบาย เกิดพฤติกรรมการนั่ง กิน นอน&nbsp; มีการบริโภคที่มากจนเกินความต้องการ ไม่มีการออกกำลังกาย อันส่งผลให้เกิดกลุ่มอาการอ้วนลงพุง (Metabolic syndrome) ตามมา</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"color:#c0392b\"><strong>กลุ่มอาการอ้วนลงพุง (Metabolic syndrome) คือ กลุ่มความผิดปกติที่พบร่วมกัน ได้แก่ ความผิดปกติของไขมันในเลือด ความดันโลหิต ระดับน้ำตาล ตลอดจนปัจจัยที่เป็นสารตั้งต้นของการอักเสบ (Proinflammatory, prothrombotic) ที่เป็นปัจจัยเสี่ยงต่อการเกิดโรคเบาหวาน ความดันโลหิตสูง โรคหลอดเลือด และโรคเรื้อรังต่าง ๆ</strong></span></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; ในสหรัฐอเมริกา พบกลุ่มคนในช่วงอายุ 20 &ndash; มากกว่า 70 ปี มีกลุ่มอาการอ้วนลงพุงโดยรวมประมาณร้อยละ 22 โดยพบว่าหากอายุมากขึ้นจะยิ่งมีความเสี่ยงเพิ่มมากขึ้น</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; ส่วนข้อมูลกลุ่มอาการอ้วนลงพุงในประเทศไทย (Interasia study) ในประชากรอายุมากกว่าหรือเท่ากับ 35 ปี จำนวน 5,091 ราย พบประมาณร้อยละ 21.9 (NCEP ATP III) พบว่าเพศหญิงมีกลุ่มอาการอ้วนลงพุงมากกว่าเพศชายโดยเฉพาะในผู้สูงอายุ และความผิดปกติที่พบบ่อยสุด คือ ไขมันดี (HDL) ต่ำ</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#c0392b\"><strong>เราจะมีความเสี่ยงต่อภาวะอ้วนลงพุงได้เมื่อไหร่</strong></span><br />
+เมื่อมีลักษณะที่เข้าได้กับเกณฑ์ NCEP ATP III 2005 มากกว่าหรือเท่ากับ 3 ข้อ ดังต่อไปนี้</span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เมื่อมีเส้นรอบเอว : &gt;/= 90 ในชาย และ &gt;/= 80 ซม.ในหญิง (เกณฑ์คนเอเชีย)</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ความดันโลหิต : &gt;/= 130/85 มม.ปรอทหรือได้รับการรักษาด้วยยาลดความดันโลหิต</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ระดับน้ำตาลในเลือด : &gt;/= 100 มก./ดล. หรือได้รับการรักษาภาวะน้ำตาลในเลือดสูง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ระดับไขมันดี (HDL) : &lt; 40 มก./ดล.ในชาย หรือ &lt; 50 มก./ดล.ในหญิง หรือได้รับการรักษาภาวะไขมันดีต่ำด้วยการทานยา</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ระดับไขมันไตรกลีเซอไรด์ : &gt;/= 150 มก./ดล.หรือได้รับการรักษาภาวะไขมันไตรกลีเซอไรด์สูงด้วยยา</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#c0392b\"><strong>สาเหตุของกลุ่มอาการอ้วนลงพุง (Metabolic syndrome)</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; สาเหตุหลัก คือ ภาวะอ้วน และภาวะดื้อต่ออินสุลิน (คือภาวะที่ฮอร์โมนอินสุลินมีความผิดปกติ ไม่สามารถจับกับน้ำตาลในเลือด ทำให้ระดับน้ำตาลในเลือดสูงขึ้น) จะทำให้มีความเสี่ยงต่อการเกิดโรคเบาหวาน โรคหัวใจและหลอดเลือดตามมาได้</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#c0392b\"><strong>ปัจจัยเสี่ยงต่อการเกิดกลุ่มอาการอ้วนลงพุง</strong></span></span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">น้ำหนักที่เพิ่มขึ้น จัดเป็นปัจจัยหลักในการเพิ่มกลุ่มอาการอ้วนลงพุง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เชื้อชาติ : ในสหรัฐอเมริกา พบประชากรที่จัดอยู่ในกลุ่มอาการอ้วนลงพุงมากกว่าคนยุโรปเนื่องจากคนอเมริกามีคนอ้วนมากกว่า</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">วัยหลังหมดประจำเดือน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">สูบบุหรี่</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">การรับประทานอาหารในกลุ่มคาร์โบไฮเดรตในปริมาณมาก</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">การไม่ออกกำลังกาย เช่น การนั่งทำงานตลอดทั้งวัน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">การใช้ยาจิตเวชบางชนิด โดยเฉพาะ ยา Clozapine</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#c0392b\"><strong>ความผิดปกติที่เกิดจากภาวะอ้วนลงพุง</strong></span></span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เสี่ยงต่อการเป็นเบาหวาน (type 2 DM) จากการรวบรวมศึกษาของกลุ่มคนหลายเชื้อชาติ พบอัตราความเสี่ยงเบาหวานในกลุ่มอาการอ้วนลงพุงประมาณ 3.53 &ndash; 5.17</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เกิดโรคหัวใจและหลอดเลือด</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ภาวะไขมันสะสมคั่งในตับ ภาวะตับแข็ง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">โรคไตเรื้อรัง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">การนอนหลับผิดปกติ รวมถึงการหยุดหายใจขณะหลับ</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เก๊าท์และภาวะกรดยูริกสูง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ภาวะสมองเสื่อม (cognitive decline, dementia)</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#c0392b\"><strong>การรักษากลุ่มอาการอ้วนลงพุง</strong></span><br />
+การแก้ไขปัจจัยที่เป็นสาเหตุอันได้แก่ โรคอ้วนและภาวะดื้อต่ออินสุลิน ดังต่อไปนี้</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>1. ปรับเปลี่ยนพฤติกรรม</strong></span></span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ลดน้ำหนัก ควบคุมอาหารที่รับประทาน ด้วยการควบคุมอาหารหรือจำกัดปริมาณพลังงานที่ได้จากอาหารให้เหมาะสม ลดขนาดของอาหารที่ทานในแต่ละมื้อ ควรทานอาหารที่มีกากใยอาหารให้มากกว่า 30 กรัมต่อวัน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ออกกำลังกาย ด้วยความแรงระดับปานกลางอย่างสม่ำเสมออย่างน้อย 30 นาทีต่อวันและอย่างน้อย 3 &ndash; 5 วันต่อสัปดาห์</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>2. เมื่อตรวจพบความผิดปกติควรได้รับการรักษาปัจจัยเสี่ยงต่าง ๆ ของโรคหัวใจและหลอดเลือด</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ได้แก่ การรักษาไขมันในเลือดสูงผิดปกติ การรักษาความดันโลหิตสูง และรักษาระดับน้ำตาลในเลือดสูง ด้วยการปรับเปลี่ยนพฤติกรรมและอาจจะต้องพิจารณารักษาด้วยยาตามความเสี่ยงของแต่ละบุคคล</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; กลุ่มอาการอ้วนลงพุง เป็นโรคไม่ติดต่อที่สามารถป้องกันได้ เพียงแค่มีความรู้ เข้าใจ ตระหนักถึงความสำคัญ ของความเสี่ยง ตลอดจนผลกระทบที่เกิดขึ้นในอนาคต&nbsp; เพื่อที่จะปรับเปลี่ยนพฤติกรรม ก่อนที่ภัยเงียบจะเข้าใกล้ตัวคุณ</span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ข้อมูลจาก พญ. พรรณราย เลอวัฒนกิจถาวร รพ.สมิติเวช ศรีนครินทร์</span></span></p>

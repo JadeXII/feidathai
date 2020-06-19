@@ -1,0 +1,31 @@
+<table cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" class=\"bgbody\">
+    <tbody>
+        <tr>
+            <td class=\"magin\"><strong><font color=\"#0000ff\" size=\"3\">&nbsp;&nbsp; &nbsp;<font color=\"#339966\">ชีวิตอย่างไรเมื่อเป็นมะเร็ง</font></font></strong>
+            <div align=\"left\">&nbsp;</div>
+            <div align=\"left\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size=\"3\">วันเสาร์ที่ 9 กุมภาพันธ์ 2008 ร่วมจัดกิจกรรม <strong>ใช้ชีวิตอย่างไรเมื่อเป็นมะเร็ง</strong> ณ โรงพยาบาลบีแคร์ เมดิคอลเซ็นเตอร์</font>&nbsp;<br />
+            <br />
+            </div>
+            </td>
+        </tr>
+        <!-- End PATHWAY and ICON -->
+        <tr>
+            <td valign=\"top\" align=\"left\">
+            <table cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">
+                <tbody>
+                    <tr>
+                        <td class=\"magin\" id=\"rv_adjust_width_0\" valign=\"top\" align=\"left\" width=\"1000\">
+                        <p align=\"center\"><a title=\"bcare1\" rel=\"lightbox_vlb\" href=\"data/images/bcare1.jpg\"><img class="img-responsive" alt=\"bcare1\" src=\"data/thumbnails/bcare1.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a title=\"bcare2\" rel=\"lightbox_vlb\" href=\"data/images/bcare2.jpg\"><img class="img-responsive" alt=\"bcare2\" src=\"data/thumbnails/bcare2.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title=\"bcare3\" rel=\"lightbox_vlb\" href=\"data/images/bcare3.jpg\"><img class="img-responsive" alt=\"bcare3\" src=\"data/thumbnails/bcare3.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title=\"mission1\" rel=\"lightbox_vlb\" href=\"data/images/mission1.jpg\"><img class="img-responsive" alt=\"mission1\" src=\"data/thumbnails/mission1.png\" /></a>&nbsp;<br />
+                        <br />
+                        <br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a title=\"mission2\" rel=\"lightbox_vlb\" href=\"data/images/mission2.jpg\"><img class="img-responsive" alt=\"mission2\" src=\"data/thumbnails/mission2.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title=\"mission3\" rel=\"lightbox_vlb\" href=\"data/images/mission3.jpg\"><img class="img-responsive" alt=\"mission3\" src=\"data/thumbnails/mission3.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a title=\"mission4\" rel=\"lightbox_vlb\" href=\"data/images/mission4.jpg\"><img class="img-responsive" alt=\"mission4\" src=\"data/thumbnails/mission4.png\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title=\"Taiwan1\" rel=\"lightbox_vlb\" href=\"data/images/taiwan1.jpg\"></a>&nbsp;<strong><font color=\"#0000ff\" size=\"3\">&nbsp;&nbsp;&nbsp;&nbsp;</font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div align=\"left\"><strong><font color=\"#0000ff\" size=\"3\">&nbsp; </font></strong></div>

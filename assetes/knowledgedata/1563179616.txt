@@ -1,0 +1,37 @@
+<p style=\"text-align:center\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><img alt=\"\" src=\"/ckfinder/userfiles/images/560%20x%20292-01(58).jpg\" style=\"height:292px; width:560px\" /></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style=\"color:#c0392b\"><strong><span style=\"font-size:18px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"> โรคจอประสาทตาเสื่อม</span></span></strong></span><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"> เป็นโรคที่มีความผิดปกติเกิดขึ้นบริเวณจุดกลางรับภาพของจอประสาทตาพบมากในช่วงอายุตั้งแต่ 65 ปีขึ้นไป และเป็นหนึ่งสาเหตุสำคัญของการสูญเสียการมองเห็นในผู้สูงอายุ ส่งผลให้สูญเสียการมองเห็นเฉพาะตรงกลางภาพ โดยภาพด้านข้างจะยังเห็นได้ดีอยู่ เช่น คุณอาจเห็นขอบของนาฬิกา แต่ไม่สามารถบอกได้ว่าเป็นเวลาอะไร โรคจอ ประสาทตาเสื่อมจะไม่ทำให้การมองเห็นมืดสนิทไปทั้งหมด แม้แต่ในรายที่เป็นมากผู้ป่วยจะยังพอมองเห็นทางด้านขอบข้างของภาพ และสามารถช่วยเหลือดูแลตัวเองได้บ้าง</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>สาเหตุ ของโรคจอประสาทตาเสื่อม</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; มีหลายภาวะที่เป็นต้นเหตุทำให้เกิดโรคจอประสาทตาเสื่อมได้ เช่น คนที่มีสายตาสั้นมาก ๆ (Degenerative or Pathologic Myopia) หรือโรคติดเชื้อบางชนิด แต่สาเหตุส่วนใหญ่จะพบในผู้สูงอายุ จึงเชื่อว่าเป็นขบวนการเสื่อมสภาพของร่างกาย (Aging Process) แต่ไม่ทราบสาเหตุที่ชัดเจน ผลการศึกษาวิจัยจากหลายสถาบันพบว่า มีปัจจัยเสี่ยงหลายด้านที่ส่งผลต่อการเกิดโรคจอประสาทตาเสื่อมตามอายุ (Aged related macular degeneration) ได้แก่</span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>อายุ</strong> พบโรคนี้ได้บ่อยขึ้นในคนที่มีอายุมากกว่า 50 ปีขึ้นไป</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>พันธุกรรม</strong> มีความสัมพันธ์ทางพันธุกรรมของคนที่เป็นโรคกับญาติสายตรง ผู้เกี่ยวข้องควรได้รับการตรวจเช็คจอประสาทตาทุกๆ 2 ปี</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>เชื้อชาติ/ เพศ</strong> พบอุบัติการของโรคมากที่สุดในคนผิวขาว (Caucasian) เพศหญิง อายุมากกว่า 60 ปี</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>บุหรี่</strong> มีหลักฐานทางการศึกษาพบว่า การสูบบุหรี่เป็นการเพิ่มความเสี่ยงต่อการเกิดโรคอย่างชัดเจน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>ความดันเลือดสูง</strong> ผู้ป่วยที่ต้องทานยาลดความดันเลือด และมีระดับของไขมัน Cholesterol ในเลือดสูง และระดับ Carotenoid ในเลือดต่ำ มีความเสี่ยงสูงมากต่อการเป็นโรคจอประสาทตาเสื่อมแบบสูญเสียการมองเห็นอย่างรวดเร็ว (Wet AMD)</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>วัยหมดประจำเดือน</strong> ผู้หญิงวัยหมดประจำเดือนที่ไม่ได้รับประทานยาฮอร์โมน Estrogen พบว่าอยู่ในกลุ่มที่มีความเสี่ยงสูงเช่นกัน</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>การรักษา</strong></span> ปัจจุบันยังไม่มีวิธีรักษาโรคนี้ให้หายขาด แต่สามารถให้การดูแล รักษา เพื่อหยุดหรือชะลอการดำเนินโรคให้จอประสาทตาเกิดการภาวะเสื่อมช้าที่สุด</span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>การรักษาโรคจอประสาทตาเสื่อม ชนิดแห้ง </strong>ปัจจุบันยังไม่มีวิธีการรักษาโรคจอประสาทตาเสื่อมชนิดแห้งให้หายขาดได้ ทำได้เพียงการรักษาเพื่อป้องกันไม่ให้โรคลุกลามมากขึ้น หรือเพื่อป้องกันไม่ให้กลายเป็นโรคจอประสาทตาเสื่อมชนิดเปียก อีกทั้ง การเสื่อมของจอประสาทตายังดำเนินไปอย่างช้าๆ ดังนั้น ผู้ป่วยจึงสามารถใช้ชีวิตได้ตามปกติ โดยแนะนำให้มาตรวจเช็คสายตา และควบคุมปัจจัยเสี่ยงดังกล่าวข้างต้นเพื่อป้องกันการเสื่อมของจอประสาทตา หรืออาจใช้อุปกรณ์ช่วยต่างๆ สำหรับผู้ที่มีปัญหาทางสายตา</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>การรักษาโรคจอประสาทตาเสื่อม ชนิดเปียก </strong>การฉายแสงเลเซอร์ลงบนจอประสาทตา จะยับยั้งหรือชะลออาการผิดปกติของหลอดเลือดที่ทำให้เกิดเลือดออกใต้จอประสาทตาได้ หรือการใช้ยาฉีดเข้าในน้ำวุ้นตา แม้ว่าจะไม่สามารถทำให้การมองเห็นที่สูญเสียไปกลับคืนมา หรือรักษาโรคให้หายขาดได้ แต่สามารถช่วยคงสภาพการมองเห็นให้เหลือไว้ได้มากกว่าการที่ไม่ได้รับการรักษา.</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>การป้องกัน</strong></span></span></span></p>
+
+<ul>
+	<li>ตรวจเช็คสุขภาพตาเป็นประจำ โดยเฉพาะอย่างยิ่งในผู้ที่มีอายุมากกว่า 50 ปี หรือมีประวัติบุคคลในครอบครัวมีภาวะจอประสาทตาเสื่อม</li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">งดสูบบุหรี่</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">หลีกเลี่ยงการได้รับแสง หรือรังสีอัลตราไวโอเลต เป็นระยะเวลานาน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เลือกกินอาหารที่มีสารต้านอนุมูลอิสระ (Antioxidant) ได้แก่ ผักใบเขียว ผลไม้ และกินวิตามินเสริม</span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ข้อมูลจาก โรงพยาบาลเปาโล</span></span></p>

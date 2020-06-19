@@ -1,0 +1,19 @@
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\"><font size=\"2\" face=\"Arial\">
+            <p align=\"center\"><img width=\"120\" height=\"142\" alt=\"\" src=\"/UserFiles/Image/7.jpg\" /><br />
+            <br />
+            </p>
+            </font><font size=\"2\" face=\"Arial\"><font color=\"#000000\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">Suktadharmi <br />
+            </font></font></font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ผู้ป่วยมะเร็งเต้านม<br />
+            </font></font><font color=\"#000000\" face=\"Arial\"><em><font face=\"Arial\"><font face=\"Arial\">ประเทศอินโดนีเซีย</font></font></em></font></font></font></font></font></font></font></strong></font></font></td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\" size=\"2\"><font color=\"#0099cc\" size=\"2\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ต้องหายเพื่อจะได้ทำในสิ่งที่ตั้งใจ<br />
+            </font><br />
+            </font></font></font></font></strong></font></font></font></font></font></font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ดิฉันเป็นคนไม่ยอมแพ้ที่จะทำในสิ่งที่ตั้งใจ ตั้งแต่ดิฉันเป็นโรคนี้ ก็พยายามหาหนทางที่จะรักษาโดยไปพบหมอที่เก่งที่สุด&nbsp; หาหนทางรักษาหลายๆ หนทาง&nbsp; และเลือกที่ดีที่สุดสำหรับตัวเอง จนกระทั่งประสบความสำเร็จ</font></font></font></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>

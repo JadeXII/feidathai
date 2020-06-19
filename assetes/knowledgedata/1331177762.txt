@@ -1,0 +1,12 @@
+<div style=\"TEXT-ALIGN: left; PADDING-BOTTOM: 15px; WIDOWS: 2; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; LETTER-SPACING: normal; DISPLAY: block; FONT: 15px/19px Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; WHITE-SPACE: normal; ORPHANS: 2; COLOR: rgb(58,58,58); WORD-SPACING: 0px; PADDING-TOP: 15px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px\" class=\"content-detail-text\" align=\"right\"><font size=\"4\"><strong>รายละเอียดการติดต่อ<br />
+<br />
+</strong></font>
+<p style=\"TEXT-ALIGN: left; MARGIN: 0px; FONT-FAMILY: Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; COLOR: rgb(36,146,143); FONT-SIZE: 25px\" id=\"h_title\" align=\"left\"><font color=\"#000000\" size=\"4\"></font></p>
+<img width=\"300\" height=\"225\" alt=\"\" src=\"/UserFiles/Image/songkla.jpg\" /><br />
+<br />
+<font color=\"#0099cc\" size=\"4\" face=\"Arial\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">โรงพยาบาลสงขลานครินทร์&nbsp; (สงขลา)<br />
+</font></font></font></font><br />
+</font></strong></font><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">โรงพยาบาลสงขลานครินทร์ 15 ถ.กาญจนวนิช ต.คอหงส์ อ.หาดใหญ่ จ.สงขลา 90110<br />
+</font></font></font></font></font></font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">0-7445-5000</font></font><br />
+</font></font></font></font></font><strong>โทรสาร:</strong>&nbsp;<font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">&nbsp;0-7421-2900, 0-7421-2903</font><br />
+</font></font></font></font><strong><font face=\"Arial\">E-mail : webmaster@medicine.psu.ac.th</font></strong></div>

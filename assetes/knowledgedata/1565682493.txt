@@ -1,0 +1,52 @@
+<p style=\"text-align:center\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><img alt=\"\" src=\"/ckfinder/userfiles/images/560-x-292(2).jpg\" style=\"height:292px; width:560px\" /></span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:#c0392b\"><span style=\"font-size:20px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">มะเร็ง</span></span></span><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"> คือ โรคที่เกิดจากความผิดปกติของเซลล์ในอวัยวะต่างๆ ของร่างกาย โดยมีการเจริญเติบโตที่ผิดปกติเกิดเป็นก้อนเนื้อที่มีการลุกลามไปยังอวัยวะข้างเคียง หรือกระจายไปยังส่วนอื่นๆ ของร่างกายได้ ผ่านทางระบบเลือด หรือระบบทางเดินน้ำเหลือง โรคมะเร็งมีหลากหลายชนิดขึ้นอยู่กับตำแหน่งที่เป็นจุดกำเนิดของโรค และชนิดของเซลล์มะเร็ง</span></span></p>
+
+<p><span style=\"color:#2980b9\"><strong><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">โดยทั่วไปมะเร็งแบ่งออกเป็นกลุ่มใหญ่ๆ ได้ดังนี้</span></span></strong></span></p>
+
+<ol>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Carcinoma มะเร็งคาซิโนมา</strong> คือ มะเร็งที่มีจุดกำเนิดมาจากผิวหนัง หรือ เนื้อเยื่อบุอวัยวะ</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Sarco ma มะเร็งซาโคมา</strong> คือ มะเร็งที่มีจุดกำเนิดมาจากกระดูก กระดูกอ่อน ไขมัน กล้ามเนื้อ หรือเส้นเลือด</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Leukemia มะเร็งลิวคีเมีย</strong> คือ มะเร็งที่มีจุดกำเนิดมาจากเซลล์ต้นกำเนิดเม็ดเลือดในไขกระดูก ทำให้มีความผิดปกติของเม็ดเลือด</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Lymphoma and myeloma มะเร็งลิมโฟมา และ ไมอีโลมา</strong> คือ มะเร็งที่มีจุดกำเนิดมาจากเซลล์ของระบบภูมิคุ้มกัน</span></span></li>
+	<li><strong><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Central nervous system cancers มะเร็งระบบสมอง และไขสันหลัง</span></span></strong></li>
+</ol>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>ปัจจัยเสี่ยงที่ทำให้เกิดมะเร็ง</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp; โดยทั่วไปแพทย์ไม่สามารถระบุได้ชัดเจนว่ามะเร็งในแต่ละบุคคลเกิดจากสาเหตุใดสาเหตุหนึ่งเพียงสาเหตุเดียว อย่างไรก็ตามข้อมูลในปัจจุบันพบว่ามีปัจจัยเสี่ยงที่ทำให้โอกาสในการเกิดมะเร็งเพิ่มมากขึ้น</span></span></p>
+
+<ol>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>อายุ</strong> อายุที่เพิ่มขึ้นมีโอกาสเกิดมะเร็งได้มากขึ้น</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>บุหรี่</strong> มีความสัมพันธ์กับการเกิดมะเร็งหลายชนิด เช่น มะเร็งปอด, มะเร็งกล่องเสียง, มะเร็งช่องปากและลำคอ, มะเร็งหลอดอาหาร, มะเร็งกระเพาะปัสสาวะ, มะเร็งไต, มะเร็งกระเพาะอาหาร, มะเร็งตับอ่อน และมะเร็งปากมดลูก</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>แสงแดด หรือแสงอัลตร้าไวโอเลต (UV)</strong> สัมพันธ์กับการเกิดมะเร็งผิวหนัง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>รังสีในธรรมชาติ หรือเอกซเรย์ รังสีนิวเคลียร์ แก๊ซเรดอน</strong> หากได้รับปริมาณสูงเกินกำหนด สัมพันธ์กับการเกิดมะเร็งลิวคีเมีย มะเร็งไทรอยด์ มะเร็งเต้านม มะเร็งปอด และมะเร็งกระเพาะอาหาร</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>สารเคมี</strong> เช่น asbestos, benzene, benzidine, cadmium, nickel หรือ vinyl chloride</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>เชื้อไวรัส หรือเชื้อแบคทีเรียบางชนิด</strong> เช่น เอชพีวี ไวรัส, ไวรัสตับอักเสบบี ซี, ไวรัสเอชไอวี เป็นต้น</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>การได้รับฮอร์โมนเอสโตรเจน</strong> สัมพันธ์กับการเกิดมะเร็งเต้านม</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>ประวัติครอบครัวเป็นมะเร็ง</strong> มะเร็งบางชนิดสัมพันธ์กับความผิดปกติของสารพันธุกรรม ที่เรียกว่า &ldquo;ยีน&rdquo; อย่างไรก็ดีมะเร็งที่ถ่ายทอดในครอบครัวพบได้เป็นสัดส่วนน้อย</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>แอลกอฮอล์</strong> สัมพันธ์กับการเกิดมะเร็งช่องปากและลำคอ มะเร็งทางเดินอาหาร มะเร็งกล่องเสียง มะเร็งตับ และมะเร็งเต้านม</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>วิถีการดำเนินชีวิตบางอย่าง</strong> เช่นการกินอาหารไขมันสูง สัมพันธ์กับการเกิดมะเร็งลำไส้ มะเร็งโพรงมดลูก และมะเร็งต่อมลูกหมาก ความอ้วนหรือออกกำลังกายน้อย สัมพันธ์กับมะเร็งเต้านม มะเร็งลำไส้ใหญ่ มะเร็งหลอดอาหาร มะเร็งไต และ มะเร็งโพรงมดลูก</span></span></li>
+</ol>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">อย่างไรก็ตาม การมีปัจจัยเสี่ยงไม่ได้จำเป็นต้องเป็นมะเร็ง ในขณะเดียวกันผู้ไม่มีปัจจัยเสี่ยงก็สามารถเกิดมะเร็งได้เช่นเดียวกัน, มะเร็งไม่เกี่ยวข้องกับอุบัติเหตุ หรือการบาดเจ็บ, มะเร็งไม่สามารถติดต่อกันเหมือนการติดเชื้อโรค</span></span></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:#2980b9\"><strong>อาการที่ควรให้ความสนใจในการค้นหาสาเหตุ เนื่องจากอาจเป็นอาการแสดงของโรคมะเร็ง ได้แก่</strong></span></span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ตรวจพบการหนาตัวหรือก้อนที่ผิวหนัง เต้านม หรือส่วนใดๆ ของร่างกาย</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ไฝเกิดขึ้นใหม่ หรือมีการเปลี่ยนแปลงของไฝเดิม เช่น ขยายขนาดโตขึ้น คัน แตกเป็นแผล เลือดออก</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เจ็บปวดที่บริเวณต่างๆ ของร่างกายเรื้อรัง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เสียงแหบหรือไอเรื้อรัง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">มีความเปลี่ยนแปลงในการขับถ่ายอุจจาระหรือปัสสาวะ เช่น ปัสสาวะลำบาก ปัสสาวะปนเลือด ถ่ายอุจจาระลำเล็กลง อุจจาระลำบาก อุจจาระปนเลือด ปวดหน่วงทวารหนักเวลาขับถ่าย</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">มีความเปลี่ยนแปลงในการรับประทานอาหาร เช่น กลืนติด กลืนลำบาก กลืนเจ็บ อิ่มเร็ว คลื่นไส้อาเจียน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">การเปลี่ยนแปลงของน้ำหนัก เช่น น้ำหนักลดมากโดยไม่มีสาเหตุอันควร</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">มีสารคัดหลั่งออกผิดปกติหรือเลือดออก เช่น ตกขาวผิดปกติ ตกขาวปนเลือด เลือดออกทางช่องคลอดผิดปกติภายหลังการมีเพศสัมพันธ์</span></span></li>
+</ul>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; <strong>อย่างไรก็ตามอาการดังกล่าวข้างต้นอาจไม่ได้มีสาเหตุมาจากมะเร็งเสมอไป ดังนั้นหากท่านมีอาการผิดปกติควรปรึกษาแพทย์ เพื่อรับการตรวจและวินิจฉัยให้แน่ชัด โดยทั่วไปมะเร็งในระยะเริ่มแรกมักไม่แสดงอาการเจ็บปวดอย่างเด่นชัด หากท่านมีอาการข้างต้นจึงไม่ควรเพิกเฉย ควรพบแพทย์แต่เนิ่นๆ</strong></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ข้อมูลจาก โรงพยาบาลศิริราช ปิยมหาราชการุณย์</span></span></p>

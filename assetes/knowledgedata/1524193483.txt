@@ -1,0 +1,17 @@
+<div style=\"text-align:center\">
+<p><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><strong>กูเกิ้ลโชว์กล้องจุลทรรศน์ใช้ AR ตรวจหามะเร็ง<br />
+<br />
+<img alt=\"\" src=\"/UserFiles/Image/news11(1).jpg\" style=\"height:235px; width:450px\" /></strong></span></span></p>
+
+<p>&nbsp;</p>
+
+<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Tahoma\"><span style=\"color:#ff6600\"><strong>&nbsp; &nbsp; <span style=\"font-size:16px\">&nbsp;Google&nbsp;ได้โชว์กล้องจุลทรรศน์ต้นแบบที่ใช้&nbsp;AR&nbsp;มาช่วยให้วินิจฉัยมะเร็งได้ง่ายขึ้นในงานประชุมประจำปีของAmerican&nbsp;Association&nbsp;for&nbsp;Cancer&nbsp;Research</span></strong></span></span></span></p>
+
+<p style=\"text-align:start\"><span style=\"font-size:16px\"><span style=\"color:#000000\">&nbsp; &nbsp; เมื่อวันที่ (19เม.ย.61)กูเกิ้ลได้ออกแบบ พัฒนากล้องจุลทรรศน์เพื่อให้หน่วยงานที่มีงบประมาณจำกัด&nbsp;อย่างคลีนิกหรือห้องแล็ปขนาดเล็ก&nbsp;รวมถึงประเทศที่กำลังพัฒนาวิเคราะห์โรคมะเร็งได้ง่ายและเร็วขึ้น&nbsp;แถมยังเป็นการเร่งให้เกิดการนำ&nbsp;AI&nbsp;มาใช้ในวงการแพทย์ให้มากขึ้น<br />
+<br />
+&nbsp; &nbsp;ปกติไมโครโฟนทั่วไปนั้นจะใช้แสงในการส่องเนื้อเยื่อ&nbsp;แต่กูเกิลนั้นจะใส่เทคโนโลยี&nbsp;AI&nbsp;และ&nbsp;AR&nbsp;เข้าไปเพิ่ม&nbsp;โดยปัญญาประดิษฐ์นั้นจะถูกฝึกสอนให้ตรวจจับมะเร็งจากรูปภาพ&nbsp;ส่วน&nbsp;AR&nbsp;จะทำหน้าที่วงส่วนที่จุดน่าสงสัยที่อาจจะเป็นมะเร็งซึ่งการทำงานจะง่ายและรวดเร็วกกว่าการใช้ตาคนส่อง&nbsp;จึงทำให้เช็คเนื้อเยื่อได้จำนวนมากขึ้นด้วย<br />
+<br />
+&nbsp; &nbsp;ในงานนี้ทาง&nbsp;Google&nbsp;ได้โชว์ทดสอบเนื้อเยื่อมะเร็งต่อมลูกหมากให้เห็นว่ามีความแม่นยำแค่ไหน&nbsp;ซึ่งเค้าบอกว่า&nbsp;&nbsp;AI&nbsp;สามารถฝึกสอนให้รู้จักมะเร็งประเภทอื่นๆได้รวมถึงตรวจเชื้ออื่นๆอย่าง&nbsp;tuberculosis&nbsp;และมาลาเรีย&nbsp;ทั้งหมดนี้เป็นสิ่งที่พิสูจน์แนวคิดว่านำมาใช้งานได้จริง&nbsp;แต่ก็ยังต้องศึกษาและประเมินความสามารถอีกสักระยะก่อนนำมาใช้งานได้จริง<br />
+<br />
+ที่มา : TNN24</span></span></p>
+</div>

@@ -1,0 +1,368 @@
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>TH</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:ApplyBreakingRules />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val=\"Cambria Math\" />
+<m:brkBin m:val=\"before\" />
+<m:brkBinSub m:val=\"--\" />
+<m:smallFrac m:val=\"off\" />
+<m:dispDef />
+<m:lMargin m:val=\"0\" />
+<m:rMargin m:val=\"0\" />
+<m:defJc m:val=\"centerGroup\" />
+<m:wrapIndent m:val=\"1440\" />
+<m:intLim m:val=\"subSup\" />
+<m:naryLim m:val=\"undOvr\" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]-->
+<p class=\"MsoNormal\" style=\"text-align: center;\"><b><span style=\"font-size:20.0pt;line-height:115%;
+font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri\" lang=\"TH\">ต้องใช้พลังมากแค่ไหน ถึงจะรอดจากมะเร็ง กับงาน </span></b><b><span style=\"font-size:20.0pt;line-height:115%\">&ldquo;</span></b><b><span style=\"font-size:20.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">พลังฟิต พิชิตมะเร็ง</span></b><b><span style=\"font-size:20.0pt;line-height:115%\">&rdquo;<br />
+<br />
+<iframe src=\"https://www.youtube.com/embed/Oxf9XQzo8V0\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>    </span></b></p>
+<p class=\"MsoNormal\">&ldquo;<span style=\"font-size:14.0pt;mso-ansi-font-size:
+11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">มะเร็ง</span>&rdquo; <span style=\"font-size:14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:
+&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri\" lang=\"TH\">นับเป็นปัญหาสุขภาพที่มีอัตราการป่วยเป็นอันดับต้นๆของประเทศไทย ไม่ว่าจะเพศหญิง เพศชาย ผู้สูงอายุ หรือแม้แต่วัยหนุ่มสาวก็มีโอกาสที่จะต้องเผชิญหน้ากับโรคมะเร็งทั้งสิ้น <span style=\"mso-spacerun:yes\">&nbsp;</span>และเมื่อเผชิญหน้ากับโรคมะเร็งหลายคนกลัว และเลือกที่จะหันหลังให้กับการรักษา เพราะคิดว่าเป็นมะเร็งแล้วต้องตายอย่างแน่นอน</span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:14.0pt;mso-ansi-font-size:
+11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">ชมรมฟื้นฟูสุขภาพผู้ป่วยโรคมะเร็งร่วมมือกับองค์กรส่งเสริมการดูแลสุขภาพอย่าง บริษัทเฟยดาจำกัด เห็นถึงความสำคัญของปัญหาสุขภาพของคนไทยในปัจจุบัน จึงจัดกิจกรรม &quot;พลังฟิต พิชิตมะเร็ง&quot; กิจกรรมส่งเสริมการป้องกันโรคมะเร็ง เพื่อเป็นการเผยแพร่ ความรู้ และเทคนิคการรักษา รวมถึงเทคนิคการดูแลตัวเองให้กับประชาชนทั่วไปที่สนใจเกี่ยวกับปัญหาสุขภาพ</span></p>
+<p class=\"MsoNormal\">&nbsp;</p>
+<p class=\"MsoNormal\"><span style=\"font-size:14.0pt;mso-ansi-font-size:
+11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">กิจกรรม &quot;พลังฟิต พิชิตมะเร็ง&quot; ที่จัดขึ้นเมื่อวันที่ 28 สิงหาคม ที่ผ่านมาได้รับการตอบรับจากประชาชนเป็นจำนวนมาก โดยมีตัวแทนจากองค์กรสุขภาพบริษัทเฟยดาจำกัด เป็นผู้กล่าวเปิดกิจกรรม นำทัพความรู้มาด้วยพิธีกรสาวสวยอย่างคุณ ปราย ธนาอัมพุช รศ.นพ.นรินทร์ วรวุฒิ<span style=\"mso-spacerun:yes\">&nbsp; </span>ดร. ไมค์ ซุน <span style=\"mso-spacerun:yes\">&nbsp;</span>มาร่วมให้ความรู้เกี่ยวกับการรักษาโรคมะเร็งด้วยนวัตกรรม แนวทางการรักษาโรคมะเร็งทั้งในแบบฉบับแพทย์แผนปัจจุบันและแพทย์ทางเลือก<span style=\"mso-spacerun:yes\">&nbsp; </span></span><span lang=\"TH\"><span style=\"mso-spacerun:yes\">&nbsp;</span></span><span style=\"font-size:14.0pt;
+mso-ansi-font-size:11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">และครูปอนด์ครูหนึ่งจากกรมพละศึกษา</span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:14.0pt;mso-ansi-font-size:
+11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\">รวมไปถึงการเปิดเผยประสบการณ์การรักษาผู้ป่วยโรคมะเร็งให้สำเร็จ นอกจากนี้ยังมีอดีตผู้ป่วยมาเปิดเผยเคล็ดลับในการดูแลตัวเอง การรักษา รวมไปถึงเทคนิคการใช้ชีวิตเมื่อป่วยเป็นโรคมะเร็ง เรียกได้ว่างานนี้นอกจากได้สาระความรู้กันไปเต็มอิ่มแล้ว ยังได้ฟังประสบการณ์ในการรักษามะเร็ง และได้ฟังประสบการณ์มะเร็งจากอดีตผู้ป่วยอีกด้วย งานเดียวครบทั้งความรู้และแนวทางการรักษามะเร็ง รวมไปถึงเคล็ดลับการต้านมะเร็งเลยทีเดียว ส่วนกิจกรรมสุขภาพครั้งหน้าจะเป็นกิจกรรมในรูปแบบใด สามารถติดตามกิจกรรมส่งเสริมความสำคัญในการดูแลสุขภาพได้ทางบริษัทเฟยดาจำกัด หรือทางชมรมฟื้นฟูสุขภาพผู้ป่วยโรคมะเร็ง<br />
+<br />
+</span></p>
+<p class=\"MsoNormal\" style=\"text-align: center;\"><center><img class=\"img-responsive\" src=\"/UserFiles/Image/feida01.jpg\" alt=\"\" width=\"469\" height=\"469\" /></center><br />
+<center><img class=\"img-responsive\" src=\"/UserFiles/Image/feida02.jpg\" alt=\"\" width=\"500\" height=\"500\" /></center><br />
+<center><img class=\"img-responsive\" src=\"/UserFiles/Image/feida03.jpg\" alt=\"\" width=\"500\" height=\"500\" /><br />
+<img class=\"img-responsive\" src=\"/UserFiles/Image/siam01.jpg\" alt=\"\" width=\"500\" height=\"500\" /><br />
+<img class=\"img-responsive\" src=\"/UserFiles/Image/siam02.jpg\" alt=\"\" width=\"500\" height=\"500\" /><br />
+<img class=\"img-responsive\" src=\"/UserFiles/Image/siam03.jpg\" alt=\"\" width=\"500\" height=\"500\" /><br />
+<img class=\"img-responsive\" src=\"/UserFiles/Image/siam04.jpg\" alt=\"\" width=\"500\" height=\"500\" /><br />
+<img class=\"img-responsive\" src=\"/UserFiles/Image/siam05.jpg\" alt=\"\" width=\"500\" height=\"500\" /></center><br />
+&nbsp;</p>
+<br />
+<p class=\"MsoNormal\"><span style=\"font-size:14.0pt;mso-ansi-font-size:
+11.0pt;line-height:115%;font-family:&quot;Cordia New&quot;,&quot;sans-serif&quot;;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri\" lang=\"TH\"> <br />
+<br />
+</span></p>
+<!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"
+DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"
+LatentStyleCount=\"267\">
+<w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\" />
+<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\" />
+<w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\" />
+<w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\" />
+<w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\" />
+<w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\" />
+<w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\" />
+<w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Table Grid\" />
+<w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\" />
+<w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\" />
+<w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\" />
+<w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\" />
+<w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\" />
+<w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\" />
+<w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\" />
+<w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\" />
+<w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\" />
+<w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\" />
+<w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"
+UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\" />
+<w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\" />
+<w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:ตารางปกติ;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:\"\";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+mso-bidi-font-size:14.0pt;
+font-family:\"Calibri\",\"sans-serif\";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:\"Times New Roman\";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:\"Cordia New\";
+mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]-->

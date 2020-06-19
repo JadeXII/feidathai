@@ -1,0 +1,17 @@
+<font face=\"Arial\">
+<p align=\"left\"><font face=\"Arial\" size=\"4\"><strong>รายละเอียดการติดต่อ</strong></font></p>
+<p align=\"left\"><strong><font size=\"4\"></font></strong></p>
+<p align=\"left\">&nbsp;</p>
+<p align=\"left\"><strong><font size=\"4\"></font></strong></p>
+<p align=\"left\"><strong><font size=\"4\"></font></strong></p>
+<p align=\"left\"><font face=\"Arial\"></font><font size=\"4\">&nbsp;<img height=\"93\" alt=\"\" width=\"130\" src=\"/UserFiles/Image/img_hospital_tn(1).jpg\" /></font></p>
+<p align=\"left\"><font size=\"4\"></font></p>
+<p align=\"left\">&nbsp;</p>
+<p align=\"left\"><font size=\"4\"></font></p>
+<p align=\"left\"><font face=\"Arial\" color=\"#0099cc\" size=\"4\"><font face=\"Arial\"><strong>โรงพยาบาลตาคลี&nbsp; (นครสวรรค์)</strong></font></font></p>
+<p align=\"left\"><font face=\"Arial\" size=\"4\"><strong>ที่อยู่ :</strong> <font face=\"Arial\">โรงพยาบาลตาคลี&nbsp; อ.ตาคลี&nbsp; จ.นครสวรรค์&nbsp; 60000</font><br />
+<strong>โทรศัพท์:</strong> <font face=\"Arial\">056-261756-7</font><br />
+โทรสาร: -<br />
+<strong>เว็บไซต์ :</strong> <a href=\"http://www.hospital-os.com/\">http://www.hospital-os.com</a><br />
+</font></p>
+</font>

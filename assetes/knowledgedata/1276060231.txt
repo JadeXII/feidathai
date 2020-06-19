@@ -1,0 +1,32 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/kanjana1.png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <font color=\"#000000\"><strong><font face=\"Arial\"><font face=\"Arial\">กาญจนา&nbsp; จันทรังสี<br />
+            <font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">ผู้ป่วยมะเร็งลำไส้ใหญ่</font></font></font></font></font></strong></font></font>&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\"><font color=\"#0099cc\"><strong><font face=\"Arial\"><font size=\"3\" face=\"Arial\">มะเร็งผ่านมาแล้วก็ผ่านไป</font></font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\"><font size=\"2\"><font face=\"Arial\"><font face=\"Arial\">ตอนนี้ดิฉันปรับวิถีชีวิตใหม่ด้วยการมองโลกในแง่ดี ไม่เครียด ทำจิตใจให้สบาย ออกกำลังกายตามความพอดีไม่มากเกินไป นอกจากนี้ยังทำบุญใส่บาตรทุกเช้า พร้อมกับการสวดมนต์ นั่งสมาธิ และฟังรายการธรรมะทางวิทยุ</font></font></font></font></p>
+            <p><font face=\"Arial\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#000000\" size=\"2\">&nbsp; แม้จะเป็นมะเร็งระยะที่ 3 แต่ก็ไม่เคยท้อถอยที่จะต่อสู้ หมอเองก็บอกว่าเรารักษาได้ ดิฉันอยากให้กำลังใจกับทุกคนว่า มะเร็งจะแพ้เราถ้าเราทำจิตใจให้สบาย หมั่นรักษาตัว ทำอารมณ์ดีอยู่เสมอ&nbsp; <a href=\"http://www.siamca.com/clip-id45.html\"><font color=\"#0099cc\">อ่านฉบับเต็ม.</font>..</a></font></font></p>
+            <p align=\"left\">&nbsp;</p>
+            <font color=\"#ff00ff\"><strong><u><em>วีดีโอสัมภาษณ์<br />
+            <br />
+            <embed height=\"344\" type=\"application/x-shockwave-flash\" width=\"425\" src=\"http://www.youtube.com/v/nK-AJLWzyBY?hl=th&amp;fs=1\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></em></u></strong></font></td>
+        </tr>
+    </tbody>
+</table>
+</p>

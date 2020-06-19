@@ -1,0 +1,41 @@
+<div style=\"text-align:right\">
+<div style=\"color:#555555; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; padding:0px; text-align:right\"><span style=\"font-size:16px\">บทความโดย รศ.พญ.สุพัตรา &nbsp;แสงรุจิ<br />
+แพทย์รังสีรักษาและเวชศาสตร์นิวเคลียร์</span></div>
+
+<div style=\"color:#555555; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; padding:0px; text-align:right\">&nbsp;</div>
+</div>
+
+<div style=\"text-align:center\"><img alt=\"\" class=\"img-responsive\" src=\"/UserFiles/Image/เป้าทำลายมะเร็ง.JPG\" style=\"height:482px; width:667px\" /></div>
+
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color:#0033ff\"><span style=\"font-size:16px\"> &nbsp;การผ่าตัด</span></span></strong><span style=\"font-size:16px\">&nbsp;จะต้องตัดเอาก้อนมะเร็งออกทั้งหมดหรือให้มากที่สุด โดยตัดห่างก้อนประมาณสองเซนติเมตร อาจตัดต่อมน้ำเหลืองใกล้เคียงออกทั้งหมด จุดประสงค์เพื่อหายขาด อย่างไรก็ตาม หากมีอณูมะเร็งหลุดออกจากจุดเดิมไปตามหลอดเลือดหรือหลอดน้ำเหลืองแล้ว เซลล์เหล่านั้นก็รอดพ้นจากการผ่าตัดไปได้ ดังนั้น จึงไม่สามารถรับรองได้ว่าหลังผ่าตัดโรคจะไม่กระจายไกล เนื่องจากมะเร็งอาจไปจากจุดเดิมก่อนหน้าการผ่าตัดแล้ว จากนั้นก็ไปแอบแฝงอยู่รอเวลาที่จะเจริญเติบโตเป็นมะเร็งที่ตำแหน่งใหม่ นี่อาจเป็นข้อด้อยของการผ่าตัด อีกอย่างคือ ในการผ่าตัดหมอสามารถตัดอวัยวะได้เพียงบางส่วนเท่านั้น อาทิ ผู้ป่วยเป็นมะเร็งสมองจะตัดเนื้อสมองออกไปมากไม่ได้ บางครั้งจึงผ่าตัดได้เพียงบางส่วน หรือเพียงแค่ตัดชิ้นเนื้อมาตรวจพิสูจน์ชนิดของมะเร็งเท่านั้น แล้วค่อยรักษาด้วยวิธีการอื่นต่อไป</span></p>
+
+<div style=\"text-align:center\"><img alt=\"\" src=\"http://www.siamca.com/UserFiles/Image/002(1).png\" /></div>
+
+<p><br />
+<strong>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color:#0033ff\"><span style=\"font-size:16px\">รังสีรักษา</span></span></strong><span style=\"font-size:16px\">&nbsp; ทำให้โครโมโซมของเซลล์ขาด โดยการยิงรังสีต้องยิงเป็นลำและยิงเป็นเวลานานหลายนาที เพื่อให้โครโมโซมขาดจนซ่อมไม่ได้ จากการวิจัยพบว่า รังสีจะทำให้เซลล์ตายที่ระยะก่อนจะแบ่งตัวมากที่สุด (ระยะ G2 และ M) เพราะมีโครโมโซมซึ่งเป็นเป้าของรังสีหนาแน่นมากที่สุดในระยะนี้ อย่างไรก็ตาม เนื่องจากในวันหนึ่งผู้ป่วยจะถูกฉายรังสีแค่ประมาณ 5 นาที แล้วหยุดพักไป 23 ชม. 55 นาที จึงค่อยมาฉายรังสีอีกในวันถัดไป ช่วงเวลาที่หยุดพักดังกล่าว อาจทำให้เซลล์ที่หลงเหลืออยู่หลุดรอดออกไปและซ่อมแซมตัวเองใหม่ได้ นอกจากนี้ เซลล์ในระยะที่มีโครโมโซมน้อย อาทิ ช่วงที่เป็นเซลล์ต้นกำเนิดมะเร็ง (ระยะ G0) ก็ตอบสนองต่อรังสีน้อยมาก</span><br />
+&nbsp;</p>
+
+<p style=\"text-align:center\"><img alt=\"\" src=\"http://www.siamca.com/UserFiles/Image/003(3).png\" /></p>
+
+<p style=\"text-align:center\">&nbsp;</p>
+
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color:#0033ff\"><span style=\"font-size:16px\"> &nbsp; เคมีบำบัด</span></span></strong><span style=\"font-size:16px\">&nbsp;จะทำลายเฉพาะเซลล์ที่เข้าสู่วงจรชีวิตของเซลล์ (ระยะ G1, S, G2, M) แต่เนื่องจากเคมีบำบัดออกฤทธิ์แบบไม่เฉพาะเจาะจง จึงทำลายทุกเซลล์ทั้งเซลล์มะเร็งรวมทั้งเซลล์ปกติด้วย นอกจากนี้ ในส่วนของเซลล์ต้นกำเนิดมะเร็ง (ระยะ G0) จะตอบสนองต่อเคมีบำบัดน้อยมาก&nbsp;</span><br />
+&nbsp;</p>
+
+<p style=\"text-align:center\"><img alt=\"\" src=\"http://www.siamca.com/UserFiles/Image/004(3).png\" /></p>
+
+<p>&nbsp;</p>
+
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"color:#0033ff\"><span style=\"font-size:16px\">ยามุ่งเป้า</span></span></strong><span style=\"font-size:16px\">&nbsp;จะขัดขวางการรับส่งสัญญาณการแบ่งตัวของเซลล์บริเวณผนังเซลล์ เมื่อขัดขวางได้เซลล์จะถูกยับยั้งการแบ่งตัว ซึ่งกระบวนการนี้เกิดขึ้นในระยะที่เป็นเซลล์ต้นกำเนิดมะเร็ง (ระยะ G0) เท่านั้น แต่ปัญหาสำคัญ คือ ยามุ่งเป้าจะได้ผลดีเฉพาะกับเซลล์ที่มีเป้าให้จับ ก่อนใช้ยาจึงต้องตรวจพิเศษก่อนว่ามีเป้าหรือไม่ ถ้าไม่มีก็ใช้ยามุ่งเป้าไม่ได้ผล นอกจากนี้ ยามุ่งเป้าซึ่งเป็นนวัตกรรมใหม่ทำมาตามชนิดของเซลล์ ยาตัวหนึ่งไม่สามารถใช้ได้กับทุกเซลล์มะเร็ง&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<div style=\"text-align:center\">
+<p><a href=\"http://www.feidathai.com/?name=4reason\"><img alt=\"\" class=\"img-responsive\" src=\"/UserFiles/Image/Ad/%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81-Ad.gif\" style=\"height:148px; width:600px\" /></a></p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style=\"color:#555555; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; padding:0px; text-align:right\">&nbsp;</div>

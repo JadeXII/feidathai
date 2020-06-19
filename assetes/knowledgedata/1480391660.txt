@@ -1,0 +1,3 @@
+<div style=\"text-align: center;\"><span style=\"color: rgb(0, 128, 128);\"><span style=\"font-size: x-large;\">กิจกรรม ยิ่งเปลี่ยน ยิ่งไกลโรค<br />
+<br />
+<center><img class=\"img-responsive\" src=\"/UserFiles/Image/change_for_the_better/page01.jpg\" alt=\"\" />  <img class=\"img-responsive\" src=\"/UserFiles/Image/change_for_the_better/page02.jpg\" alt=\"\" />  <img class=\"img-responsive\" src=\"/UserFiles/Image/change_for_the_better/page03.jpg\" alt=\"\" />  <img class=\"img-responsive\" src=\"/UserFiles/Image/change_for_the_better/page04.jpg\" alt=\"\" />  <img class=\"img-responsive\" src=\"/UserFiles/Image/change_for_the_better/page05.jpg\" alt=\"\" /></center> </span></span></div>

@@ -1,0 +1,30 @@
+<table style=\"WIDTH: 900px; BORDER-COLLAPSE: collapse\" bordercolor=\"#b8b8b8\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td>
+            <div align=\"left\">
+            <table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+                <tbody>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m014.jpg\"><img class="img-responsive" title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m14.jpg\" /></a>&nbsp;</div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\">&nbsp;</div>
+                        <div align=\"left\"><strong><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=\"#0000cc\">กิติ&nbsp; ตันทะนงศักดิ์กุล</font></font></strong></div>
+                        </td>
+                    </tr>
+                    <tr valign=\"top\">
+                        <td colspan=\"2\">
+                        <div><strong></strong>&nbsp;</div>
+                        <div><strong><font color=\"#0000cc\" size=\"3\">ยิ้มได้แม้ภัยมา</font></strong></div>
+                        <div>&nbsp;</div>
+                        <div align=\"justify\"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><font size=\"2\">เมื่อผมเป็นมะเร็ง ผมไม่เคยถามหมอว่าเป็นขั้นไหน ก้อนขนาดเท่าไร ไม่เคยเซ้าซี้ ไม่ไปคิดมาก อยากบอกคนที่เป็นมะเร็งอยู่ว่า ต้องทำใจสบายๆ ทำไม่รู้ไม่ชี้เสียบ้าง มีกินก็กิน ถึงเวลานอนก็ต้องนอนพักผ่อน ออกไปไหนมาไหนให้ปกติ คนที่ทำใจไม่ได้ก็ต้องฝึก ต้องหาสิ่งยึดเหนี่ยวจิตใจ ตอนนี้ผมร่างกายแข็งแรงปกติดีแล้ว ผมคิดว่าที่หายจากโรคมะเร็งได้มีสาเหตุหลายอย่าง&nbsp; สิ่งที่สำคัญมาก คือ รักษาและปฏิบัติตามที่หมอแนะนำอย่างเคร่งครัด และเรื่องภูมิคุ้มกันทางด้านจิตใจ ต้องทำจิตใจสบายๆ อย่าคิดมาก</font></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+<div style=\"text-align:center\"><br />
+<br />
+&nbsp;</div>
+
+<div style=\"text-align:center\"><img alt=\"\" src=\"/UserFiles/Image/987.jpg\" /></div>
+
+<div class=\"vce-row-container\" style=\"-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#58585a; font-family:CSChatThaiUI,Helvetica,Arial,sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px\">
+<div class=\"vce-row vce-row--col-gap-30 vce-row-columns--top vce-row-content--top\" data-vce-do-apply=\"all el-65aedbac\" id=\"el-65aedbac\" style=\"-webkit-box-direction:normal; -webkit-box-orient:vertical; box-sizing:border-box; display:flex; flex-direction:column; margin-left:0px; margin-right:0px; position:relative\">
+<div class=\"vce-row-content\" data-vce-element-content=\"true\" style=\"-webkit-box-align:start; -webkit-box-direction:normal; -webkit-box-flex:1; -webkit-box-orient:horizontal; -webkit-box-pack:start; align-items:flex-start; box-sizing:border-box; display:flex; flex-flow:row wrap; flex:1 1 auto; min-height:1em; place-content:flex-start; position:relative\">
+<div class=\"vce-col vce-col--lg-first vce-col--lg-last vce-col--md-100p vce-col--md-first vce-col--md-last vce-col--sm-first vce-col--sm-last vce-col--xl-first vce-col--xl-last vce-col--xs-1 vce-col--xs-first vce-col--xs-last\" data-vce-do-apply=\"background border el-7b8eb504\" id=\"el-7b8eb504\" style=\"-webkit-box-flex:0; box-sizing:border-box; display:flex; flex:0 1 calc(((100% - 2970px) * 1) + 2970px); margin-right:0px; max-width:calc(((100% - 2970px) * 1) + 2970px); min-width:1em; position:relative\">
+<div class=\"vce-col-inner\" data-vce-do-apply=\"padding margin  el-7b8eb504\" data-vce-element-content=\"true\" style=\"box-sizing:border-box; overflow-wrap:break-word; position:relative; width:847.5px\">
+<div class=\"vce-text-block\" style=\"box-sizing:border-box\">
+<div class=\"vce vce-text-block-wrapper\" data-vce-do-apply=\"all el-6690168e\" id=\"el-6690168e\" style=\"box-sizing:border-box; margin-bottom:30px\">
+<p style=\"margin-left:0px; margin-right:0px\">&nbsp;</p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp;มะเร็งหลังโพรงจมูก เป็นอีกหนึ่งมะเร็งร้ายที่กลายเป็นภัยเงียบ</strong>&nbsp;และคร่าชีวิตผู้คนได้ไม่แพ้มะเร็งชนิดอื่นๆ เนื่องจาก มะเร็งหลังโพรงจมูกเป็นโรคที่อยู่ในตำแหน่งที่ยากแก่การตรวจพบ จึงทำให้ผู้ป่วยมาพบแพทย์ด้วยอาการของระยะที่มะเร็งลุกลามมากแล้ว และยากแก่การรักษา<br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp;นายแพทย์สมศักดิ์ อรรฆศิลป์ อธิบดีกรมการแพทย์ สถาบันมะเร็งแห่งชาติ</strong>&nbsp;กล่าวว่า โรคมะเร็งหลังโพรงจมูก จัดเป็นมะเร็ง ที่พบบ่อยใน 10 อันดับของโรคมะเร็ง ประเทศไทยพบโรคมะเร็งหลังโพรงจมูกในผู้หญิงมีสถิติ 1.6 ต่อประชากร1 แสนคนต่อปี ในชาย 4.5 ต่อประชากร 1 แสนคนต่อปี<br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp;ทั้งนี้พบในผู้ชายสูงกว่าผู้หญิง</strong>&nbsp;ส่วนมากอยู่ในช่วงอายุระหว่าง 50 ปี ถึง 60 ปี ซึ่งผู้ป่วยส่วนใหญ่มักจะไม่รู้ตัวว่าเป็นโรคมะเร็ง จนกระทั่งมาพบแพทย์ในระยะที่มะเร็งลุกลามไปมากแล้ว ส่วนสาเหตุของโรคมะเร็งดังกล่าว เกิดจากการติดเชื้อไวรัส และอาจมีปัจจัยเสี่ยงในด้านพฤติกรรมร่วมด้วย เช่น กรารับประทานอาหารหมักดองมากเกินไป สูบบุหรี่ ดื่มแอลกอฮอล์ เป็นต้น<br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp;ทางด้านนายแพทย์วีรวุฒิ อิ่มสำราญ ผู้อำนวยการสถาบันมะเร็งแห่งชาติ</strong>&nbsp;กล่าวเพิ่มเติมว่า มะเร็งหลังโพรงจมูก เป็นโรคมะเร็งชนิดที่ตรวจพบได้ค่อนข้างยาก ผู้ป่วยจะมีอาการคัดจมูก หรือมีอาการเหมือนคนเป็นหวัดเรื้อรัง มีก้อนที่คอ มีเลือดกำเดาไหลเป็นประจำ มองเห็นภาพซ้อน หน้าชาด้านใดด้านหนึ่ง หูอื้อ ทั้งนี้ วิธีการรักษาจะใช้รังสีรักษา โดยถ้าเป็นในระยะเริ่มแรก จะรักษาโดยการฉายรังสีอย่างเดียว แต่ถ้าเป็นระยะลุกลาม การรักษาจะเป็นการฉายรังสีร่วมกับการให้ยาเคมีบำบัดควบคู่กันไป สำหรับการผ่าตัดไม่สามารถใช้วิธีนี้ในการรักษาโดยตรง เนื่องจากมะเร็งหลังโพรงจมูกมีขอบเขตใกล้กับอวัยวะที่สำคัญ อาทิ เส้นเลือดแดงใหญ่ที่เลี้ยงคอและสมอง เป็นต้น<br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp;อย่างไรก็ตาม โรคมะเร็งหลังโพรงจมูกหากตรวจพบเร็วจะสามารถรักษาให้หายเร็วและห</strong>ายขาด เพราะฉะนั้น อย่านิ่งนอนใจกับอาการเตือนต่าง ๆ ควรหมั่นตรวจสุขภาพอย่างสม่ำเสมอ และหลีกเลี่ยงปัจจัยส่งเสริมที่อาจเป็นสาเหตุของมะเร็งหลังโพรงจมูก เช่น อาหารปิ้ง ย่าง รมควัน อาหารหมักดอง ควันเขม่าพิษ สารระเหยต่าง ๆ รวมทั้งควรงดดื่มเหล้าและสูบบุหรี่ ตลอดจนหากมีอาการเตือนดังกล่าวควรรีบไปพบแพทย์ทันที เพราะอย่างไรแล้ว &ldquo;การป้องกันไว้ก่อน ย่อมดีกว่าการมารักษาทีหลัง&rdquo;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p>ขอบคุณข้อมูลจาก ทันข่าว Channel</p>

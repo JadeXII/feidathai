@@ -1,0 +1,35 @@
+<div align=\"center\">&nbsp;
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img class="img-responsive" border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/m01(2).png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <strong>คุณสรรค์<span>&nbsp; </span>โฆษะวิสุทธิ์</strong></font><span><font color=\"#339966\"><strong>&nbsp;<br />
+            </strong></font><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\"><strong>ผู้ป่วยมะเร็งต่อมลูกหมาก</strong></font></font> </font></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span><br />
+            &nbsp;<font size=\"2\"><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><strong><font color=\"#0099cc\" size=\"3\">มะเร็งไม่น่ากลัวอย่างที่คิด</font><font size=\"2\">&nbsp;</font></strong><font size=\"2\"><strong>&nbsp;</strong></font></font></font></font></font></font>&nbsp;</p>
+            <div align=\"justify\"><font size=\"2\"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp; <font color=\"#000000\">ผมอยากบอกทุกคนว่า โรคมะเร็งไม่ใช่เรื่องที่น่ากลัวอย่างที่ทุกคนคิด โรคนี้จะดีขึ้นหรือเลวลงอยู่ที่การปฏิบัติของแต่ละคน ที่สำคัญที่สุดก็คือต้องมีอารมณ์ร่าเริง โปร่งใสเสมอ เฉพาะข้อนี้ผมคิดว่าก็รักษาโรคมะเร็งได้อย่างน้อย 50% ขึ้นไป ส่วนอีก 50% เป็นการรักษาด้วยวิธีการอื่น ๆ </font></font></div>
+            <div align=\"justify\"><font color=\"#000000\" size=\"2\">&nbsp;</font></div>
+            <div align=\"justify\"><font color=\"#000000\" size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ผมขออวยพรให้เพื่อนที่เป็นโรคมะเร็งทั้งหลาย จงอย่าท้อแท้ ต้องเข้มแข็งมีกำลังใจต่อสู้กับศัตรูอันร้ายกาจนี้ให้สำเร็จ เพื่อจะได้ใช้ชีวิตอย่างมีความสุขร่วมกับครอบครัวต่อไป&nbsp; ชีวิตนี้ยังมีหวัง จงสู้ต่อไป&nbsp; <a target=\"_blank\" href=\"http://www.siamca.com/clip-id38.html\"><font color=\"#0099cc\">อ่านฉบับเต็ม.</font><font color=\"#0099cc\">..</font></a></font></div>
+            <p align=\"justify\">&nbsp; </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div align=\"center\">&nbsp;</div>
+<div align=\"center\">&nbsp;</div>
+<div align=\"center\">&nbsp;</div>
+<div align=\"center\"></div>

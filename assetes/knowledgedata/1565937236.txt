@@ -1,0 +1,23 @@
+<p style=\"text-align:center\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><img alt=\"\" src=\"/ckfinder/userfiles/images/560-x-292(4).jpg\" style=\"height:292px; width:560px\" /></span></span></p>
+
+<p><strong><span style=\"color:#c0392b\"><span style=\"font-size:18px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ข้อแนะนำสำหรับการกินเพื่อสุขภาพที่ดี</span></span></span></strong></p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp; ข้อแนะนำในด้านอาหารแบบ Pyramid ข้อแนะนำนี้เป็นหลักการกินอาหารที่แนะนำโดย The United States Department of Agriculture (USDA) เพื่อเผยแพร่การรับประทานอาหารและการออกกำลังกายที่เป็นประโยชน์ต่อสุขภาพ โดยแนะนำกลุ่มอาหาร&nbsp; 5 กลุ่มหลัก ได้แก่ ธัญพืช&nbsp; ผัก ผลไม้&nbsp; นม&nbsp; เนื้อสัตว์ และโปรตีนจากแหล่งอื่นนอกจากเนื้อสัตว์ พร้อมทั้งปริมาณที่ควร บริโภคในแต่ละวันเพื่อให้ได้สารอาหาร และพลังงานที่เพียงพอแก่ความต้องการของร่างกาย โดยแนะนำให้บริโภค ไขมัน น้ำมัน และของหวานในปริมาณน้อย นอกจากนี้ยังมีข้อแนะนำเพื่อสุขภาพและพลานามัยที่ดีดังนี้</span></span></p>
+
+<ul>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">บริโภคอาหารที่มีสารอาหารสูงแต่ให้พลังงานจำกัด</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">รักษาน้ำหนักตัวให้อยู่ในระดับที่เหมาะสม</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ออกกำลังกายเป็นประจำ</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">กินผักผลไม้และนมไขมันต่ำทุกวัน</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">บริโภคไขมันในปริมาณน้อย</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">กินอาหารที่มีกากใยสูง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ลดการบริโภคอาหารที่มีเกลือ และกินอาหารที่มีโปแตสเชี่ยมสูง เช่น กล้วย ผักโขม มันฝรั่ง</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">หลีกเลี่ยงเครื่องดื่มที่มีแอลกอฮอล์</span></span></li>
+	<li><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">เก็บรักษาและเตรียมอาหารโดยคำนึงถึงความปลอดภัยเป็นหลัก</span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">ข้อมูลจาก สาขารังสีรักษาและมะเร็งวิทยา ฝ่ายรังสีวิทยา โรงพยาบาลจุฬาลงกรณ์</span></span></p>

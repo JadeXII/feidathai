@@ -1,0 +1,59 @@
+<p><span style=\"font-size:20px\"><strong><span style=\"color:#0033ff\">Elimination of Cancer Stem-Like &ldquo;Side Population&rdquo; Cells in Hepatoma Cell Lines by Chinese Herbal Mixture &ldquo;Tian Xian Liquid&rdquo;&nbsp;</span></strong></span></p>
+
+<p style=\"text-align:center\"><img alt=\"\" src=\"/ckfinder/userfiles/images/test%20with%20cancer%20stem%20cell.jpg\" style=\"height:219px; width:420px\" /><br />
+&nbsp;</p>
+
+<p><span style=\"font-size:18px\"><span style=\"color:#0033ff\">หัวข้อการทดลอง :</span></span><span style=\"font-size:16px\"> ปฏิกิริยาในการยับยั้งเซลล์ต้นกำเนิดมะเร็งของยาน้ำเทียนเซียน</span><br />
+<span style=\"color:#0033ff\"><span style=\"font-size:18px\">จุดประสงค์การทดลอง :</span></span><span style=\"font-size:16px\"> &nbsp;เพื่อทดสอบผลการยับยั้งเซลล์ต้นกำเนิดมะเร็ง ในกรณีใช้ยาน้ำเทียนเซียนเพียงอย่างเดียว หรือใช้ยาต้านมะเร็งอื่นร่วมด้วย&nbsp;</span></p>
+
+<p><span style=\"color:#0033ff\"><span style=\"font-size:18px\">วิธีการทดลอง :</span></span><br />
+<span style=\"font-size:16px\">นำเซลล์มะเร็งตับมาแยกเอาเซลล์ต้นกำเนิดมะเร็งออก ทดสอบใช้ยาน้ำเทียนเซียนยับยั้งเซลล์ต้นกำเนิดมะเร็งทั้งภายในและภายนอกร่างกาย ทดสอบการยับยั้งเซลล์ต้นกำเนิดมะเร็งโดยใช้ยาน้ำเทียนเซียนร่วมกับยาเคมีบำบัดด็อกโซรูบิซิน (Doxorubicin) เป็นต้น</span></p>
+
+<p><span style=\"color:#0033ff\"><span style=\"font-size:18px\">ผลการทดลอง :</span></span><br />
+<span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;1)&nbsp; พบว่ายาน้ำเทียนเซียนให้ผลควบคุมการแสดงออกของยีนของเซลล์ต้นกำเนิด อาทิ (ABCG2, CD133, SMO, Gli) ควบคุมความสามารถในการสืบสายพันธุ์ ยับยั้งการสร้างรูปแบบ และความสามารถในการเจริญเติบโตของเซลล์ต้นกำเนิดมะเร็ง มีผลทำลายเซลล์ต้นกำเนิดมะเร็ง โดยผลของยาขึ้นอยู่กับปริมาณ<br />
+&nbsp; &nbsp; &nbsp;2)&nbsp;&nbsp;การใช้ยาน้ำเทียนเซียนร่วมกับยาเคมีบำบัด Doxorubicin ให้ผลทำลายเซลล์ต้นกำเนิดมะเร็งได้มากยิ่งขึ้น<br />
+&nbsp; &nbsp; &nbsp;3)&nbsp;&nbsp;การทำทดลองยังได้อธิบายอย่างชัดเจนว่า ยาน้ำเทียนเซียนนอกจากจะมีบทบาทช่วยรักษามะเร็งแบบบูรณาการแล้ว ยังมีประสิทธิภาพในการเป็นยารักษามุ่งเป้าต่อเซลล์ต้นกำเนิดมะเร็ง มีผลต่อการป้องกันการเกิดซ้ำของมะเร็งด้วย</span><br />
+&nbsp;</p>
+
+<p><span style=\"font-size:16px\"><span style=\"color:#0033ff\">หมายเหตุ :</span> ยาด็อกโซรูบิซินใช้เพื่อรักษาโรคมะเร็ง และเนื้องอก เช่น มะเร็งเต้านม มะเร็งรังไข่ มะเร็งกระเพาะปัสสาวะ มะเร็งปอดสาเหตุเกิดที่หลอดลม มะเร็งต่อมไทรอยด์ มะเร็งกระเพาะอาหาร มะเร็งเนื้อเยื่ออ่อนและกระดูก มะเร็งเซลล์ประสาทวัยอ่อน โรคมะเร็งปุ่มน้ำเหลืองชนิดร้ายแรง มะเร็งเม็ดเลือดขาวลิมโฟไซต์วัยอ่อนแบบเฉียบพลัน มะเร็งเม็ดเลือดขาวเซลล์ต้นของแกรนูโลไซต์วัยอ่อนแบบเฉียบพลัน&nbsp;</span></p>
+
+<p><br />
+<span style=\"color:#0033ff\"><span style=\"font-size:18px\">ดร.ล่าย จี๋ หมิง พูดถึงการทดลองเทียนเซียนในเซลล์ต้นกำเนิดมะเร็ง</span></span><br />
+<span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;สำหรับการทดลองเทียนเซียนในเซลล์ต้นกำเนิดมะเร็ง วิธีการของเราเรียกว่า Side population คือ เอากลุ่มเซลล์มะเร็งทั้งหลาย ได้แก่ เซลล์มะเร็งสมอง เต้านม ตับ ปอด มาแยกแยะเอาเซลล์ต้นกำเนิดมะเร็งออกมา พบว่า มีค่าของเซลล์ต้นกำเนิดมะเร็งเท่ากับ 1.74%, 2.14%, 1.69% และ 1.79% ตามลำดับ ลักษณะของเซลล์ต้นกำเนิดมะเร็งนั้น พบว่า มียีนที่มีลักษณะดื้อยาจำนวนมาก มีรูปแบบยีนที่สามารถส่งสัญญาณการแบ่งตัว และเกาะกันเป็นกลุ่มก้อน&nbsp;<br />
+<br />
+&nbsp; &nbsp; &nbsp;จากนั้นก็นำยาน้ำเทียนเซียนมาทดสอบว่า สามารถกำจัดเซลล์ต้นกำเนิดมะเร็งที่แยกออกมาได้หรือไม่ พบสามารถทำได้ อาทิ ในเซลล์ต้นกำเนิดมะเร็งตับ 3 ชนิด&nbsp;<br />
+&nbsp; &nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็งตับ ชนิดที่ 1 &nbsp;&nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็ง จาก &nbsp;1.33% &nbsp;เหลือ &nbsp;0.49%<br />
+&nbsp; &nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็งตับ ชนิดที่ 2 &nbsp;&nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็ง จาก &nbsp;1.55% &nbsp;เหลือ &nbsp;0.43%<br />
+&nbsp; &nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็งตับ ชนิดที่ 3 &nbsp;&nbsp; &nbsp;เซลล์ต้นกำเนิดมะเร็ง จาก &nbsp;1.69% &nbsp;เหลือ &nbsp;0.27%<br />
+&nbsp;&nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;โดยหลังจากทดสอบกับยาน้ำเทียนเซียนแล้ว จำนวนความหนาแน่นของเซลล์ต้นกำเนิดมะเร็งที่เกาะกันเป็นกลุ่มก้อนก็เบาบางลง เมื่อตรวจสอบดูยีนที่มีลักษณะดื้อยา และยีนที่สามารถส่งสัญญาณการแบ่งตัว พบว่าลักษณะดังกล่าวค่อยๆ หายไป<br />
+&nbsp; &nbsp; &nbsp;ในขณะเดียวกันเราพบว่ายาเคมีบำบัด อาทิ แท็กซอล (Taxol), วีพี 16 (VP16), ซีสพลาติน (Cisplatin), ด็อกโซรูบิซิน (Doxorubicin) ไม่สามารถขจัดเซลล์ต้นกำเนิดมะเร็งได้ แต่กลับทำให้เซลล์ต้นกำเนิดมะเร็งเพิ่มสูงขึ้น เป็นเหตุให้หลังทำการรักษามะเร็งจะกำเริบซ้ำได้<br />
+&nbsp; &nbsp; &nbsp;รังสีรักษาก็เช่นเดียวกัน ก็ทำให้เซลล์ต้นกำเนิดมะเร็งเพิ่มสูงขึ้น เมื่อเปรียบเทียบวิธีการรักษาต่างๆ กับการใช้ยาน้ำเทียนเซียนให้ผลดังภาพข้างล่าง</span></p>
+
+<p style=\"text-align:center\"><span style=\"font-size:16px\"><img src=\"/ckfinder/userfiles/images/image(3).png\" style=\"height:356px; width:791px\" /></span></p>
+
+<p><br />
+<span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ในการทดลองใช้ยาน้ำเทียนเซียน 3 ปริมาณ คือ 0.5 มก., 1 มก., และ 2 มก. พบว่าปริมาณยาน้ำเทียนเซียนที่มากขึ้น ช่วยยับยั้งเซลล์ต้นกำเนิดมะเร็ง (แถบสีดำ) ลดลงมากขึ้น และเซลล์มะเร็งอื่น (แถบสีขาว) ก็ลดจำนวนลงตามปริมาณที่ใช้<br />
+&nbsp; &nbsp; &nbsp;ทีมวิจัย ยังได้ทำการทดลองในหนูทดลอง พบว่าหนู 5 ตัวที่ให้ยาน้ำเทียนเซียน มีเพียง 1 ตัว ที่ก้อนมะเร็งโตขึ้น ในขณะที่หนูทดลองที่ไม่ให้ยาน้ำเทียนเซียน หนู 5 ตัว ล้วนมีก้อนมะเร็งโตขึ้นทั้งหมด</span></p>
+
+<p><span style=\"color:#0033ff\"><span style=\"font-size:18px\">ผู้ทำการทดลอง :</span></span><br />
+<span style=\"font-size:14px\">1.&nbsp; Gi-Ming Lai&nbsp; |&nbsp; Cancer Center, Wan Fang Hospital, Taipei, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Center of Excellence for Cancer Research, Taipei, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Department of International Medicine, Taipei Medical University, Taiwan<br />
+&nbsp; &nbsp; &nbsp;National Institute of Cancer Research, National Health Research Institutes, Taiwan<br />
+2.&nbsp; Chih-Jung Yao&nbsp; |&nbsp; Cancer Center, Wan Fang Hospital, Taipei, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Center of Excellence for Cancer Research, Taipei, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Department of International Medicine, Taipei Medical University, Taiwan<br />
+3.&nbsp; Chi-Tai Yeh&nbsp; |&nbsp; Center of Excellence for Cancer Research, Taipei, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Department of Surgery, Shuang Ho Hospital, Taipei Medical University, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Graduate Institute of Chinical Medicine, Taipei Medical University, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Graduate Institute of Medical Science, National Defense Medical Center, Taiwan<br />
+4.&nbsp; Shuang-En Chung&nbsp; |&nbsp; National Institute of Cancer Research, National Health Research Institutes, Taiwan<br />
+5.&nbsp; Chuang-Feng Yeh&nbsp; |&nbsp; National Institute of Cancer Research, National Health Research Institutes, Taiwan<br />
+6.&nbsp; Wan-Ju Chao&nbsp; |&nbsp; National Institute of Cancer Research, National Health Research Institutes, Taiwan<br />
+7.&nbsp; Tung-Yuan Lai&nbsp; |&nbsp; Graduate Institute of Pharmacognosy, College of Pharmacy Taipei Medical University, Taiwan<br />
+&nbsp; &nbsp; &nbsp;Department of Traditional Medicine, Wan Fang Hospital, Taipei, Taiwan</span><br />
+<br />
+<span style=\"font-size:16px\"><span style=\"color:#0033ff\">Reference</span></span><br />
+<span style=\"font-size:14px\">Evidence-Based Complementary and Alternative Medicine United Kingdom. Volume 2012, Article ID 617085. 10 pages doi : 10.115/2012/617085&nbsp;<br />
+*The paper had accepted and registered on U.S. National Center for Biotechnology Information, National Library of Medicine</span></p>

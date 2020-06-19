@@ -1,0 +1,12 @@
+<div class=\"content-detail-text\" style=\"DISPLAY: block; PADDING-BOTTOM: 15px; WORD-SPACING: 0px; FONT: 15px/19px Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; TEXT-TRANSFORM: none; COLOR: rgb(58,58,58); TEXT-INDENT: 0px; PADDING-TOP: 15px; WHITE-SPACE: normal; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left; WIDOWS: 2; ORPHANS: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px\" align=\"right\"><font size=\"4\"><strong>รายละเอียดการติดต่อ<br />
+<br />
+</strong></font>
+<p id=\"h_title\" style=\"FONT-SIZE: 25px; MARGIN: 0px; COLOR: rgb(36,146,143); FONT-FAMILY: Arial, Tahoma, \'\'\'\'microsoft sans serif\'\'\'\'; TEXT-ALIGN: left\" align=\"left\"><font color=\"#000000\" size=\"4\"></font></p>
+<img height=\"93\" alt=\"\" width=\"130\" src=\"/UserFiles/Image/img_hospital_tn(2).jpg\" /><br />
+<br />
+<font face=\"Arial\" color=\"#0099cc\" size=\"4\"><strong><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">ศูนย์มะเร็ง สุราษฎร์ธานี</font></font><br />
+</font><br />
+</font></strong></font><strong>ที่อยู่ :</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">431 ถนนสุราษฎร์ธานี-นาสาร หมู่ที่ 5 ตำบลขุนทะเล อำเภอเมือง จ.สุราษฎร์ธานี 84100<br />
+</font></font></font></font></font></font><strong>โทรศัพท์:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">077-211625-9 <br />
+</font></font></font></font></font></font></font><strong>โทรสาร:</strong> <font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\"><font face=\"Arial\">077-211368</font><br />
+</font></font></font></font><strong>อีเมล์&nbsp;: <font face=\"Arial\">cancer@suratcancer.go.th</font></strong></div>

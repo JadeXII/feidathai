@@ -1,0 +1,20 @@
+<table style=\"WIDTH: 420px; BORDER-COLLAPSE: collapse\" bordercolor=\"#000000\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\">
+    <tbody>
+        <tr valign=\"top\">
+            <td colspan=\"2\">
+            <div align=\"left\"><a title=\"\" target=\"_blank\" href=\"http://www.feidathai.com/documents/m/m005.jpg\"><img class="img-responsive" title=\"\" height=\"117\" alt=\"\" width=\"140\" align=\"left\" border=\"0\" src=\"http://www.feidathai.com/images/m/m05.jpg\" /></a>&nbsp;</div>
+            <div align=\"left\">&nbsp;</div>
+            <div align=\"left\">&nbsp;</div>
+            <div align=\"left\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><font color=\"#0000cc\" size=\"2\">สุรีย์&nbsp; แซ่กอ</font></strong></div>
+            </td>
+        </tr>
+        <tr valign=\"top\">
+            <td colspan=\"2\">
+            <div><strong><font color=\"#0000cc\" size=\"3\"></font></strong>&nbsp;</div>
+            <div><strong><font color=\"#0000cc\" size=\"3\">มะเร็งรักษายิ่งเร็ว ยิ่งดี</font></strong><strong></strong></div>
+            <p align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size=\"2\">ด้วยความอาย ฉันทิ้งให้ตัวเองเป็นมะเร็งถึง 7 ปี จากก้อนเล็ก กลายเป็นก้อนใหญ่และลุกลาม หากรักษาตั้งแต่ต้นคงไม่ต้องทุกข์ทรมานถึงเพียงนี้ ฉันจึงอยากบอกทุกท่านว่า ถ้ารู้ว่าเป็นมะเร็งต้องรีบรักษาแต่เนิ่นๆ อย่ามัวอายจนเกือบจะสายเกินแก้ ยังโชคดีที่เจอหมอใจดีและเก่ง และมียาดีที่ช่วยไว้ได้ </font></p>
+            <div align=\"justify\"><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ดิฉันขอแนะนำทุกท่านว่า โรคมะเร็งเป็นโรคที่รักษาได้ รักษายิ่งไวยิ่งดี และรักษาให้ถูกวิธี ทำใจให้สบาย ให้กำลังใจตัวเองไม่ท้อแท้ อาการก็จะดีขึ้นได้เอง ขอให้ทุกท่านโชคดี</font></div>
+            </td>
+        </tr>
+    </tbody>
+</table>

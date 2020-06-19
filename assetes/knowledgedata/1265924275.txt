@@ -1,0 +1,31 @@
+<p>
+<table style=\"WIDTH: 576px; HEIGHT: 168px\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"576\" align=\"center\">
+    <tbody>
+        <tr>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" height=\"162\" valign=\"top\" width=\"162\">
+            <p align=\"center\"><img class="img-responsive" border=\"0\" alt=\"\" align=\"left\" width=\"160\" height=\"120\" src=\"/UserFiles/Image/m11.png\" /><br />
+            <br />
+            <font size=\"2\" face=\"Arial\"><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <font color=\"#000000\"><strong><font face=\"Arial\">จิตินาถ เหตานุรักษ์<br />
+            <font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">ผู้ป่วยมะเร็งเต้านม</font></font></font></font></strong></font></font><span><strong><font size=\"3\"><font size=\"2\"><font color=\"#0099cc\" face=\"Arial\">&nbsp;</font></font></font></strong></span></p>
+            <p align=\"center\">&nbsp;</p>
+            </td>
+            <td style=\"MARGIN: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: rgb(102,102,102); FONT-SIZE: 11px\" valign=\"top\" colspan=\"2\">
+            <p align=\"left\"><font face=\"Arial\">&nbsp;</font><font face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>&nbsp;<font color=\"#00ccff\">&nbsp;<span class=\"Apple-converted-space\">&nbsp;<br />
+            </span></font><font color=\"#339966\"><font color=\"#333399\"><font color=\"#00ccff\"><font color=\"#0099cc\"><font color=\"#0099cc\" size=\"2\"><font color=\"#0099cc\" size=\"2\"><strong><font face=\"Arial\">จงคิดในแง่บวก</font></strong></font></font></font></font></font></font></font></p>
+            <p align=\"left\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=\"Arial\">&nbsp;<font color=\"#000000\" size=\"2\">สำหรับผู้ที่ต้องเผชิญกับโรคมะเร็ง อยากให้กำลังใจทุกคนให้ &ldquo;ต่อสู้&rdquo; รักษาตัวเอง อย่าท้อ&nbsp; และเชื่อมั่นว่าแพทย์สามารถรักษาทุกคนให้หายจากโรคได้</font></font></p>
+            <p><font color=\"#000000\" size=\"2\" face=\"Arial\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; สิ่งสำคัญ คือ การทำจิตใจตัวเอง การทำสมาธิให้จิตสงบนิ่ง สวดมนต์ ไหว้พระ ทุกเช้าตื่นขึ้นมาใส่บาตร และคิดแต่แง่บวกให้มากขึ้น จะช่วยให้ร่างกายฟื้นตัวจากการรักษาได้ดีขึ้น</font></p>
+            <p align=\"left\">&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

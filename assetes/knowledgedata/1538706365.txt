@@ -1,0 +1,23 @@
+<p style=\"text-align:center\"><img alt=\"\" src=\"/ckfinder/userfiles/images/%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99!%20%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%A215-35%20%E0%B8%9B%E0%B8%B5%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%20%E2%80%9C%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B0%E2%80%9D.jpg\" style=\"height:292px; width:560px\" /></p>
+
+<p style=\"text-align:center\">&nbsp;</p>
+
+<div class=\"entry-excerpt\" style=\"-webkit-text-stroke-width:0px; background-color:rgba(199, 199, 199, 0.2); box-sizing:border-box; color:#333333; font-family:Sukhumvit; font-size:1.3em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:700; letter-spacing:normal; line-height:1.5em; orphans:2; padding:15px 20px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;สถาบันมะเร็งแห่งชาติ เตือนผู้ชายวัย 15 &ndash; 35 ปี กลุ่มเสี่ยง โรคมะเร็งอัณฑะ แนะตรวจลูกอัณฑะ ด้วยตัวเองเป็นประจำ หลังอาบน้ำ หากพบความผิดปกติควรรีบปรึกษาแพทย์</span></div>
+
+<div class=\"entry-content\" style=\"-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#333333; font-family:mn_chiangsaen; font-size:1.7em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:1.3em; margin-top:30px; orphans:2; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px\">
+<div class=\"code-block code-block-4\" style=\"box-sizing:border-box; clear:both; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px\">&nbsp;</div>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;นายแพทย์ณรงค์ อภิกุลวณิช รองอธิบดีกรมการแพทย์และโฆษกกรมการแพทย์ กล่าวว่า โรคมะเร็งอัณฑะเป็นโรคมะเร็งที่พบได้น้อย และไม่ติด 1 ใน 10 ของมะเร็งที่พบบ่อยในชายไทย แต่ละปีมีผู้ป่วยราว 0.7 รายต่อชายไทย 100,000 คน หรือคิดเป็น 0.4 % ของมะเร็งทั้งหมดในเพศชาย โรคมะเร็งอัณฑะมักพบ ในช่วงอายุ 15 &ndash; 35 ปี แต่ก็มีโอกาสพบได้ในทุกอายุทั้งในเด็กจนถึงผู้สูงอายุเช่นกัน</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ปัจจุบันยังไม่ทราบสาเหตุที่ชัดเจนของการเกิดโรค แต่สันนิษฐานว่าเป็นผลมาจากปัจจัยทางพันธุกรรม โดยเฉพาะประวัติการมีคนในครอบครัว เช่น พ่อ หรือพี่ชายเป็นโรคมะเร็งอัณฑะมาก่อน นอกจากนี้ผู้ที่มีอัณฑะค้างอยู่ในอุ้งเชิงกรานไม่เคลื่อนลงมาอยู่ในถุงอัณฑะจะมีความเสี่ยงสูงกว่าผู้ชายปกติอีกด้วย</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;นายแพทย์วีรวุฒิ อิ่มสำราญ ผู้อำนวยการสถาบันมะเร็งแห่งชาติ กล่าวเพิ่มเติมว่า อาการของโรคมะเร็งอัณฑะที่พบบ่อย คือ คลำลูกอัณฑะเจอเป็นก้อนแข็งและไม่เจ็บ ซึ่งแตกต่างจากภาวะลูกอัณฑะอักเสบเฉียบพลันที่พบว่า มีอาการลูกอัณฑะบวมและมีอาการเจ็บร่วมด้วย บางครั้งอาจมีอาการหน่วง ๆ ที่ลูกอัณฑะหรือมีน้ำในถุงอัณฑะเกิดขึ้นเฉียบพลัน</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ดังนั้นการตรวจลูกอัณฑะด้วยตัวเองเป็นประจำ โดยแนะนำให้ตรวจหลังอาบน้ำ ให้ตรวจลูกอัณฑะไล่ไปทีละข้าง โดยใช้นิ้วหัวแม่มือและนิ้วชี้ค่อยๆ คลำเลื่อนไปเรื่อยๆ คลำดูว่ามีก้อนหรือมีอาการเจ็บร่วมด้วยหรือไม่ บริเวณด้านหลังของลูกอัณฑะจะคลำได้ส่วนหยุ่นๆ ขนาดเล็กซึ่งถือว่าเป็นปกติ ถ้าคลำได้ก้อนหรือไม่แน่ใจส่วนใดผิดปกติหรือไม่ ควรรีบปรึกษาแพทย์ ความผิดปกตินั้นอาจเป็นถุงน้ำหรือเส้นเลือดขอดบริเวณลูกอัณฑะซึ่งพบได้บ่อยกว่าเนื้องอกหรือมะเร็งอัณฑะ</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">&nbsp; &nbsp; &nbsp;ในกรณีที่เป็นมากมักมีการกระจายไปที่ต่อมน้ำเหลืองในอุ้งเชิงกรานหรืออวัยวะในช่องท้องหรือปอด การรักษาต้องตัดลูกอัณฑะทิ้งและเลาะตัดต่อมน้ำเหลืองออกร่วมด้วย ถ้าเป็นมากกว่านั้นอาจให้ยาเคมีบำบัดหรือการฉายรังสีร่วมด้วย ควรมีการตรวจลูกอัณฑะอย่างสม่ำเสมอ เพราะหากเจอความผิดปกติของลูกอัณฑะจะได้วินิจฉัยโรคและให้การรักษาได้อย่างทันท่วงที</span></p>
+
+<p style=\"margin-left:0px; margin-right:0px\">&nbsp;</p>
+
+<p style=\"margin-left:0px; margin-right:0px\"><span style=\"font-size:16px\">ข้อมูลข่าวจาก <a href=\"https://www.springnews.co.th/view/357895\">Spring News</a></span></p>
+</div>
